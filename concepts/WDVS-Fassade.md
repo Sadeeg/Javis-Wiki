@@ -106,5 +106,7 @@ Ein Wärmedämmverbundsystem (WDVS) besteht aus (von innen nach außen):
 ### Related Pages
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
+- [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]
+- [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 <!-- openclaw:wiki:related:end -->

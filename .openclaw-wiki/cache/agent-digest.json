@@ -1,7 +1,7 @@
 {
   "pageCounts": {
     "entity": 4,
-    "concept": 12,
+    "concept": 14,
     "source": 23,
     "synthesis": 22,
     "report": 10
@@ -126,6 +126,27 @@
       "topClaims": []
     },
     {
+      "id": "fussbodenheizung-nachruesten",
+      "title": "Fußbodenheizung nachrüsten – Systeme & Kosten",
+      "kind": "concept",
+      "path": "concepts/Fussbodenheizung-nachruesten.md",
+      "aliases": [],
+      "sourceIds": [
+        "selbst-de"
+      ],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "concept",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T12:52:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "fussbodenheizung",
       "title": "Fussbodenheizung",
       "kind": "concept",
@@ -227,6 +248,27 @@
       "pageType": "concept",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "waermepumpe-altbau",
+      "title": "Wärmepumpe im Altbau – Planung & Umsetzung",
+      "kind": "concept",
+      "path": "concepts/Waermepumpe-im-Altbau.md",
+      "aliases": [],
+      "sourceIds": [
+        "selbst-de"
+      ],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "concept",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T12:50:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

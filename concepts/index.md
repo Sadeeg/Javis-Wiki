@@ -16,10 +16,12 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[concepts/Fussbodenheizung|Fussbodenheizung]]
+- [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
 - [[concepts/Lehmputz|Lehmputz]]
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
+- [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 - [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:concepts:index:end -->

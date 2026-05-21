@@ -109,6 +109,8 @@ Siehe: [[syntheses/elektrik-EG-Planung]]
 <!-- openclaw:wiki:related:start -->
 ### Related Pages
 
+- [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]
+- [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 <!-- openclaw:wiki:related:end -->

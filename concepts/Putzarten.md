@@ -97,5 +97,7 @@ Bei 190m² Wandfläche: **3.800–6.650€** Material
 ### Related Pages
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
+- [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
+- [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 <!-- openclaw:wiki:related:end -->
