@@ -42,16 +42,38 @@ sourceIds: [openproject-api]
 
 ## Entscheidung Fassade
 
-**Empfehlung: Cedral (Faserzement)**
-- Preis: 60–120 €/m²
-- Modern mit leichter Struktur/Schatten
-- Kaum Geräusch bei Regen
-- Großformat-Platten → wenig Fugen
+**Status: OFFEN** ⚠️
+- Fassade ist nächste große Priorität
+- Cedral (Faserzement) als Favorit: 60–120 €/m²
 
 **Offene Fragen:**
-- [ ] Welche Farbe?
+- [ ] Welche Farbe/Optik?
 - [ ] Komplette Fassade oder nur eine Seite?
 - [ ] Auflagen im Wohngebiet?
+
+## Gestrichene Maßnahmen (Mai 2026)
+
+Folgende geplante Maßnahmen wurden **gestrichen/zurückgestellt** (zu Gunsten Fassade):
+
+| Maßnahme | Status | Begründung |
+|----------|--------|------------|
+| Dachdämmung | ❌ Gestrichen | — |
+| Kellerdämmung | ❌ Gestrichen | — |
+| Solaranlage (8-10kWp) | ❌ Gestrichen | — |
+| Wärmepumpe | ⏳ Offen | Abhängig von Budget |
+
+**Fokus:** Fassade → Elektrik → Innenausbau (Lehmputz, Böden)
+
+## Geplante Eigenleistungen (Stand Mai 2026)
+
+| Bereich | Stunden | Material |
+|---------|---------|----------|
+| Abrissarbeiten | 145h | — |
+| Rollputz Innenputz | 85h | ~660€ |
+| Elektrik | ~180h | — |
+| Fassade (VHF) | TBD | 11.400–22.800€ (geschätzt) |
+| **Summe Eigenleistung** | **~410h** | |
+| **Material (Sanierung)** | | **~660€ + Fassade** |
 
 ## Nächste Blocker
 
