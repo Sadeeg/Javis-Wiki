@@ -12,4 +12,8 @@ sourceIds: [baustelle-prinzipien]
 ### Sources
 
 - [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
+
+### Referenced By
+
+- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 <!-- openclaw:wiki:related:end -->

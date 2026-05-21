@@ -11,12 +11,12 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 67
+- Total pages: 68
 - Claims: 0
 - Sources: 23
 - Entities: 4
 - Concepts: 9
-- Syntheses: 21
+- Syntheses: 22
 - Reports: 10
 
 ### Sources
@@ -73,6 +73,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]
 - [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]
+- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]
 - [[syntheses/kw15-2026|KW15-2026 (Backup)]]
