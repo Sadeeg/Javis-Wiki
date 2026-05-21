@@ -12,4 +12,8 @@ sourceIds: [elektrik-eg-planung]
 ### Sources
 
 - [[syntheses/elektrik-EG-Planung|Elektrik EG-Planung – KNX]]
+
+### Referenced By
+
+- [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 <!-- openclaw:wiki:related:end -->

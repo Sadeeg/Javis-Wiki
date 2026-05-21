@@ -11,11 +11,11 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 68
+- Total pages: 71
 - Claims: 0
 - Sources: 23
 - Entities: 4
-- Concepts: 9
+- Concepts: 12
 - Syntheses: 22
 - Reports: 10
 
@@ -54,11 +54,14 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
 - [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]
 - [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
+- [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[concepts/Fussbodenheizung|Fussbodenheizung]]
 - [[concepts/Lehmputz|Lehmputz]]
+- [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
+- [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 - [[concepts/Zeitplanung|Zeitplanung]]
 
 ### Syntheses

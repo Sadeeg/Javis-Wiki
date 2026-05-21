@@ -1,7 +1,7 @@
 {
   "pageCounts": {
     "entity": 4,
-    "concept": 9,
+    "concept": 12,
     "source": 23,
     "synthesis": 22,
     "report": 10
@@ -84,6 +84,27 @@
       "topClaims": []
     },
     {
+      "id": "elektro-grundwissen",
+      "title": "Elektro-Installation – Grundwissen für Heimwerker",
+      "kind": "concept",
+      "path": "concepts/Elektro-Grundwissen.md",
+      "aliases": [],
+      "sourceIds": [
+        "selbst-de"
+      ],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "concept",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T12:45:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "fassade-material-vergleich",
       "title": "Fassade — Material Vergleich",
       "kind": "concept",
@@ -147,6 +168,27 @@
       "topClaims": []
     },
     {
+      "id": "putzarten",
+      "title": "Putzarten – Überblick und Eigenschaften",
+      "kind": "concept",
+      "path": "concepts/Putzarten.md",
+      "aliases": [],
+      "sourceIds": [
+        "selbst-de"
+      ],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "concept",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T12:45:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "vhf-fassade",
       "title": "VHF-Fassade",
       "kind": "concept",
@@ -185,6 +227,27 @@
       "pageType": "concept",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "wdvs-fassade",
+      "title": "WDVS Fassade – Wärmedämmverbundsystem",
+      "kind": "concept",
+      "path": "concepts/WDVS-Fassade.md",
+      "aliases": [],
+      "sourceIds": [
+        "selbst-de"
+      ],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "concept",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T12:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

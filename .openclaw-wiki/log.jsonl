@@ -20,3 +20,5 @@
 {"type":"lint","timestamp":"2026-05-21T10:18:50.168Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-05-21T10:28:25.486Z","details":{"pageCounts":{"entity":4,"concept":9,"source":23,"synthesis":22,"report":10},"updatedFiles":["concepts/baustelle-prinzipien.md","syntheses/kersbach-status.md",".openclaw-wiki/cache/agent-digest.json","index.md","syntheses/index.md"]}}
 {"type":"lint","timestamp":"2026-05-21T10:28:31.688Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-05-21T12:45:09.823Z","details":{"pageCounts":{"entity":4,"concept":12,"source":23,"synthesis":22,"report":10},"updatedFiles":["syntheses/elektrik-EG-Planung.md","concepts/Elektro-Grundwissen.md","concepts/Putzarten.md","concepts/WDVS-Fassade.md",".openclaw-wiki/cache/agent-digest.json","index.md","concepts/index.md"]}}
+{"type":"lint","timestamp":"2026-05-21T12:45:16.577Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
