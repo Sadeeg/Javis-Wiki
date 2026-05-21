@@ -16,6 +16,7 @@
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[syntheses/kw15-2026|KW 15 – 06.04. – 12.04.2026]]
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]
+- [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]
 - [[syntheses/timesheet-2025-2026|Timesheet BGBau – Stundenzettel OpenProject]]
 - [[syntheses/trockenbau-praxis|Trockenbau – Praxis-Checkliste]]

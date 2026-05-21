@@ -3,7 +3,7 @@
     "entity": 3,
     "concept": 9,
     "source": 23,
-    "synthesis": 20,
+    "synthesis": 21,
     "report": 9
   },
   "claimCount": 0,
@@ -388,7 +388,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-05-20T23:01:42.982Z",
+      "lastTouchedAt": "2026-05-21T07:32:56.803Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -617,7 +617,7 @@
       "topClaims": []
     },
     {
-      "title": "HEARTBEAT.md",
+      "title": "HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain",
       "kind": "source",
       "path": "sources/HEARTBEAT.md",
       "aliases": [],
@@ -972,6 +972,22 @@
       "title": "KW 15 – 06.04. – 12.04.2026",
       "kind": "synthesis",
       "path": "syntheses/KW15-2026.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "freshnessLevel": "unknown",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "title": "MEMORY.md – Langzeitgedächtnis Javis",
+      "kind": "synthesis",
+      "path": "syntheses/MEMORY-import.md",
       "aliases": [],
       "sourceIds": [],
       "questions": [],

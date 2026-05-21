@@ -17,7 +17,7 @@
 - [[sources/FEATURE_1_AuthWorkflow|FEATURE 1: Authentifizierung & Benutzer-Verwaltung]]
 - [[sources/FEATURE_2_BildWorkflow|FEATURE 2: Bild-Workflow]]
 - [[sources/Haushaltsplaner|Haushaltsplaner - App Idee]]
-- [[sources/HEARTBEAT|HEARTBEAT.md]]
+- [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]

@@ -3,12 +3,12 @@
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 64
+- Total pages: 65
 - Claims: 0
 - Sources: 23
 - Entities: 3
 - Concepts: 9
-- Syntheses: 20
+- Syntheses: 21
 - Reports: 9
 
 ### Sources
@@ -27,7 +27,7 @@
 - [[sources/FEATURE_1_AuthWorkflow|FEATURE 1: Authentifizierung & Benutzer-Verwaltung]]
 - [[sources/FEATURE_2_BildWorkflow|FEATURE 2: Bild-Workflow]]
 - [[sources/Haushaltsplaner|Haushaltsplaner - App Idee]]
-- [[sources/HEARTBEAT|HEARTBEAT.md]]
+- [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
@@ -67,6 +67,7 @@
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[syntheses/kw15-2026|KW 15 – 06.04. – 12.04.2026]]
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]
+- [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]
 - [[syntheses/timesheet-2025-2026|Timesheet BGBau – Stundenzettel OpenProject]]
 - [[syntheses/trockenbau-praxis|Trockenbau – Praxis-Checkliste]]

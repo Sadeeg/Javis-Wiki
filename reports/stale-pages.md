@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-05-20T23:01:42.982Z
+updatedAt: 2026-05-21T07:32:56.803Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 55
+- Stale pages: 56
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: missing updatedAt
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: missing updatedAt
@@ -40,7 +40,7 @@ updatedAt: 2026-05-20T23:01:42.982Z
 - [[concepts/Fussbodenheizung|Fussbodenheizung]]: missing updatedAt
 - [[syntheses/grundriss-1971|Grundriss 1971 – Tekturplan Typ R 630]]: missing updatedAt
 - [[sources/Haushaltsplaner|Haushaltsplaner - App Idee]]: missing updatedAt
-- [[sources/HEARTBEAT|HEARTBEAT.md]]: missing updatedAt
+- [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]: missing updatedAt
 - [[syntheses/heizlast-berechnung|Heizlast-Berechnung – Wohngebäude Deeg]]: missing updatedAt
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]: missing updatedAt
 - [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]: missing updatedAt
@@ -52,6 +52,7 @@ updatedAt: 2026-05-20T23:01:42.982Z
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]: missing updatedAt
 - [[concepts/Lehmputz|Lehmputz]]: missing updatedAt
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]: missing updatedAt
+- [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]: missing updatedAt
 - [[entities/obergeschoss|Obergeschoss – Kersbach]]: missing updatedAt
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]: missing updatedAt
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]: missing updatedAt

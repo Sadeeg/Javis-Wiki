@@ -1,6 +1,4 @@
-# HEARTBEAT.md
-
-# OpenClaw Cron Jobs für Second Brain
+# HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain
 
 ## Syntax
 Jede Zeile: `minute hour day month weekday task`
@@ -23,6 +21,12 @@ Jeden **Sonntag um 20:00 MESZ**:
 - Today's KW und offene Aufgaben
 - 2-3 relevante Wiki-Einträge
 - Per Telegram senden
+
+## Auto-Wiki-Push (täglich um 22:00 MESZ) ✅ Aktiviert
+```
+0 22 * * * cd ~/.openclaw/wiki/main && git add -A && git commit -m "auto: $(date +\%Y-\%m-\%d)" && git push
+```
+Automatischer Git-Push jeden Abend um 22:00 MESZ.
 
 ## Auto-Capture (on-demand)
 Wenn Sascha "merk dir" / "capture" sagt → automatisch:
