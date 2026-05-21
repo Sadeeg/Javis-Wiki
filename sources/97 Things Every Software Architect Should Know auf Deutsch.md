@@ -1934,5 +1934,8 @@ von Bill de hÓra
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
+- [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]
 <!-- openclaw:wiki:related:end -->

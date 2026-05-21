@@ -299,5 +299,7 @@ dt = datetime.strptime(f"{date_part}_{time_part}", "%d-%m-%y_%H-%M-%S")
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/bautagebuch-2025-2026|Bautagebuch – Eigenleistungen 2025-2026]]
 <!-- openclaw:wiki:related:end -->

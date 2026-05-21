@@ -52,5 +52,7 @@ Wenn Sascha "merk dir" / "capture" sagt → automatisch:
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]
 <!-- openclaw:wiki:related:end -->

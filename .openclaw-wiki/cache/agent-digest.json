@@ -26,7 +26,9 @@
       "kind": "concept",
       "path": "concepts/80-20 Leitfragen Frontend.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "97-things-every-software-architect-should-know-auf-deutsch"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -45,7 +47,9 @@
       "kind": "concept",
       "path": "concepts/80-20 Leitfragen.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "97-things-every-software-architect-should-know-auf-deutsch"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -64,7 +68,9 @@
       "kind": "concept",
       "path": "concepts/baustelle-prinzipien.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "baustelle-prinzipien"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -83,7 +89,9 @@
       "kind": "concept",
       "path": "concepts/Fassade-Material-Vergleich.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "fassade-material-vergleich"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -102,7 +110,9 @@
       "kind": "concept",
       "path": "concepts/Fussbodenheizung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "fussbodenheizung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -121,7 +131,9 @@
       "kind": "concept",
       "path": "concepts/Lehmputz.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "lehmputz"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -140,7 +152,9 @@
       "kind": "concept",
       "path": "concepts/VHF-Fassade.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "vhf-fassade"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -159,7 +173,9 @@
       "kind": "concept",
       "path": "concepts/VHF-Übersicht.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "vhf-ubersicht"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -178,7 +194,9 @@
       "kind": "concept",
       "path": "concepts/Zeitplanung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "zeitplanung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -197,7 +215,9 @@
       "kind": "entity",
       "path": "entities/baustelle-kersbach.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "baustelle-kersbach"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -216,7 +236,9 @@
       "kind": "entity",
       "path": "entities/erdgeschoss.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "erdgeschoss"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -235,7 +257,9 @@
       "kind": "entity",
       "path": "entities/keller.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "keller"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -254,7 +278,9 @@
       "kind": "entity",
       "path": "entities/obergeschoss.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "obergeschoss"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -899,7 +925,9 @@
       "kind": "synthesis",
       "path": "syntheses/baustelle-wiki-index.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "baustelle-wiki-index"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -918,7 +946,9 @@
       "kind": "synthesis",
       "path": "syntheses/bautagebuch-2025-2026.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "bautagebuch-workflow"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -937,7 +967,9 @@
       "kind": "synthesis",
       "path": "syntheses/elektrik-1OG-leitungen.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "elektrik-1og-leitungen"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -956,7 +988,9 @@
       "kind": "synthesis",
       "path": "syntheses/elektrik-DG-leitungen.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "elektrik-dg-leitungen"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -975,7 +1009,9 @@
       "kind": "synthesis",
       "path": "syntheses/elektrik-EG-leitungen.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "elektrik-eg-leitungen"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -994,7 +1030,9 @@
       "kind": "synthesis",
       "path": "syntheses/elektrik-EG-Planung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "elektrik-eg-planung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1013,7 +1051,9 @@
       "kind": "synthesis",
       "path": "syntheses/energieausweis.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "energieausweis"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1032,7 +1072,9 @@
       "kind": "synthesis",
       "path": "syntheses/expose-kerbach.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "expose-kerbach"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1051,7 +1093,9 @@
       "kind": "synthesis",
       "path": "syntheses/grundriss-1971.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "grundriss-1971"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1070,7 +1114,9 @@
       "kind": "synthesis",
       "path": "syntheses/heizlast-berechnung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "heizlast-berechnung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1089,7 +1135,9 @@
       "kind": "synthesis",
       "path": "syntheses/kassenbons-2025.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "kassenbons-2025"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1108,7 +1156,9 @@
       "kind": "synthesis",
       "path": "syntheses/kosten-uebersicht.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "kosten-uebersicht"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1127,7 +1177,9 @@
       "kind": "synthesis",
       "path": "syntheses/kw15-2026.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "kw15-2026"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1146,7 +1198,9 @@
       "kind": "synthesis",
       "path": "syntheses/KW15-2026.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "kw15-2026"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1165,7 +1219,9 @@
       "kind": "synthesis",
       "path": "syntheses/MEMORY-import.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "heartbeat"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1184,7 +1240,9 @@
       "kind": "synthesis",
       "path": "syntheses/sanierungsaufstellung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "sanierungsaufstellung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1203,7 +1261,9 @@
       "kind": "synthesis",
       "path": "syntheses/timesheet-2025-2026.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "timesheet-2025-2026"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1222,7 +1282,9 @@
       "kind": "synthesis",
       "path": "syntheses/trockenbau-praxis.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "trockenbau-praxis"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1241,7 +1303,9 @@
       "kind": "synthesis",
       "path": "syntheses/wandflaechenberechnung-2026.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "wandflaechenberechnung-2026"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1260,7 +1324,9 @@
       "kind": "synthesis",
       "path": "syntheses/wohnflaechenberechnung.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "wohnflaechenberechnung"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -1279,7 +1345,9 @@
       "kind": "synthesis",
       "path": "syntheses/zeitplan-detail.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "zeitplan-detail"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
