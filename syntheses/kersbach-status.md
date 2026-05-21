@@ -42,14 +42,20 @@ sourceIds: [openproject-api]
 
 ## Entscheidung Fassade
 
-**Status: OFFEN** ⚠️
-- Fassade ist nächste große Priorität
-- Cedral (Faserzement) als Favorit: 60–120 €/m²
+**Status: EINGESCHRÄNKT** ⚠️
+- Aufgrund **Bebauungsplan** ist nur **Putz mit Wärmedämmverbundsystem (WDVS)** erlaubt
+- Vorgehängte hinterlüftete Fassade (VHF/Cedral) **nicht möglich**
+
+**Konsequenz:**
+- Cedral/VHF gestrichen → stattdessen WDVS mit Putz
+- Dämmung: 15-20cm Steinwolle oder XPS
+- Optik: Glatter oder strukturierter Putz
 
 **Offene Fragen:**
-- [ ] Welche Farbe/Optik?
-- [ ] Komplette Fassade oder nur eine Seite?
-- [ ] Auflagen im Wohngebiet?
+- [ ] Welcher Dämmstoff (XPS, Steinwolle)?
+- [ ] Welche Putz-Struktur (Rollputz, Spritzputz)?
+- [ ] Welche Farbe?
+- [ ] Kosten für WDVS (ca. 150-250€/m² inkl. Dämmung)?
 
 ## Gestrichene Maßnahmen (Mai 2026)
 
