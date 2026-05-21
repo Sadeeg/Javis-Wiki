@@ -1,3 +1,11 @@
+---
+id: 0---tiefengrund-schlafzimmer-und-alex-buero
+pageType: source
+title: 0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen
 
 **Erstellt:** 2026-05-10

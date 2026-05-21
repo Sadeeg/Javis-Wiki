@@ -1,3 +1,11 @@
+---
+id: elektrik-1og-leitungen
+pageType: synthesis
+title: Elektrik 1.OG – Leitungsplan
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Elektrik 1.OG – Leitungsplan
 
 > Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/planung/Elektrik/1OG-Haus.drawio]]

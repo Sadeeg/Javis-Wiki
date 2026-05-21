@@ -1,3 +1,11 @@
+---
+id: feature_1_authworkflow
+pageType: source
+title: "FEATURE 1: Authentifizierung & Benutzer-Verwaltung"
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # FEATURE 1: Authentifizierung & Benutzer-Verwaltung
 
 ## Ziel

@@ -1,3 +1,11 @@
+---
+id: bautagebuch-workflow
+pageType: source
+title: Bautagebuch-Workflow — Spezifikation (v2)
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Bautagebuch-Workflow — Spezifikation (v2)
 
 > Automatisierte Erfassung von Arbeitsstunden, Fotos und Kommentaren aus OpenProject.

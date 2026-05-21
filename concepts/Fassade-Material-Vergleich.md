@@ -1,3 +1,11 @@
+---
+id: fassade-material-vergleich
+pageType: concept
+title: Fassade — Material Vergleich
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Fassade — Material Vergleich
 
 > Vergleich der Fassadenmaterialien für das 1973er Haus. Diskutiert mit Javis (AI Assistant) am 14.04.2026.

@@ -1,3 +1,11 @@
+---
+id: helfer-aufgaben-21-03-2026
+pageType: source
+title: Aufgaben für Helfer - 21.03.2026
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Aufgaben für Helfer - 21.03.2026
 
 ## Zusammenfassung

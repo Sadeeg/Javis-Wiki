@@ -1,3 +1,11 @@
+---
+id: spotify-player-raspi
+pageType: source
+title: Spotify-Player — Raspberry Pi 4 + 7" Display
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Spotify-Player — Raspberry Pi 4 + 7" Display
 
 > Konzept für einen eigenen Spotify-Streaming-Player mit Touchscreen und Javis-Sprachsteuerung

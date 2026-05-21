@@ -1,3 +1,11 @@
+---
+id: 1---elektrik-schlafzimmer-heizung-entfernen
+pageType: source
+title: 1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen
 
 **Erstellt:** 2026-05-10

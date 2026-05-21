@@ -1,3 +1,11 @@
+---
+id: willkommen
+pageType: source
+title: Willkommen
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 Das ist dein neuer *Vault*.
 
 Notiere dir etwas oder, [[Neuer Link|erstelle einen neuen Link]], oder probiere [die Importer-Erweiterung aus](https://help.obsidian.md/Plugins/Importer)!

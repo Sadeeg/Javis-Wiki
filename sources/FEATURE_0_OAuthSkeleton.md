@@ -1,3 +1,11 @@
+---
+id: feature_0_oauthskeleton
+pageType: source
+title: "FEATURE 0: OAuth-Skelett (Minimalgerüst)"
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # FEATURE 0: OAuth-Skelett (Minimalgerüst)
 
 ## Ziel

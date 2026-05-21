@@ -1,3 +1,11 @@
+---
+id: 2-vm-setup
+pageType: source
+title: 2-VM Home-Lab Setup
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 2-VM Home-Lab Setup
 
 > Infrastruktur mit 2 VMs: Apps + Traefik auf VM1, External DNS auf VM2

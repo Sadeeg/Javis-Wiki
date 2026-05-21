@@ -1,3 +1,11 @@
+---
+id: feature_2_bildworkflow
+pageType: source
+title: "FEATURE 2: Bild-Workflow"
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # FEATURE 2: Bild-Workflow
 
 ## Ziel

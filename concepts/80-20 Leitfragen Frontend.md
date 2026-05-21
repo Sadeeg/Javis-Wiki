@@ -1,3 +1,11 @@
+---
+id: 80-20-leitfragen-frontend
+pageType: concept
+title: 80/20 Leitfragen für Software (Frontend)
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 80/20 Leitfragen für Software (Frontend)
 
 ---

@@ -1,3 +1,11 @@
+---
+id: meeting-recorder-projekt
+pageType: source
+title: Meeting Recorder - Projekt
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Meeting Recorder - Projekt
 
 > Eigenbau-Gerät für automatische Besprechungs-Protokollierung mit Sprecher-Erkennung
@@ -241,5 +249,7 @@ Action Items:
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 <!-- openclaw:wiki:related:end -->

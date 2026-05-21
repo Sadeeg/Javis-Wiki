@@ -1,3 +1,11 @@
+---
+id: 97-things-every-software-architect-should-know-auf-deutsch
+pageType: source
+title: 7. Steh auf!
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 [[97 Things Every Software Architect Should Know - The Book]]
 ## 1. Stelle deinen Lebenslauf nicht über die Anforderungen
 

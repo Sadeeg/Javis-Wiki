@@ -1,3 +1,11 @@
+---
+id: stack
+pageType: source
+title: STACK - Technologie-Stack
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # STACK - Technologie-Stack
 
 ## Anwendung

@@ -1,3 +1,11 @@
+---
+id: ideen-fuer-apps
+pageType: source
+title: Ideen für Apps
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Ideen für Apps
 
 > Gesammelte Ideen und Inspirationen für Apps

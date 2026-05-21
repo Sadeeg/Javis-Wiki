@@ -1,3 +1,11 @@
+---
+id: 97-things-every-software-architect-should-know---the-book
+pageType: source
+title: 97 Things Every Software Architect Should Know   The Book
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 ## 97 Things Every Software Architect Should Know - The Book
 
 [http://97-things.near-time.net/wiki/97-things-every-software-architect-should-know-the-book](http://97-things.near-time.net/wiki/97-things-every-software-architect-should-know-the-book)
@@ -4273,7 +4281,5 @@ by Bill de hÓra
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-### Referenced By
-
-- [[sources/97 Things Every Software Architect Should Know auf Deutsch|7. Steh auf!]]
+- No related pages yet.
 <!-- openclaw:wiki:related:end -->

@@ -1,3 +1,11 @@
+---
+id: index
+pageType: concept
+title: Concepts
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Concepts
 
 ## Generated

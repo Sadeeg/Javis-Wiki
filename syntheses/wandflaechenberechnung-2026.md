@@ -1,3 +1,11 @@
+---
+id: wandflaechenberechnung-2026
+pageType: synthesis
+title: Wandflächen-Berechnung – Lehmputz
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Wandflächen-Berechnung – Lehmputz
 
 > Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[summaries/wandflaechenberechnung.md]] (Original 03.03.2026)

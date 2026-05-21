@@ -1,3 +1,11 @@
+---
+id: wireguard-vpn-setup
+pageType: source
+title: WireGuard VPN Setup - Firma Puls
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # WireGuard VPN Setup - Firma Puls
 
 > VPN-Lösung für Firma Puls: Server als Zentrale, 3x FritzBox als Clients

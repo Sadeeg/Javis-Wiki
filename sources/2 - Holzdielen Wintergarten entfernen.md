@@ -1,3 +1,11 @@
+---
+id: 2---holzdielen-wintergarten-entfernen
+pageType: source
+title: 2 — Holzdielen im kleinen Wintergarten entfernen
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 2 — Holzdielen im kleinen Wintergarten entfernen
 
 **Erstellt:** 2026-05-10

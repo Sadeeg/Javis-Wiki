@@ -1,3 +1,11 @@
+---
+id: fussbodenheizung
+pageType: concept
+title: Fussbodenheizung
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Fussbodenheizung
 
 > Status: Geplant | Typ: Konzept | Erstellt: 2026-05-20
@@ -40,7 +48,5 @@ Siehe: [[summaries/elektrik-EG-Planung]], [[summaries/zeitplan-detail]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-### Referenced By
-
-- [[entities/baustelle-kersbach|Kersbach Baustelle]]
+- No related pages yet.
 <!-- openclaw:wiki:related:end -->

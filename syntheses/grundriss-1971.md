@@ -1,3 +1,11 @@
+---
+id: grundriss-1971
+pageType: synthesis
+title: Grundriss 1971 – Tekturplan Typ R 630
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Grundriss 1971 – Tekturplan Typ R 630
 
 > Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/bauleitung/Grundrisse_Bestand_Schnitt_Ansichten_Wintergartenplan.pdf]]

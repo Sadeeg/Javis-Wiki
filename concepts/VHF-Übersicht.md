@@ -1,3 +1,11 @@
+---
+id: vhf-uebersicht
+pageType: concept
+title: Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht
 
 > Informatione zum Thema hinterlüftete Fassadendämmung — diskutiert im Rahmen der Hausrenovierung (1973er Haus).

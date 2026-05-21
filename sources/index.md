@@ -1,3 +1,11 @@
+---
+id: index
+pageType: source
+title: Sources
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Sources
 
 ## Generated
@@ -8,9 +16,9 @@
 - [[sources/2-VM-Setup|2-VM Home-Lab Setup]]
 - [[sources/3 - Holzvertafelung Kellertreppenaufgang entfernen|3 — Holzvertafelung im Kellertreppenaufgang entfernen]]
 - [[sources/97 Things Every Software Architect Should Know auf Deutsch|7. Steh auf!]]
-- [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know - The Book]]
+- [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know   The Book]]
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]
-- [[sources/Aufgaben für Wolgang|Aufgaben für Wolgang]]
+- [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]
 - [[sources/FEATURE_0_OAuthSkeleton|FEATURE 0: OAuth-Skelett (Minimalgerüst)]]
@@ -24,5 +32,5 @@
 - [[sources/STACK|STACK - Technologie-Stack]]
 - [[sources/Willkommen|Willkommen]]
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]
-- [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.pdf]]
+- [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]
 <!-- openclaw:wiki:sources:index:end -->

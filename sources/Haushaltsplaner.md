@@ -1,3 +1,11 @@
+---
+id: haushaltsplaner
+pageType: source
+title: Haushaltsplaner - App Idee
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Haushaltsplaner - App Idee
 
 > Aufgabenverteilung im Haushalt nach fairen Regeln

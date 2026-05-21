@@ -1,3 +1,11 @@
+---
+id: aufgaben-fuer-wolgang
+pageType: source
+title: Aufgaben Für Wolgang
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 - Estrich kleiner Wintergarten
 - Ventilator Schlafzimmer
 - Heizkörper abbauen

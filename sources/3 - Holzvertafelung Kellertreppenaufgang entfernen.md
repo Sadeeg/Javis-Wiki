@@ -1,3 +1,11 @@
+---
+id: 3---holzvertafelung-kellertreppenaufgang-entfernen
+pageType: source
+title: 3 — Holzvertafelung im Kellertreppenaufgang entfernen
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # 3 — Holzvertafelung im Kellertreppenaufgang entfernen
 
 **Erstellt:** 2026-05-10

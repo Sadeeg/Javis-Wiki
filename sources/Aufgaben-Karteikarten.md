@@ -1,8 +1,9 @@
 ---
+id: aufgaben-karteikarten
+pageType: source
 title: Aufgaben Kersbach Baustelle
-papersize: A4
-fontsize: 9pt
-geometry: margin=1cm
+createdAt: 2026-03-30T00:00:00.000Z
+updatedAt: 2026-03-30T00:00:00.000Z
 ---
 
 # Aktive Aufgaben – Kersbach Baustelle

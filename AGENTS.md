@@ -1,3 +1,11 @@
+---
+id: agents
+pageType: page
+title: Memory Wiki Agent Guide
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Memory Wiki Agent Guide
 
 - Treat generated blocks as plugin-owned.

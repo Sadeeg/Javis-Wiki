@@ -1,3 +1,11 @@
+---
+id: memory-import
+pageType: synthesis
+title: MEMORY.md – Langzeitgedächtnis Javis
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # MEMORY.md – Langzeitgedächtnis Javis
 
 > Persistentes Wissen über Sascha, die Baustelle und OpenClaw-Setup.

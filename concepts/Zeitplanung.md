@@ -1,3 +1,11 @@
+---
+id: zeitplanung
+pageType: concept
+title: Zeitplanung
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Zeitplanung
 
 > Status: Aktiv | Typ: Konzept | Erstellt: 2026-05-20
@@ -41,7 +49,5 @@ KW 21 (20.05. - 26.05.2026)
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-### Referenced By
-
-- [[entities/baustelle-kersbach|Kersbach Baustelle]]
+- No related pages yet.
 <!-- openclaw:wiki:related:end -->

@@ -1,3 +1,11 @@
+---
+id: vhf-fassade
+pageType: concept
+title: VHF-Fassade
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # VHF-Fassade
 
 > Status: In Planung | Letzte Änderung: 2026-05-20
@@ -64,7 +72,5 @@ Vorgehängte Hinterlüftete Fassade – eine Außenwandbekleidung mit hinterlüf
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-### Referenced By
-
-- [[entities/baustelle-kersbach|Kersbach Baustelle]]
+- No related pages yet.
 <!-- openclaw:wiki:related:end -->

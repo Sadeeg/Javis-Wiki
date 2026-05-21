@@ -1,3 +1,11 @@
+---
+id: kosten-uebersicht
+pageType: synthesis
+title: Kostenübersicht – Werkzeug & Verbrauchsmaterial
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Kostenübersicht – Werkzeug & Verbrauchsmaterial
 
 > Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/finanzen/Kosten.xlsx]]

@@ -1,3 +1,11 @@
+---
+id: zeitplan-detail
+pageType: synthesis
+title: Zeitplan Detailaufstellung – Fußbodenheizung
+createdAt: 2026-05-21T10:10:00.000Z
+updatedAt: 2026-05-21T10:10:00.000Z
+---
+
 # Zeitplan Detailaufstellung – Fußbodenheizung
 
 > Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/javis/Zeitplan_Detailaufschluesselung.md]]
