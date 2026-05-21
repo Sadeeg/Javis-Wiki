@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Bautagebuch – Eigenleistungen 2025-2026
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/bautagebuch/book.md]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/bautagebuch/book.md]
 
 ## Überblick
 
@@ -73,5 +73,8 @@ Dokumentation aller Eigenleistungen seit August 2025. Enthält Arbeitszeiten, He
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+- [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

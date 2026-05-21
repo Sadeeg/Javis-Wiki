@@ -43,11 +43,13 @@ KW 21 (20.05. - 26.05.2026)
 
 ## Quelldaten
 
-- [[summaries/zeitplan-detail]] – Detaillierte Aufstellung
-- [[summaries/bautagebuch-2025-2026]] – Bisherige Stunden
-- [[wiki/konzepte/Fussbodenheizung]] – FBH-Planung
+- [[zeitplan-detail]] – Detaillierte Aufstellung
+- [[bautagebuch-2025-2026]] – Bisherige Stunden
+- [[Fussbodenheizung]] – FBH-Planung
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

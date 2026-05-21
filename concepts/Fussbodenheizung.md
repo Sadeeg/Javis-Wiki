@@ -44,9 +44,12 @@ Fußbodenheizung für das gesamte Haus. Geplant als Ergänzung zur Wärmepumpe.
 
 ## Quelle
 
-Siehe: [[summaries/elektrik-EG-Planung]], [[summaries/zeitplan-detail]]
+Siehe: [[elektrik-EG-Planung]], [[zeitplan-detail]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+- [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

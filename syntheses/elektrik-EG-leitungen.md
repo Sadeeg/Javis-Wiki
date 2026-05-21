@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Elektrik EG – Leitungsplan draw.io
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/planung/Elektrik/EG-Haus-leitungen.drawio]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/planung/elektrik/EG-Haus-leitungen.drawio]
 
 ## Überblick
 
@@ -56,5 +56,7 @@ Original: `Projekt Haus/Planung/Elektrik/EG-Haus-leitungen.drawio`
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

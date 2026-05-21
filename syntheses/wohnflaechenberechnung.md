@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Wohnflächenberechnung – Kersbach
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/bauleitung/Wohnflaechenberechnung.pdf]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/dokumente/gutachter-asbest/Wohnflaechenberechnung.pdf]
 
 ## Überblick
 
@@ -93,5 +93,7 @@ Brutto: 50,87 m² | Abzug 3% Putz: -1,53 m² | **Netto: 49,34 m²**
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

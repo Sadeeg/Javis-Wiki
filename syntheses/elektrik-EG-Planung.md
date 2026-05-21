@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Elektrik EG-Planung – KNX
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/planung/Elektrik/EG-Planung-Detail.pdf]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/planung/elektrik/EG-Planung-Detail.pdf]
 
 ## Überblick
 
@@ -60,5 +60,8 @@ Original: `Projekt Haus/Planung/Elektrik/EG-Planung-Detail.pdf`
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[concepts/Fussbodenheizung|Fussbodenheizung]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

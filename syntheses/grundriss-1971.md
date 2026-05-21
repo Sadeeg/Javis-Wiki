@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Grundriss 1971 – Tekturplan Typ R 630
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/bauleitung/Grundrisse_Bestand_Schnitt_Ansichten_Wintergartenplan.pdf]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[_attachments/raw/dokumente/gutachter-asbest/Grundrisse.pdf]]
 
 ## Überblick
 
@@ -97,5 +97,7 @@ Original-PDF: `Projekt Haus/Dokumente/Architektin/Grundrisse_Bestand_Schnitt_Ans
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

@@ -11,10 +11,10 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 66
+- Total pages: 67
 - Claims: 0
 - Sources: 23
-- Entities: 3
+- Entities: 4
 - Concepts: 9
 - Syntheses: 21
 - Reports: 10
@@ -48,6 +48,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[entities/baustelle-kersbach|---]]
 - [[entities/erdgeschoss|---]]
 - [[entities/obergeschoss|---]]
+- [[entities/keller|Keller – Kersbach]]
 
 ### Concepts
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
@@ -74,7 +75,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]
-- [[syntheses/kw15-2026|KW15-2026]]
+- [[syntheses/kw15-2026|KW15-2026 (Backup)]]
 - [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]
 - [[syntheses/timesheet-2025-2026|Timesheet BGBau – Stundenzettel OpenProject]]

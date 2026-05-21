@@ -87,5 +87,9 @@ Original: `Javis/Zeitplan_Detailaufschluesselung.md` (03. März 2026)
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[concepts/Fussbodenheizung|Fussbodenheizung]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+- [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

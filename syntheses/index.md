@@ -23,7 +23,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]
-- [[syntheses/kw15-2026|KW15-2026]]
+- [[syntheses/kw15-2026|KW15-2026 (Backup)]]
 - [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]
 - [[syntheses/timesheet-2025-2026|Timesheet BGBau – Stundenzettel OpenProject]]

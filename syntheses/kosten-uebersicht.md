@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Kostenübersicht – Werkzeug & Verbrauchsmaterial
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/finanzen/Kosten.xlsx]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/finanzen/Kosten.xlsx]
 
 ## Zusammenfassung
 
@@ -60,5 +60,7 @@ Original: `Projekt Haus/Finanzen/Kosten.xlsx`
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

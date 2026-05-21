@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Elektrik 1.OG – Leitungsplan
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/planung/Elektrik/1OG-Haus.drawio]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/planung/elektrik/1OG-Haus.drawio]
 
 ## Überblick
 
@@ -51,5 +51,7 @@ Original: `Projekt Haus/Planung/Elektrik/1OG-Haus.drawio`
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

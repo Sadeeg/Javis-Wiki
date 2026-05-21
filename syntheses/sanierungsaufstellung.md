@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Sanierungsaufstellung – Eigenleistungen
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/finanzen/Sanierungsaufstellung.pdf]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/Sanierungsaufstellung.pdf]
 
 ## Überblick
 
@@ -120,5 +120,7 @@ Dokument mit geplanten Eigenleistungen und Materialkosten für die Hausrenovieru
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

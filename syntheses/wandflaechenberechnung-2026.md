@@ -59,5 +59,9 @@ Siehe auch: `summaries/wohnflaechenberechnung.md` (Wohnflächenberechnung vom Gu
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+- [[concepts/Lehmputz|Lehmputz]]
+- [[concepts/VHF-Fassade|VHF-Fassade]]
 <!-- openclaw:wiki:related:end -->

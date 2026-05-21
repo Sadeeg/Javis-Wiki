@@ -67,10 +67,12 @@ Vorgehängte Hinterlüftete Fassade – eine Außenwandbekleidung mit hinterlüf
 
 ## Quellen
 
-- [[raw/bauleitung/Grundrisse_Bestand_Schnitt_Ansichten_Wintergartenplan.pdf]]
-- [[summaries/wandflaechen-berechnung]]
+- [_attachments/raw/dokumente/architektin/Grundrisse.pdf]
+- [[wandflaechenberechnung-2026]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Energieausweis – Kersbach
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/bauleitung/Energieausweis.pdf]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[_attachments/raw/dokumente/gutachter-asbest/Energieausweis.pdf]]
 
 ## Grunddaten
 
@@ -46,5 +46,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

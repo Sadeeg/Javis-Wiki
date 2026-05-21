@@ -8,7 +8,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 
 # Trockenbau – Praxis-Checkliste
 
-> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [[raw/howto/Trockenbau.md]]
+> Typ: Summary | Erstellt: 2026-05-20 | Quelle: [_attachments/raw/howto/Trockenbau.md]
 
 ## Überblick
 
@@ -80,5 +80,8 @@ Original: `Projekt Haus/howto/Trockenbau.md`
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+- [[concepts/Lehmputz|Lehmputz]]
 <!-- openclaw:wiki:related:end -->

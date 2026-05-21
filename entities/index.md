@@ -13,4 +13,5 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[entities/baustelle-kersbach|---]]
 - [[entities/erdgeschoss|---]]
 - [[entities/obergeschoss|---]]
+- [[entities/keller|Keller – Kersbach]]
 <!-- openclaw:wiki:entities:index:end -->

@@ -1,6 +1,6 @@
 {
   "pageCounts": {
-    "entity": 3,
+    "entity": 4,
     "concept": 9,
     "source": 23,
     "synthesis": 21,
@@ -230,6 +230,25 @@
       "topClaims": []
     },
     {
+      "id": "keller",
+      "title": "Keller – Kersbach",
+      "kind": "entity",
+      "path": "entities/keller.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "entity",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-05-21T10:15:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "obergeschoss",
       "title": "---",
       "kind": "entity",
@@ -433,7 +452,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-05-21T10:11:14.176Z",
+      "lastTouchedAt": "2026-05-21T10:14:06.478Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1103,8 +1122,8 @@
       "topClaims": []
     },
     {
-      "id": "kw15-2026",
-      "title": "KW15-2026",
+      "id": "kw15-2026-alt",
+      "title": "KW15-2026 (Backup)",
       "kind": "synthesis",
       "path": "syntheses/kw15-2026.md",
       "aliases": [],
