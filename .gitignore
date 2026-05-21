@@ -1,0 +1,7 @@
+
+# Large attachment files (stored locally only, not in git)
+_attachments/raw/*.pdf
+_attachments/raw/**/*.pdf
+_attachments/raw/**/*.drawio
+_attachments/raw/**/*.xlsx
+_attachments/raw/**/*.md
