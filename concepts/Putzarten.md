@@ -33,7 +33,10 @@ tags: [putz, innenputz, lehmputz, gipsputz, renovation]
 
 ---
 
-## Für Kersbach: Lehmputz geplant
+## Für Kersbach: Lehmputz geplant (Schlaf- und Wohnräume)
+
+
+> Nur in **Schlafzimmer und Wohnräumen** – nicht in Bad/Küche/Nassbereich!
 
 **Lehmputz** ist für das 1973er Haus besonders geeignet:
 - ✅ Diffusionsoffen (reguliert Feuchtigkeit)
@@ -42,6 +45,9 @@ tags: [putz, innenputz, lehmputz, gipsputz, renovation]
 - ✅ Kann Fehler verzeihen (leicht zu verarbeiten)
 - ❌ Trocknet langsam (2-4 Wochen)
 - ❌ Weniger fest als Zementputz
+- ❌ **Nicht geeignet für Nassbereiche!**
+
+**Für Bad/Küche/Nassbereich → Kalkzementputz oder Zementputz** (wasserbeständiger)
 
 ---
 
