@@ -4,8 +4,8 @@ id: source.zeitplan-gantt-sanierung-kersbach-2026
 title: Zeitplan Gantt Sanierung Kersbach 2026
 sourceType: local-file
 sourcePath: /home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html
-ingestedAt: 2026-05-31T13:46:48.038Z
-updatedAt: 2026-05-31T13:46:48.038Z
+ingestedAt: 2026-05-31T13:48:18.040Z
+updatedAt: 2026-05-31T13:48:18.040Z
 status: active
 ---
 
@@ -15,7 +15,7 @@ status: active
 - Type: `local-file`
 - Path: `/home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html`
 - Bytes: 11058
-- Updated: 2026-05-31T13:46:48.038Z
+- Updated: 2026-05-31T13:48:18.040Z
 
 ## Content
 ```text
@@ -270,7 +270,7 @@ status: active
 
   <!-- FBH: Jun'27 - Aug'27 -->
   <div class="task-row">
-    <div class="task-label"><span class="num">9a.</span>FBH</div>
+    <div class="task-label"><span class="num">4.a</span>FBH</div>
     <div class="task-bar-container">
       <div class="task-bar future" style="left: 91%; width: 9%;">18.06.27 - 31.08.27</div>
     </div>
