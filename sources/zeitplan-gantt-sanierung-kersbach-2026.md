@@ -4,8 +4,8 @@ id: source.zeitplan-gantt-sanierung-kersbach-2026
 title: Zeitplan Gantt Sanierung Kersbach 2026
 sourceType: local-file
 sourcePath: /home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html
-ingestedAt: 2026-05-31T13:48:18.040Z
-updatedAt: 2026-05-31T13:48:18.040Z
+ingestedAt: 2026-05-31T13:50:25.054Z
+updatedAt: 2026-05-31T13:50:25.054Z
 status: active
 ---
 
@@ -15,7 +15,7 @@ status: active
 - Type: `local-file`
 - Path: `/home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html`
 - Bytes: 11058
-- Updated: 2026-05-31T13:48:18.040Z
+- Updated: 2026-05-31T13:50:25.054Z
 
 ## Content
 ```text
@@ -272,7 +272,7 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="num">4.a</span>FBH</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 91%; width: 9%;">18.06.27 - 31.08.27</div>
+      <div class="task-bar future" style="left: 91%; width: 9%;">18.06.26 - 31.08.26</div>
     </div>
   </div>
 
@@ -291,7 +291,7 @@ status: active
     <div class="milestone-item">🔨 Decke: Feb 2027</div>
     <div class="milestone-item">🚪 Türen: Feb 2027</div>
     <div class="milestone-item">🏗️ WDVS: Mai 2027</div>
-    <div class="milestone-item">🔥 FBH: Jun-Aug 2027</div>
+    <div class="milestone-item">🔥 FBH: Jun-Aug 2026</div>
   </div>
 </div>
 
