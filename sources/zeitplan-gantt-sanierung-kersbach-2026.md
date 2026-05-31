@@ -4,8 +4,8 @@ id: source.zeitplan-gantt-sanierung-kersbach-2026
 title: Zeitplan Gantt Sanierung Kersbach 2026
 sourceType: local-file
 sourcePath: /home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html
-ingestedAt: 2026-05-31T12:59:48.445Z
-updatedAt: 2026-05-31T12:59:48.445Z
+ingestedAt: 2026-05-31T13:27:02.619Z
+updatedAt: 2026-05-31T13:27:02.619Z
 status: active
 ---
 
@@ -14,8 +14,8 @@ status: active
 ## Source
 - Type: `local-file`
 - Path: `/home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html`
-- Bytes: 16450
-- Updated: 2026-05-31T12:59:48.445Z
+- Bytes: 16477
+- Updated: 2026-05-31T13:27:02.619Z
 
 ## Content
 ```text
@@ -125,7 +125,7 @@ status: active
   <div class="calc-item">• Lehmputz Trocknung (6 Wochen): = 192h Wartezeit (parallel zu anderen Arbeiten)</div>
   <div class="calc-item">• Aktiv mit Parallelarbeit: ~568h</div>
   <div class="calc-item">• 568h ÷ 32h/Woche = ~18 Wochen</div>
-  <div class="calc-total">→ Realistisch: KW32 bis KW50 (~18 Wochen)</div>
+  <div class="calc-total">→ Realistisch: KW32 bis KW51 (~19 Wochen)</div>
 </div>
 
 <!-- Phase 1 -->
@@ -313,15 +313,15 @@ status: active
       <div class="month done">Jan'26</div><div class="month done">Feb'26</div><div class="month done">Mär'26</div><div class="month done">Apr'26</div><div class="month done">Mai'26</div>
       <div class="month in-progress">Jun'26</div><div class="month current">Jul'26</div>
       <div class="month current">Aug'26</div><div class="month">Sep'26</div><div class="month">Okt'26</div><div class="month">Nov'26</div><div class="month">Dez'26</div>
-      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div>
+      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div><div class="month">Mai'27</div>
     </div>
   </div>
 
-  <!-- 9. WDVS: Mär-Apr'27 -->
+  <!-- 9. WDVS: Apr-Mai'27 -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>9. WDVS</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 81%; width: 14%;">Mär-Apr 2027</div>
+      <div class="task-bar future" style="left: 81%; width: 19%;">Apr-Mai 2027</div>
     </div>
   </div>
 
@@ -351,13 +351,13 @@ status: active
     <div class="milestone-item">🔌 KW34: Elektrik + Boden</div>
     <div class="milestone-item">🏡 KW44: Lehmputz fertig</div>
     <div class="milestone-item">🔧 KW46: Decke + Türen</div>
-    <div class="milestone-item">🏗️ Apr 2027: WDVS fertig</div>
+    <div class="milestone-item">🏗️ Mai 2027: WDVS fertig</div>
   </div>
 </div>
 
 <div class="note">
   Basis: 32h/Woche · Parallelarbeit möglich · Lehmputz-Trocknung überbrückt Wartezeit<br>
-  Realistisch: ~18 Wochen für Phase 3 → Fertig April 2027
+  Realistisch: ~19 Wochen für Phase 3 → Fertig Mai 2027
 </div>
 
 </body>
