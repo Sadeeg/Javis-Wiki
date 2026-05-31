@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 73
+- Total pages: 77
 - Claims: 0
-- Sources: 23
+- Sources: 27
 - Entities: 4
 - Concepts: 14
 - Syntheses: 22
@@ -38,11 +38,15 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
+- [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
 - [[sources/STACK|STACK - Technologie-Stack]]
 - [[sources/Willkommen|Willkommen]]
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]
 - [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]
+- [[sources/zeitplan-gantt-sanierung-kersbach-2026|Zeitplan Gantt Sanierung Kersbach 2026]]
+- [[sources/zeitplan-gantt-sanierung-kersbach2026|Zeitplan Gantt Sanierung Kersbach2026]]
+- [[sources/zeitplan-sanierung-kersbach-2026|Zeitplan Sanierung Kersbach 2026]]
 
 ### Entities
 - [[entities/baustelle-kersbach|---]]
