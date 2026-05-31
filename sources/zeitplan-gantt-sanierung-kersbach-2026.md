@@ -4,8 +4,8 @@ id: source.zeitplan-gantt-sanierung-kersbach-2026
 title: Zeitplan Gantt Sanierung Kersbach 2026
 sourceType: local-file
 sourcePath: /home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html
-ingestedAt: 2026-05-31T12:54:02.761Z
-updatedAt: 2026-05-31T12:54:02.761Z
+ingestedAt: 2026-05-31T12:59:48.445Z
+updatedAt: 2026-05-31T12:59:48.445Z
 status: active
 ---
 
@@ -14,8 +14,8 @@ status: active
 ## Source
 - Type: `local-file`
 - Path: `/home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html`
-- Bytes: 14597
-- Updated: 2026-05-31T12:54:02.761Z
+- Bytes: 16450
+- Updated: 2026-05-31T12:59:48.445Z
 
 ## Content
 ```text
@@ -90,13 +90,18 @@ status: active
   .milestone-item { font-size: 9px; color: #bbb; padding-left: 12px; position: relative; }
   .milestone-item::before { content: '◆'; position: absolute; left: 0; color: #4ade80; font-size: 6px; top: 2px; }
 
+  .calc-box { max-width: 1200px; margin: 12px auto; background: #2d2d44; border-radius: 8px; padding: 10px 14px; border-left: 3px solid #a855f7; }
+  .calc-box h3 { font-size: 10px; color: #a855f7; margin-bottom: 6px; }
+  .calc-item { font-size: 9px; color: #bbb; margin-bottom: 3px; }
+  .calc-total { font-size: 10px; color: #f59e0b; font-weight: bold; margin-top: 6px; }
+
   .note { max-width: 1200px; margin: 10px auto; font-size: 9px; color: #444; text-align: center; }
 </style>
 </head>
 <body>
 
-<h1>🏠 Sanierung Kersbach – Zeitplan</h1>
-<div class="subtitle">OpenProject · 31. Mai 2026 · 642,25h gebucht</div>
+<h1>🏠 Sanierung Kersbach – Zeitplan (REALISTISCH)</h1>
+<div class="subtitle">32h/Woche · 642,25h gebucht · Stand: 31. Mai 2026</div>
 
 <div class="legend">
   <div class="legend-item"><div class="legend-color" style="background: #22c55e;"></div>Abgeschlossen</div>
@@ -107,20 +112,32 @@ status: active
 
 <div class="stats">
   <div class="stat" style="--accent: #4ade80;"><div class="stat-value">642,25h</div><div class="stat-label">Gebucht</div></div>
-  <div class="stat" style="--accent: #f59e0b;"><div class="stat-value">~894h</div><div class="stat-label">Noch offen</div></div>
+  <div class="stat" style="--accent: #f59e0b;"><div class="stat-value">~900h</div><div class="stat-label">Noch offen</div></div>
   <div class="stat" style="--accent: #3b82f6;"><div class="stat-value">~1.536h</div><div class="stat-label">Gesamt</div></div>
+  <div class="stat" style="--accent: #a855f7;"><div class="stat-value">32h/Wo</div><div class="stat-label">Tempo</div></div>
 </div>
 
-<!-- Phase: Vor Estrich -->
+<!-- Calculation -->
+<div class="calc-box">
+  <h3>📐 Realistische Berechnung</h3>
+  <div class="calc-item">• Elektrik Rest: ~140h | Boden: ~175h | Lehmputz: ~284h | Decke: ~140h | Türen: ~21h</div>
+  <div class="calc-item">• Aktiv: 140+175+284+140+21 = 760h</div>
+  <div class="calc-item">• Lehmputz Trocknung (6 Wochen): = 192h Wartezeit (parallel zu anderen Arbeiten)</div>
+  <div class="calc-item">• Aktiv mit Parallelarbeit: ~568h</div>
+  <div class="calc-item">• 568h ÷ 32h/Woche = ~18 Wochen</div>
+  <div class="calc-total">→ Realistisch: KW32 bis KW50 (~18 Wochen)</div>
+</div>
+
+<!-- Phase 1 -->
 <div class="phase-box">
   <h3>📋 PHASE 1: Vor Estrich (KW22-KW27)</h3>
-  <p>Trockenbau fertig + Elektrik-Vorbereitung (Kabel ziehen) + Sockel-Leisten → Estrichleger kommt KW28</p>
+  <p>Trockenbau + Elektrik-Vorbereitung + Sockel-Leisten → Estrichleger KW28</p>
 </div>
 
 <div class="chart-container">
 <div class="chart">
 
-  <!-- Header: Aug'25 - Jun'27 = 23 months -->
+  <!-- Header: Aug'25 - Apr'27 -->
   <div class="header-row">
     <div class="header-label">Aufgabe</div>
     <div class="header-months">
@@ -145,8 +162,6 @@ status: active
       <div class="month">Feb'27</div>
       <div class="month">Mär'27</div>
       <div class="month">Apr'27</div>
-      <div class="month">Mai'27</div>
-      <div class="month">Jun'27</div>
     </div>
   </div>
 
@@ -154,7 +169,7 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="status-dot done"></span>1. Abriss</div>
     <div class="task-bar-container">
-      <div class="task-bar done" style="left: 0%; width: 22%;">✅ 269h</div>
+      <div class="task-bar done" style="left: 0%; width: 24%;">✅ 269h</div>
     </div>
   </div>
 
@@ -162,7 +177,7 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="status-dot done"></span>4. Wärmepumpe</div>
     <div class="task-bar-container">
-      <div class="task-bar done" style="left: 22%; width: 22%;">✅ 85h</div>
+      <div class="task-bar done" style="left: 24%; width: 20%;">✅ 85h</div>
     </div>
   </div>
 
@@ -170,35 +185,34 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="status-dot in-progress"></span>3. Trockenbau</div>
     <div class="task-bar-container">
-      <div class="task-bar done" style="left: 17%; width: 26%;">~105h ✅</div>
-      <div class="task-bar in-progress" style="left: 43%; width: 9%;">Rest</div>
+      <div class="task-bar done" style="left: 19%; width: 19%;">~105h ✅</div>
+      <div class="task-bar in-progress" style="left: 38%; width: 10%;">Rest</div>
     </div>
   </div>
 
-  <!-- Elektrik VORBEREITUNG: Apr-Jul'26 (nur 43h) -->
+  <!-- Elektrik VORBEREITUNG -->
   <div class="task-row">
-    <div class="task-label"><span class="status-dot in-progress"></span>2. Elektrik (Vorbereitung)</div>
+    <div class="task-label"><span class="status-dot done"></span>2. Elektrik (Vorb.)</div>
     <div class="task-bar-container">
-      <div class="task-bar done" style="left: 30%; width: 9%;">~43h ✅</div>
-      <div class="task-bar in-progress" style="left: 39%; width: 13%;">Kabel ziehen</div>
+      <div class="task-bar done" style="left: 33%; width: 14%;">~43h ✅</div>
     </div>
   </div>
 
-  <!-- Boden bisher: Apr-Jul'26 -->
+  <!-- Boden bisher -->
   <div class="task-row">
-    <div class="task-label"><span class="status-dot in-progress"></span>5. Boden (Vorbereitung)</div>
+    <div class="task-label"><span class="status-dot done"></span>5. Boden (Vorb.)</div>
     <div class="task-bar-container">
-      <div class="task-bar done" style="left: 30%; width: 13%;">~140h ✅</div>
+      <div class="task-bar done" style="left: 33%; width: 14%;">~140h ✅</div>
     </div>
   </div>
 
 </div>
 </div>
 
-<!-- Phase: Estrich -->
+<!-- Phase 2 -->
 <div class="phase-box" style="border-color: #3b82f6;">
   <h3>📋 PHASE 2: Estrich + Trocknung (KW28-KW31)</h3>
-  <p>Estrichleger kommt KW28 → ~4 Wochen Trocknung → Estrich begehbar ab KW32</p>
+  <p>Estrichleger KW28 → ~4 Wochen Trocknung → Ab KW32: Phase 3</p>
 </div>
 
 <div class="chart-container">
@@ -206,29 +220,29 @@ status: active
   <div class="header-row">
     <div class="header-label">Fortsetzung</div>
     <div class="header-months">
-      <div class="month">Aug'25</div><div class="month">Sep'25</div><div class="month">Okt'25</div><div class="month">Nov'25</div><div class="month">Dez'25</div>
-      <div class="month">Jan'26</div><div class="month">Feb'26</div><div class="month">Mär'26</div><div class="month">Apr'26</div><div class="month">Mai'26</div>
-      <div class="month">Jun'26</div><div class="month current">Jul'26</div>
+      <div class="month done">Aug'25</div><div class="month done">Sep'25</div><div class="month done">Okt'25</div><div class="month done">Nov'25</div><div class="month done">Dez'25</div>
+      <div class="month done">Jan'26</div><div class="month done">Feb'26</div><div class="month done">Mär'26</div><div class="month done">Apr'26</div><div class="month done">Mai'26</div>
+      <div class="month in-progress">Jun'26</div><div class="month current">Jul'26</div>
       <div class="month">Aug'26</div><div class="month">Sep'26</div><div class="month">Okt'26</div><div class="month">Nov'26</div><div class="month">Dez'26</div>
-      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div><div class="month">Mai'27</div><div class="month">Jun'27</div>
+      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div>
     </div>
   </div>
 
-  <!-- Estrich: Jul'26 -->
+  <!-- Estrich: Jul-Aug -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot planned"></span>⏸ Estrich-Trocknung</div>
     <div class="task-bar-container">
-      <div class="task-bar planned" style="left: 48%; width: 17%;">Jul-Sep: Pause</div>
+      <div class="task-bar planned" style="left: 48%; width: 19%;">Jul-Sep: Pause</div>
     </div>
   </div>
 
 </div>
 </div>
 
-<!-- Phase: Nach Estrich -->
+<!-- Phase 3 -->
 <div class="phase-box" style="border-color: #22c55e;">
-  <h3>📋 PHASE 3: Nach Estrich (KW32+)</h3>
-  <p>Elektrik HAUPTARBEIT + Bodenbelag + Decke + Lehmputz + Türen → WDVS Fassade</p>
+  <h3>📋 PHASE 3: Nach Estrich (KW32-KW50)</h3>
+  <p>18 Wochen Arbeitszeit · Parallelarbeit möglich · Lehmputz-Trocknung überbrückt Wartezeit</p>
 </div>
 
 <div class="chart-container">
@@ -236,19 +250,19 @@ status: active
   <div class="header-row">
     <div class="header-label">Aufgabe</div>
     <div class="header-months">
-      <div class="month">Aug'25</div><div class="month">Sep'25</div><div class="month">Okt'25</div><div class="month">Nov'25</div><div class="month">Dez'25</div>
-      <div class="month">Jan'26</div><div class="month">Feb'26</div><div class="month">Mär'26</div><div class="month">Apr'26</div><div class="month">Mai'26</div>
-      <div class="month">Jun'26</div><div class="month">Jul'26</div>
+      <div class="month done">Aug'25</div><div class="month done">Sep'25</div><div class="month done">Okt'25</div><div class="month done">Nov'25</div><div class="month done">Dez'25</div>
+      <div class="month done">Jan'26</div><div class="month done">Feb'26</div><div class="month done">Mär'26</div><div class="month done">Apr'26</div><div class="month done">Mai'26</div>
+      <div class="month in-progress">Jun'26</div><div class="month current">Jul'26</div>
       <div class="month current">Aug'26</div><div class="month">Sep'26</div><div class="month">Okt'26</div><div class="month">Nov'26</div><div class="month">Dez'26</div>
-      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div><div class="month">Mai'27</div><div class="month">Jun'27</div>
+      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div>
     </div>
   </div>
 
-  <!-- Elektrik HAUPTAUFABEIT: Ab Aug'26 = PHASE 3 -->
+  <!-- 2. ELEKTRIK: Aug-Okt'26 -->
   <div class="task-row">
-    <div class="task-label"><span class="status-dot future"></span>2. Elektrik (Hauptarbeit)</div>
+    <div class="task-label"><span class="status-dot future"></span>2. Elektrik</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 52%; width: 22%;">Aug-Okt: ~140h</div>
+      <div class="task-bar future" style="left: 52%; width: 14%;">Aug-Okt</div>
     </div>
   </div>
 
@@ -256,15 +270,15 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>5. Bodenbelag</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 52%; width: 13%;">Aug-Sep</div>
+      <div class="task-bar future" style="left: 52%; width: 10%;">Aug-Sep</div>
     </div>
   </div>
 
-  <!-- 6. LEHMPUTZ: Aug-Nov'26 -->
+  <!-- 6. LEHMPUTZ: Aug-Nov'26 (inkl. Trocknung) -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>6. Lehmputz</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 52%; width: 17%;">Aug-Nov: 6 Wochen</div>
+      <div class="task-bar future" style="left: 52%; width: 19%;">Aug-Nov: 6 Wochen</div>
     </div>
   </div>
 
@@ -272,26 +286,42 @@ status: active
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>7. Decke</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 57%; width: 13%;">Sep-Nov</div>
+      <div class="task-bar future" style="left: 57%; width: 14%;">Sep-Nov</div>
     </div>
   </div>
 
-  <!-- 8. TÜREN: Okt'26 -->
+  <!-- 8. TÜREN: Nov'26 -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>8. Türen</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 61%; width: 4%;">Okt</div>
+      <div class="task-bar future" style="left: 67%; width: 5%;">Nov</div>
     </div>
   </div>
 
-  <!-- Year divider -->
-  <div class="year-divider">—— 2027 ——</div>
+</div>
+</div>
 
-  <!-- 9. WDVS: Mär-Juni'27 -->
+<!-- Year divider -->
+<div class="year-divider">—— 2027 ——</div>
+
+<div class="chart-container">
+<div class="chart">
+  <div class="header-row">
+    <div class="header-label">Fortsetzung</div>
+    <div class="header-months">
+      <div class="month done">Aug'25</div><div class="month done">Sep'25</div><div class="month done">Okt'25</div><div class="month done">Nov'25</div><div class="month done">Dez'25</div>
+      <div class="month done">Jan'26</div><div class="month done">Feb'26</div><div class="month done">Mär'26</div><div class="month done">Apr'26</div><div class="month done">Mai'26</div>
+      <div class="month in-progress">Jun'26</div><div class="month current">Jul'26</div>
+      <div class="month current">Aug'26</div><div class="month">Sep'26</div><div class="month">Okt'26</div><div class="month">Nov'26</div><div class="month">Dez'26</div>
+      <div class="month">Jan'27</div><div class="month">Feb'27</div><div class="month">Mär'27</div><div class="month">Apr'27</div>
+    </div>
+  </div>
+
+  <!-- 9. WDVS: Mär-Apr'27 -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>9. WDVS</div>
     <div class="task-bar-container">
-      <div class="task-bar future" style="left: 78%; width: 22%;">Mär-Jun 2027</div>
+      <div class="task-bar future" style="left: 81%; width: 14%;">Mär-Apr 2027</div>
     </div>
   </div>
 
@@ -312,21 +342,22 @@ status: active
 
 <!-- Meilensteine -->
 <div class="milestones">
-  <h3>📍 Meilensteine</h3>
+  <h3>📍 Meilensteine (REALISTISCH)</h3>
   <div class="milestone-list">
     <div class="milestone-item">✅ Abriss + Wärmepumpe fertig</div>
     <div class="milestone-item">⚡ KW27: Trockenbau fertig</div>
-    <div class="milestone-item">🏠 KW28: Estrichleger kommt</div>
+    <div class="milestone-item">🏠 KW28: Estrichleger</div>
     <div class="milestone-item">⏸ KW29-31: Estrich-Trocknung</div>
-    <div class="milestone-item">🔌 KW32: Elektrik startet</div>
-    <div class="milestone-item">🏡 KW40: Lehmputz fertig</div>
-    <div class="milestone-item">🚪 KW42: Türen fertig</div>
-    <div class="milestone-item">🏗️ Jun 2027: WDVS fertig</div>
+    <div class="milestone-item">🔌 KW34: Elektrik + Boden</div>
+    <div class="milestone-item">🏡 KW44: Lehmputz fertig</div>
+    <div class="milestone-item">🔧 KW46: Decke + Türen</div>
+    <div class="milestone-item">🏗️ Apr 2027: WDVS fertig</div>
   </div>
 </div>
 
 <div class="note">
-  Elektrik-Vorbereitung VOR Estrich | Elektrik-HAUPTARBEIT AB Estrich-Trocknung
+  Basis: 32h/Woche · Parallelarbeit möglich · Lehmputz-Trocknung überbrückt Wartezeit<br>
+  Realistisch: ~18 Wochen für Phase 3 → Fertig April 2027
 </div>
 
 </body>
