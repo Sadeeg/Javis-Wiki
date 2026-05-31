@@ -4,8 +4,8 @@ id: source.zeitplan-gantt-sanierung-kersbach-2026
 title: Zeitplan Gantt Sanierung Kersbach 2026
 sourceType: local-file
 sourcePath: /home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html
-ingestedAt: 2026-05-31T12:31:30.052Z
-updatedAt: 2026-05-31T12:31:30.052Z
+ingestedAt: 2026-05-31T12:54:02.761Z
+updatedAt: 2026-05-31T12:54:02.761Z
 status: active
 ---
 
@@ -14,8 +14,8 @@ status: active
 ## Source
 - Type: `local-file`
 - Path: `/home/sascha/.openclaw/workspace/obsidian_vault/Baustelle/bau-wiki/wiki/konzepte/Zeitplan-Gantt.html`
-- Bytes: 14580
-- Updated: 2026-05-31T12:31:30.052Z
+- Bytes: 14597
+- Updated: 2026-05-31T12:54:02.761Z
 
 ## Content
 ```text
@@ -175,7 +175,7 @@ status: active
     </div>
   </div>
 
-  <!-- Elektrik VORBEREITUNG: Apr-Jul'26 -->
+  <!-- Elektrik VORBEREITUNG: Apr-Jul'26 (nur 43h) -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot in-progress"></span>2. Elektrik (Vorbereitung)</div>
     <div class="task-bar-container">
@@ -244,7 +244,7 @@ status: active
     </div>
   </div>
 
-  <!-- 2. ELEKTRIK HAUPTAUFABEIT: Ab Aug'26 -->
+  <!-- Elektrik HAUPTAUFABEIT: Ab Aug'26 = PHASE 3 -->
   <div class="task-row">
     <div class="task-label"><span class="status-dot future"></span>2. Elektrik (Hauptarbeit)</div>
     <div class="task-bar-container">
