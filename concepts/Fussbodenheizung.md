@@ -39,6 +39,40 @@ Hier sind die genauen Gründe:
 - **Vermeidung von Taktung:** Wenn die Wärmepumpe ständig zwischen dem „Notbetrieb" für den Estrich und dem Normalbetrieb für Warmwasser hin- und herspringen muss, schadet das dem Kompressor (Verschleiß durch zu häufiges Ein- und Ausschalten).
 - **Rechtliche Abgrenzung:** Der Heizungsbauer trennt damit die Verantwortung. Für dein Warmwasser läuft die Anlage normal. Das Risiko für das (oft kritische) Estrichaufheizen bleibt komplett auf das mobile Leihgerät ausgelagert.
 
+### Kermi-Garantie: Warum das externe Gerät die Absicherung schützt
+
+Das Aufheizen mit einem externen Mobilgerät ist ein **absolutes Standardverfahren** im deutschen Bauwesen. Nahezu jeder erfahrene Heizungsbauer geht genau so vor, um technische und rechtliche Risiken zu trennen.
+
+#### 1. Das Standardverfahren im Bauwesen
+
+In der Bauphase gilt: Der Handwerker haftet für die Anlage, bis sie offiziell an euch übergeben (abgenommen) wurde.
+
+Wenn der Heizungsbauer das Estrichaufheizprogramm (Funktionsheizen nach DIN EN 1264-4) über die frisch installierte Kermi-Wärmepumpe laufen lässt, betreibt er das Gerät unter Extrembedingungen in einer staubigen, feuchten Umgebung. Geht dabei der Verdichter kaputt, kann der Handwerker die Schuld kaum auf Kermi abwälzen, sondern bleibt selbst auf den Kosten sitzen. Das mobile Heizgerät schützt ihn vor diesem Risiko.
+
+#### 2. Kermi-Garantiebedingungen im Detail
+
+Kermi bietet attraktive Garantiepakete an, knüpft diese aber an messerscharfe Bedingungen:
+
+| Garantie | Details |
+|----------|---------|
+| **Gesetzliche Gewährleistung** | 24 Monate |
+| **Kermi 5-Jahre-Systemgarantie** | Nur bei offizieller Inbetriebnahme durch Kermi-Werkskundendienst oder zertifizierten Kermi-Fachpartner |
+| **Kermi 7-Jahre-Servicepaket** | Optional für x-change dynamic Wärmepumpen, gleiche Bedingungen |
+
+#### Das Problem für den Heizungsbauer
+
+Der Kermi-Kundendienst kommt erst zur Inbetriebnahme, wenn das Haus weitgehend fertig, staubfrei und das Heizungswasser nach DIN-Vorgaben aufbereitet ist.
+
+Da der Estrich aber vor der Fertigstellung des Innenausbaus (und somit vor der offiziellen Kermi-Inbetriebnahme) aufgeheizt werden muss, würde die Wärmepumpe in einer **Grauzone** laufen.
+
+Würde vor der Kermi-Inbetriebnahme ein Schaden durch das Estrichheizen entstehen, verweigert Kermi im Regelfall die Garantie, da die Anlage nicht offiziell abgenommen und eingeregelt war.
+
+#### Fazit für eure Stromkosten
+
+Auch wenn es für euch finanziell wehtut: Der Heizungsbauer schützt hiermit eure spätere **5-Jahre-Systemgarantie von Kermi**. Läuft die Anlage einmal fehlerhaft heiß, bevor Kermi sie abgenommen hat, riskiert ihr den kompletten Garantieanspruch für die Zukunft.
+
+> 💡 **Finanzielle Eingrenzung:** Fragt den Heizungsbauer: **Wie viele Tage genau** wird das Funktionsheizen dauern und mit wie viel kW Leistung läuft das Mobilgerät? Mit diesen Daten lässt sich der Stromverbrauch exakt berechnen.
+
 ### Mögliche Einwände des Heizungsbauers
 
 Aus Sicht des Heizungsbauers können trotzdem praktische Gründe dagegen sprechen:
