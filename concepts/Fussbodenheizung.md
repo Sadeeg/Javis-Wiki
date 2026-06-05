@@ -50,6 +50,30 @@ Wenn du den Baustrom zahlst, kann das Aufheizen mit einem reinen Elektroheizer s
 
 Die Antwort verrät meist sehr schnell, ob ein echter technischer Grund dahintersteckt oder eher organisatorische Gründe.
 
+### Kostenvergleich: Elektro-Aufheizer vs. Wärmepumpe
+
+Für eine grobe Abschätzung bei 100 m² Fußbodenheizung mit Anhydritestrich im Sommer:
+
+Ein typisches Estrich-Aufheizprogramm benötigt oft etwa **1.000–2.000 kWh** Wärmeenergie, abhängig von Estrichdicke, Rohrabständen, Gebäudetemperatur und Lüftung. Das Funktions- und Belegreifheizen läuft meist über **2–3 Wochen** mit steigenden und fallenden Vorlauftemperaturen.
+
+| Heizart | Stromverbrauch | Kosten |
+|---------|---------------|--------|
+| Elektro-Aufheizer (COP 1) | 1.000–2.000 kWh | ca. 300–600 € |
+| Wärmepumpe (COP 3–4 im Sommer) | 250–670 kWh | ca. 75–200 € |
+
+> **Der Unterschied liegt also oft in der Größenordnung von 200–400 €, manchmal auch mehr.** |
+
+Bei der Doppelhaushälfte von Baujahr 1971 mit rund 100 m² FBH-Fläche (Kersbach):
+
+| Variante | Geschätzte Stromkosten |
+|----------|------------------------|
+| Elektro-Aufheizer | **400–500 €** |
+| Wärmepumpe (Kermi) | **100–150 €** |
+
+### Fazit
+
+Deshalb lohnt es sich durchaus, den Heizungsbauer zu fragen, warum er nicht die Kermi-Wärmepumpe nutzt. Wenn der zusätzliche Elektro-Aufheizer von dir bezahlt werden muss, sind das schnell ein paar hundert Euro Mehrkosten.
+
 ---
 
 ## Related
