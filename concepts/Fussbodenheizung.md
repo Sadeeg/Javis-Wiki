@@ -27,6 +27,18 @@ Gerade bei Anhydritestrich wird häufig relativ früh mit dem Aufheizprogramm be
 
 Wenn die Kermi x-change dynamic pro M bereits installiert, befüllt und elektrisch angeschlossen ist, spricht technisch wenig dagegen, das Funktionsheizen über die Wärmepumpe durchzuführen. Moderne Wärmepumpen besitzen normalerweise dafür vorgesehene Estrichprogramme.
 
+### Technische Gründe für externes Aufheizgerät (WP läuft bereits für Warmwasser)
+
+Dass die Wärmepumpe bereits für die Warmwasserbereitung läuft, ändert die Situation entscheidend. Der Heizungsbauer nutzt dennoch das externe Gerät, weil das gleichzeitige Liefern von Warmwasser und das intensive Estrichaufheizen die Wärmepumpe völlig überfordern würde.
+
+Hier sind die genauen Gründe:
+
+- **Warmwasser-Priorität:** Wärmepumpen können in der Regel nicht gleichzeitig heizen und Warmwasser machen. Das Estrichprogramm benötigt jedoch über Tage hinweg ununterbrochen Energie. Würde die Wärmepumpe das übernehmen, hättest du tagelang kein warmes Wasser.
+- **Extreme Lastspitzen:** Das Estrichaufheizen entzieht dem System massiv Energie. Läuft parallel die Warmwasserbereitung, schaltet sich permanent der interne Heizstab (Elektroheizstab) der Wärmepumpe zu. Das führt zu extremen Stromkosten direkt auf deinem Zähler.
+- **Hydraulischer Abgleich fehlt:** Für das Estrichheizen müssen oft alle Ventile komplett geöffnet sein. Das System läuft also noch nicht im optimal eingestellten Regelbetrieb. Die Warmwasserbereitung benötigt hingegen ganz andere Drücke und Temperaturen.
+- **Vermeidung von Taktung:** Wenn die Wärmepumpe ständig zwischen dem „Notbetrieb" für den Estrich und dem Normalbetrieb für Warmwasser hin- und herspringen muss, schadet das dem Kompressor (Verschleiß durch zu häufiges Ein- und Ausschalten).
+- **Rechtliche Abgrenzung:** Der Heizungsbauer trennt damit die Verantwortung. Für dein Warmwasser läuft die Anlage normal. Das Risiko für das (oft kritische) Estrichaufheizen bleibt komplett auf das mobile Leihgerät ausgelagert.
+
 ### Mögliche Einwände des Heizungsbauers
 
 Aus Sicht des Heizungsbauers können trotzdem praktische Gründe dagegen sprechen:
