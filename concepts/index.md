@@ -12,6 +12,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 <!-- openclaw:wiki:concepts:index:start -->
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
 - [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]
+- [[concepts/AI-Agent-Company-HR-System|AI Agent Company / Agent HR System]]
 - [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]

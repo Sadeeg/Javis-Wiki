@@ -1,6 +1,11 @@
 ---
+id: ai-agent-company-hr-system
+pageType: concept
 title: AI Agent Company / Agent HR System
 description: Konzept eines virtuellen Unternehmens aus spezialisierten KI-Agents mit zentralem HR Manager
+createdAt: 2026-08-04T00:00:00.000Z
+updatedAt: 2026-08-04T00:00:00.000Z
+sourceIds: []
 tags:
   - ai-agents
   - orchestration
@@ -350,3 +355,8 @@ Der HR Manager entscheidet:
 8. Wann eine neue Version freigegeben werden kann
 
 **Der Benutzer** kann währenddessen über Mattermost beobachten, was seine Agents gerade machen, miteinander besprechen und entscheiden.
+
+## Related
+<!-- openclaw:wiki:related:start -->
+- No related pages yet.
+<!-- openclaw:wiki:related:end -->

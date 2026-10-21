@@ -11,11 +11,11 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 77
+- Total pages: 78
 - Claims: 0
 - Sources: 27
 - Entities: 4
-- Concepts: 14
+- Concepts: 15
 - Syntheses: 22
 - Reports: 10
 
@@ -57,6 +57,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ### Concepts
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
 - [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]
+- [[concepts/AI-Agent-Company-HR-System|AI Agent Company / Agent HR System]]
 - [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]

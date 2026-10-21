@@ -57,3 +57,7 @@
 {"type":"lint","timestamp":"2026-06-09T01:06:58.510Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
 {"type":"lint","timestamp":"2026-06-10T07:06:32.012Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
 {"type":"lint","timestamp":"2026-06-13T03:35:24.824Z","details":{"issueCount":0,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-21T22:35:28.905Z","details":{"pageCounts":{"entity":4,"concept":15,"source":27,"synthesis":22,"report":10},"updatedFiles":["concepts/AI-Agent-Company-HR-System.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json","index.md","concepts/index.md"]}}
+{"type":"lint","timestamp":"2026-10-21T22:35:28.921Z","details":{"issueCount":71,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-21T22:36:12.119Z","details":{"pageCounts":{"entity":4,"concept":15,"source":27,"synthesis":22,"report":10},"updatedFiles":["reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json"]}}
+{"type":"lint","timestamp":"2026-10-21T22:36:12.128Z","details":{"issueCount":68,"reportPath":"reports/lint.md"}}
