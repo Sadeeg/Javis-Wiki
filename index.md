@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 78
+- Total pages: 79
 - Claims: 0
-- Sources: 27
+- Sources: 28
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -41,6 +41,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
 - [[sources/STACK|STACK - Technologie-Stack]]
+- [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
 - [[sources/Willkommen|Willkommen]]
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]
 - [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]

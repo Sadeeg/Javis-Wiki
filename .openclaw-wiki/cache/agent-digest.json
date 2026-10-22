@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 27,
+    "source": 28,
     "synthesis": 22,
     "report": 10
   },
@@ -1002,6 +1002,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.wasserinstallation-material-2026-10",
+      "title": "Wasserinstallation Materialbestellung 2026-10",
+      "kind": "source",
+      "path": "sources/wasserinstallation-material-2026-10.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T01:40:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

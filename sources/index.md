@@ -31,6 +31,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
 - [[sources/STACK|STACK - Technologie-Stack]]
+- [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
 - [[sources/Willkommen|Willkommen]]
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]
 - [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]
