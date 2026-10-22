@@ -153,6 +153,13 @@ Nextcloud `Javis/` – 24 Markdown-Dateien in `raw/nextcloud-javis/`:
 `Helferliste.md`, `gantt_fahrplan.html` sowie `sanierungsaufstellung/` mit den
 11 Blöcken Abriss → Fassade inkl. vollständiger Materiallisten.
 
+## Elektrik-Material – verifiziert
+
+`Javis/Input/Elektronik.xlsx` ausgewertet: **8.944,12 €** ausgewertete
+Einkaufsliste (31 FI/LS-Sicherungen, 60 Steckdosen, 7 KNX-Raumtemperaturregler,
+2.079 m Leitungen/Kabel) → **9.127 € im Fahrplan, Abweichung nur 2 %** ✅
+→ [[sources/elektrik-materialliste|Elektrik-Materialliste]]
+
 ## Lücken in der Belegkette
 
 - **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
