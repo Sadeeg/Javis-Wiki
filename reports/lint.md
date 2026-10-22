@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 68
+- Warnings: 67
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -70,7 +70,6 @@ status: active
 - `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kersbach-status.md`: Page freshness needs review (last touched 2026-05-21T10:25:00.000Z).
 - `syntheses/kosten-uebersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
 - `syntheses/KW15-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -140,7 +139,6 @@ status: active
 - `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kersbach-status.md`: Page freshness needs review (last touched 2026-05-21T10:25:00.000Z).
 - `syntheses/kosten-uebersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
 - `syntheses/KW15-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
