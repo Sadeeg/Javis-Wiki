@@ -3,109 +3,139 @@ id: kersbach-aktueller-status
 pageType: synthesis
 title: Kersbach Baustelle – Aktueller Stand
 createdAt: 2026-05-21T10:25:00.000Z
-updatedAt: 2026-10-22T02:00:00.000Z
+updatedAt: 2026-10-22T14:30:00.000Z
 sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 ---
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: **22.10.2026** | Quelle: OpenProject API + Nextcloud + Obsidian Vault
+> Stand: **22.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
+> Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), Fotodokumentation 26.09.2026
 
-## Aktueller Stand (Oktober 2026)
+## Die Zahlen
 
-**Stunden:** 878,50 h erfasst (227 Einträge, 13.08.2025 – 18.07.2026).
-**Letzte OpenProject-Buchung:** 18.07.2026 (KW29/2026, 15,0 h) – seither 14 Wochen 0h.
+| | Wert |
+|---|---|
+| **Erfasste Arbeitszeit** | **878,50 h** (227 API-Einträge, 13.08.2025 – 18.07.2026) |
+| Planvolumen (Saschas Fahrplan) | **1.613 h** |
+| **Real offen** | **~909,5 h** (879,5 h + ~30 h Wasserinstallation) |
+| davon Innenbereich | ~674,5 h |
+| davon WDVS (März–Okt 2027) | 235 h |
+| **Materialbudget** | **~97.033 €** (davon 60.205 € WP+FBH Fremdfirma) |
+| **Eigenleistungswert** | **64.520 €** (1.613 h × 40 €/h), davon 42.080 € offen |
+| Gesamtbedarf | ~161.553 € · Finanzierung 260.000 € + 84.500 € Kredit |
+| Letzte Buchung | 18.07.2026 (KW29/2026, 15,0 h) – seither **14 Wochen 0h** |
 
-⚠️ **Die 0h sind ein Buchungsproblem, kein Stillstand.** Belege für aktive Arbeit:
-- **20.10.2026:** Materialbestellung MeinHausShop 410,95 € – Uponor Uni Pipe PLUS d16 + S-Press Fittinge → Start Trinkwasser-Installation
-- **26.09.2026:** Baustellenfotos – Estrich verlegt, Elektro-Schlitze in Arbeit (roh, mit Kabeln in Schlitzen)
+## Blöcke
 
-Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) → bei 0h-Wochen
-immer Nextcloud `Projekt Haus/` prüfen.
+| # | Block | Plan | API | Rest |
+|---|---|---|---|---|
+| 1 | Abrissarbeiten | 288 h | 398,75 h | 0 ✅ |
+| 2 | Elektrik | 183 h | 81 h | **102 h** |
+| 3 | Trockenbau | 122 h | 143 h | 0 ✅ |
+| 4 | Wärmepumpe + FBH | 86 h | 96,25 h | 0 ✅ |
+| 5 | Boden (Fliesen/Estrich) | 162 h | 53 h | **109 h** |
+| 6 | Wandputz (Lehmputz 190 m²) | 368 h | 103,5 h | **264,5 h** |
+| 7 | Decke abhängen | 140 h | 0 h | **140 h** |
+| 8 | Türen einbauen | 29 h | 0 h | **29 h** |
+| 9 | Fassadendämmung (WDVS) | 235 h | 0 h | **235 h** |
+| 10 | Wasserinstallation | ~30 h | 0 h | **~30 h** |
 
-**Kritische Kette:**
+> ⚠️ **Der Plan von 1.613 h ist durch Block-Überschreitungen bereits verbraucht**
+> (Abriss +110,75 h, Trockenbau +21 h, WP +10,25 h).
+
+## Bauzustand – belegt durch Fotos vom 26.09.2026
+
+- ✅ **Estrich liegt** (glatte Fläche, grüner Randdämmstreifen, kein Trocknungsriss)
+- ⏳ **Elektrik NICHT fertig**: offene Frässchlitze, Dosen nicht geschlossen,
+  Hauptverteilerkasten unfertig, Leitungen hängen lose
+- ⏳ **Wände**: nur grober Altputz, kein Lehmputz
+- ❌ Keine Fliesen, keine abgehängte Decke, keine Türen
+
+**Das ist die letzte belegte Sichtung.** Danach: keine Fotos in Nextcloud, keine Stunden in OpenProject.
+
+## Kritische Kette
+
 ```
-Elektrik fertig (~140h offen) → Wasserinstallation/Chases → Lehmputz 190m² (~284h) → Estrich final → Fliesen
+Elektrik (102 h)  ←── BLOCKIERT ALLES
+   ↓
+Wasserinstallation (30 h)  ←── Rohre vor dem Lehmputz
+   ↓
+Lehmputz 190 m² (264,5 h) + Rollputz 80 m²
+   ↓
+Grundieren + Fliesen (109 h)  ← Estrich liegt, nur Belag fehlt
+   ↓
+Türen (29 h) → Decke abhängen (140 h)
 ```
-Die Wasserinstallations-Schlitze müssen **vor** dem Lehmputz stehen, sonst gehen sie nicht mehr auf.
 
-## Alte Task-Übersicht (Stand Mai 2026, 44 Work Packages)
+WDVS (235 h) läuft parallel ab Innenende, Fenster 01.03.–31.10.2027.
 
-## OpenProject Tasks (44 Work Packages)
+**Harte Constraints:**
+1. Trockenbau + Sockel-Leisten vor Estrich ✅ erledigt (KW27/2026)
+2. Lehmputz nach Elektrik – Schlitze und Dosen müssen mit verputzt werden
+3. Wasserinstallations-Schlitze vor Lehmputz
+4. WDVS nicht im Winter
+5. Estrich 3–4 Wochen trocknen vor Fliesen
 
-**Geschätzte Arbeitsstunden:** ~276h (nur erfasste Tasks)
+## Terminierung
 
-### Top geschätzte Tasks
-| Task | Stunden |
-|------|---------|
-| Lehmputz Essbereich | 20h |
-| Lehmputz Küche | 20h |
-| Abbauen im Bad | 20h |
-| Fließen/Estrich entfernen | 20h |
-| Wasserinstallation Küche | 20h |
-| Alex Büro Elektrik | 19h |
-| Schlafzimmer Elektrik | 15h |
-| Kaminzimmer Elektrik | 19h |
+| Rate | Innen fertig | WDVS | **Fertig** |
+|---|---|---|---|
+| **20,3 h/Woche (Ist-Rate)** | 29.05.2027 | bis 18.08.2027 | **18.08.2027** |
+| 25 h/Woche | 17.04.2027 | bis 21.06.2027 | **22.06.2027** |
+| 30 h/Woche | 18.03.2027 | bis 11.05.2027 | **12.05.2027** |
+| 35 h/Woche | 24.02.2027 | 01.03.–17.04.2027 | **17.04.2027** |
 
-### Task-Übersicht (44 Tasks)
-- **Trockenbau:** #58, #95, #116
-- **Elektrik:** #94, #105, #106, #107, #108, #109, #110, #111, #112
-- **Lehmputz:** #101, #125, #126, #127, #128, #129, #130
-- **Boden:** #100, #117, #118, #119, #120, #121
-- **Sonstiges:** #85, #89, #92, #96, #98, #99, #103, #104, #113, #114, #131, #132, #133, #135, #141
+Saschas eigener Zeitplan sagt **27.05.2027** – er unterstellt 27–41 h/Woche, real waren
+es 20,3 h/Woche über 26 Wochen. **Das WDVS-Fenster passt in allen Szenarien;
+die Tagesrate ist die kritische Größe, nicht die Fassade.**
 
-## Wochenstunden (KW15, April 2026)
+## Die 0h sind ein Buchungsproblem, kein Stillstand
 
-**KW15 (06.–12.04.2026):** 6h
-- Aushub Wärmepumpe (90% fertig)
-- Helfer: Eva Krompasky, Tina Augsdörfer, Anke Chaboski, Alexandra Deeg, Sascha Deeg
+Belege für aktive Arbeit nach dem 18.07.2026:
+- **20.10.2026:** Materialbestellung MeinHausShop 410,95 € – Uponor Uni Pipe PLUS d16 +
+  S-Press Fittinge → Start Trinkwasser-Installation
+- **26.09.2026:** Baustellenfotos – Estrich verlegt, Elektro-Schlitze in Arbeit
+  (roh, mit Kabeln in Schlitzen)
+
+Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) → bei
+0h-Wochen immer Nextcloud `Projekt Haus/` prüfen.
+
+## Offene Entscheidungen
+
+1. **Rate festlegen** – 20 h/Woche (→ 18.08.2027) oder 30 h/Woche (→ 12.05.2027)?
+2. **Lehmputz-Fläche** – alle 190 m² oder Kernräume zuerst?
+3. **WDVS-Vergabe** – nur Material (235 h Eigenleistung bleiben) oder an die Firma?
+4. **Lüftung** – Anlage (6.000–10.000 €) oder Stoßlüften?
+5. **Dach- + Kellerdämmung** (190 h / 13.000 €) – mit in die WDVS-Runde 2027?
+6. **Heizlast-Original** (EVEBI, 26.08.2025) anfordern – einzige Lücke in der Belegkette
+
+## Lücken in der Belegkette
+
+- **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
+- **78 Bautagebuch-Fotos** – nicht in Nextcloud, nicht über die OpenProject-API abrufbar
+- **Rechnungen** fast vollständig fehlend – Kosten.xlsx endet am 17.08.2025 (319,05 € erfasst)
+- **Buchungsrückstand** 14 Wochen (KW30–KW43/2026)
 
 ## Entscheidung Fassade
 
 **Status: EINGESCHRÄNKT** ⚠️
 - Aufgrund **Bebauungsplan** ist nur **Putz mit Wärmedämmverbundsystem (WDVS)** erlaubt
 - Vorgehängte hinterlüftete Fassade (VHF/Cedral) **nicht möglich**
+- Konsequenz: WDVS statt Innendämmung → mehr FBH-Module, besserer U-Wert, bessere Energieklasse
+- Umsetzung: 153 m², Mineralwolle 140 mm (WLG 035), U 3,3 → 0,23, 13.179 € (OBI-Paket
+  59,99 €/m² + 4.000 € Gerüst), 235 h Eigenleistung
 
-**Konsequenz:**
-- Cedral/VHF gestrichen → stattdessen WDVS mit Putz
-- Dämmung: 15-20cm Steinwolle oder XPS
-- Optik: Glatter oder strukturierter Putz
-
-**Offene Fragen:**
-- [ ] Welcher Dämmstoff (XPS, Steinwolle)?
-- [ ] Welche Putz-Struktur (Rollputz, Spritzputz)?
-- [ ] Welche Farbe?
-- [ ] Kosten für WDVS (ca. 150-250€/m² inkl. Dämmung)?
-
-## Gestrichene Maßnahmen (Mai 2026)
-
-Folgende geplante Maßnahmen wurden **gestrichen/zurückgestellt** (zu Gunsten Fassade):
+## Gestrichene / verschobene Maßnahmen
 
 | Maßnahme | Status | Begründung |
 |----------|--------|------------|
-| Dachdämmung | ❌ Gestrichen | — |
-| Kellerdämmung | ❌ Gestrichen | — |
-| Solaranlage (8-10kWp) | ❌ Gestrichen | — |
-| Wärmepumpe | ⏳ Offen | Abhängig von Budget |
+| Dachdämmung (110 h / 4.000 €) | ⏸ verschoben | in einem Zug mit dem Dach |
+| Kellerdämmung (35 h / 1.800 €) | ⏸ verschoben | gehört zur WDVS-Runde 2027 |
+| Solaranlage (45 h / 7.200 €) | ⏸ verschoben | zusammen mit Dach |
+| Wärmepumpe | ✅ fertig | Angebot 60.205,04 € + 374,21 € Eigenleistung |
 
-**Fokus:** Fassade → Elektrik → Innenausbau (Lehmputz, Böden)
-
-## Geplante Eigenleistungen (Stand Mai 2026)
-
-| Bereich | Stunden | Material |
-|---------|---------|----------|
-| Abrissarbeiten | 145h | — |
-| Rollputz Innenputz | 85h | ~660€ |
-| Elektrik | ~180h | — |
-| Fassade (VHF) | TBD | 11.400–22.800€ (geschätzt) |
-| **Summe Eigenleistung** | **~410h** | |
-| **Material (Sanierung)** | | **~660€ + Fassade** |
-
-## Nächste Blocker
-
-1. **Elektrik** muss vor Estrich fertig sein (#94)
-2. **Verteilerkasten** setzen (#112) – erster Elektrik-Schritt
-3. **Zählerkasten** (#111)
+**Fokus:** WDVS 2027 → Elektrik → Innenausbau (Lehmputz, Böden)
 
 ## Prinzipien (Bautagebuch)
 

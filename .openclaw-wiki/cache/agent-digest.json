@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 28,
+    "source": 30,
     "synthesis": 22,
     "report": 10
   },
@@ -949,6 +949,25 @@
       "topClaims": []
     },
     {
+      "id": "source-sanierungsfahrplan-2026",
+      "title": "Sanierungsfahrplan 2026 (Sascha)",
+      "kind": "source",
+      "path": "sources/sanierungsfahrplan-2026.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T13:30:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source.sanierungsfahrplan-kersbach-2026",
       "title": "Sanierungsfahrplan Kersbach 2026",
       "kind": "source",
@@ -1135,6 +1154,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-31T11:40:51.153Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source-zustandsaufnahme-2026-09-26",
+      "title": "Zustandsaufnahme 26.09.2026 (Fotodokumentation)",
+      "kind": "source",
+      "path": "sources/zustandsaufnahme-2026-09-26.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T14:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1387,7 +1425,7 @@
       "topRelationships": [],
       "pageType": "synthesis",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-22T02:00:00.000Z",
+      "lastTouchedAt": "2026-10-22T14:30:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

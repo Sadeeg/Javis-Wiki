@@ -28,6 +28,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
+- [[sources/sanierungsfahrplan-2026|Sanierungsfahrplan 2026 (Sascha)]]
 - [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
 - [[sources/STACK|STACK - Technologie-Stack]]
@@ -38,4 +39,5 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/zeitplan-gantt-sanierung-kersbach-2026|Zeitplan Gantt Sanierung Kersbach 2026]]
 - [[sources/zeitplan-gantt-sanierung-kersbach2026|Zeitplan Gantt Sanierung Kersbach2026]]
 - [[sources/zeitplan-sanierung-kersbach-2026|Zeitplan Sanierung Kersbach 2026]]
+- [[sources/zustandsaufnahme-2026-09-26|Zustandsaufnahme 26.09.2026 (Fotodokumentation)]]
 <!-- openclaw:wiki:sources:index:end -->
