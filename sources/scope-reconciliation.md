@@ -44,6 +44,36 @@ Elektrik-ROHBAU (183,5 h)
 **Die Endmontage liegt zeitlich hinter dem Lehmputz**, nicht davor. Sie verlängert
 also nicht die Vorlaufzeit, sondern die Schlussphase.
 
+## 1b. Harte Zahlen zur Endmontage (aus EG-Planung-für-KI.ods)
+
+Die Elektrik-Planungs-ODS (9 Raumblätter) wurde ausgewertet – das ist die
+Plangrundlage des 224,1-h-Detailplans:
+
+| Raum | Zuleitungen | Sicherungen | Dosen | Schalter | Steckdosen | Geräte | KNX-Punkte |
+|---|---|---|---|---|---|---|---|
+| WC (EG) | 4 | 1 | 5 | 1 | 4 | 5 | 5 |
+| Küche (EG) | 17 | 8 | 25 | 4 | 19 | 25 | 15 |
+| Wohnzimmer (EG) | 26 | 6 | 35 | 4 | 21 | 35 | 20 |
+| Treppenhaus + Eingang EG | 10 | 3 | 15 | 6 | 8 | 16 | 13 |
+| Alex Büro (1. OG) | 4 | 2 | 10 | 2 | 7 | 10 | 8 |
+| Schlafzimmer (1. OG) | 4 | 1 | 18 | 4 | 13 | 18 | 10 |
+| Kinderzimmer (1. OG) | 4 | 1 | 10 | 2 | 7 | 10 | 8 |
+| Bad | 2 | 2 | 8 | 3 | 5 | 8 | 8 |
+| Treppenhaus 1. OG | 2 | 1 | 8 | 4 | 3 | 9 | 8 |
+| **Summe** | **73** | **25** | **134** | **30** | **87** | **136** | **95** |
+
+**Plausibilitätsprüfung der Endmontage-Schätzung:**
+- **348 Endmontage-Positionen** (30 Schalter + 87 Steckdosen + 136 Geräte + 95 KNX)
+- 40 h Endmontage → **6,9 min/Position** ✔ realistisch
+- 20 h KNX-Programmierung → **12,6 min/KNX-Punkt** ✔ realistisch (ETS)
+
+→ **Die ~80 h Endmontage sind durch die Planungsdaten gedeckt, nicht geraten.**
+
+⚠️ Kleine Abweichung: die ODS listet **73** Zuleitungen, der Detailplan nennt **91**.
+Die Summe-Zellen der 1.-OG-Blätter sind in der ODS leer, die Planzahlen sind dort
+etwas höher. Dosen (134) und Sicherungen (25/24) stimmen exakt. → Plan oder ODS
+ist die ältere Fassung – **klein, aber eine offene Mini-Frage.**
+
 ## 2. Februar-Plan (788 h, 20 Blöcke) vs. Mai-Fahrplan (1.613 h, 9 Blöcke)
 
 Der Zeitplan vom 23.02.2026 kennt Blöcke, die im Bank-Fahrplan vom 25.05.2026
