@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-21T22:36:11.936Z
+updatedAt: 2026-10-22T05:37:18.518Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 68
+- Stale pages: 67
 
 - [[entities/baustelle-kersbach|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/erdgeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
@@ -52,7 +52,6 @@ updatedAt: 2026-10-21T22:36:11.936Z
 - [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/keller|Keller – Kersbach]]: stale (2026-05-21T10:15:00.000Z)
-- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]: stale (2026-05-21T10:25:00.000Z)
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kw15-2026|KW15-2026 (Backup)]]: stale (2026-04-06T00:00:00.000Z)

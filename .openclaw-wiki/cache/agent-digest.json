@@ -602,7 +602,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-21T22:36:11.936Z",
+      "lastTouchedAt": "2026-10-22T05:37:18.518Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1376,7 +1376,8 @@
       "path": "syntheses/kersbach-status.md",
       "aliases": [],
       "sourceIds": [
-        "openproject-api"
+        "openproject-api",
+        "source.wasserinstallation-material-2026-10"
       ],
       "questions": [],
       "contradictions": [],
@@ -1385,8 +1386,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "synthesis",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:25:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T02:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

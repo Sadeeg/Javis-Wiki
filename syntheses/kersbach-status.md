@@ -3,13 +3,33 @@ id: kersbach-aktueller-status
 pageType: synthesis
 title: Kersbach Baustelle – Aktueller Stand
 createdAt: 2026-05-21T10:25:00.000Z
-updatedAt: 2026-05-21T10:25:00.000Z
-sourceIds: [openproject-api]
+updatedAt: 2026-10-22T02:00:00.000Z
+sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 ---
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: Mai 2026 | Quelle: OpenProject API + Obsidian Vault
+> Stand: **22.10.2026** | Quelle: OpenProject API + Nextcloud + Obsidian Vault
+
+## Aktueller Stand (Oktober 2026)
+
+**Stunden:** 878,50 h erfasst (227 Einträge, 13.08.2025 – 18.07.2026).
+**Letzte OpenProject-Buchung:** 18.07.2026 (KW29/2026, 15,0 h) – seither 14 Wochen 0h.
+
+⚠️ **Die 0h sind ein Buchungsproblem, kein Stillstand.** Belege für aktive Arbeit:
+- **20.10.2026:** Materialbestellung MeinHausShop 410,95 € – Uponor Uni Pipe PLUS d16 + S-Press Fittinge → Start Trinkwasser-Installation
+- **26.09.2026:** Baustellenfotos – Estrich verlegt, Elektro-Schlitze in Arbeit (roh, mit Kabeln in Schlitzen)
+
+Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) → bei 0h-Wochen
+immer Nextcloud `Projekt Haus/` prüfen.
+
+**Kritische Kette:**
+```
+Elektrik fertig (~140h offen) → Wasserinstallation/Chases → Lehmputz 190m² (~284h) → Estrich final → Fliesen
+```
+Die Wasserinstallations-Schlitze müssen **vor** dem Lehmputz stehen, sonst gehen sie nicht mehr auf.
+
+## Alte Task-Übersicht (Stand Mai 2026, 44 Work Packages)
 
 ## OpenProject Tasks (44 Work Packages)
 
@@ -93,5 +113,7 @@ Siehe [[concepts/baustelle-prinzipien]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Sources
+
+- [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
 <!-- openclaw:wiki:related:end -->

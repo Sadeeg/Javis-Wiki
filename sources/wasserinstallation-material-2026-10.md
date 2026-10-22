@@ -82,5 +82,7 @@ sind in OpenProject noch nicht gebucht.
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 <!-- openclaw:wiki:related:end -->

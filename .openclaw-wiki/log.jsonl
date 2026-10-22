@@ -63,3 +63,4 @@
 {"type":"lint","timestamp":"2026-10-21T22:36:12.128Z","details":{"issueCount":68,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-10-22T01:39:13.536Z","details":{"pageCounts":{"entity":4,"concept":15,"source":28,"synthesis":22,"report":10},"updatedFiles":["sources/wasserinstallation-material-2026-10.md",".openclaw-wiki/cache/agent-digest.json","index.md","sources/index.md"]}}
 {"type":"lint","timestamp":"2026-10-22T01:39:32.010Z","details":{"issueCount":68,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-22T05:37:18.799Z","details":{"pageCounts":{"entity":4,"concept":15,"source":28,"synthesis":22,"report":10},"updatedFiles":["syntheses/kersbach-status.md","sources/wasserinstallation-material-2026-10.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json"]}}
