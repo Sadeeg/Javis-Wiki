@@ -31,7 +31,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 | # | Block | Plan | API | Rest |
 |---|---|---|---|---|
 | 1 | Abrissarbeiten | 288 h | 398,75 h | 0 ✅ |
-| 2 | Elektrik | 183 h | 81 h | **102 h** |
+| 2 | Elektrik | 183 h (Detailplan: 224 h) | 81 h | **102 h** (realistisch 120–145 h) |
 | 3 | Trockenbau | 122 h | 143 h | 0 ✅ |
 | 4 | Wärmepumpe + FBH | 86 h | 96,25 h | 0 ✅ |
 | 5 | Boden (Fliesen/Estrich) | 162 h | 53 h | **109 h** |
@@ -103,12 +103,24 @@ Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) 
 
 ## Offene Entscheidungen
 
+0. **Elektrik-Plan reconcilen** – 9-Schritt-Plan (183 h) vs. Raum-Detailplan (224,1 h):
+   realistisch **200–225 h**, d.h. ~120–145 h offen statt 102 h.
+   → [[sources/elektrik-detailplan|Elektrik-Detailplan]]
 1. **Rate festlegen** – 20 h/Woche (→ 18.08.2027) oder 30 h/Woche (→ 12.05.2027)?
 2. **Lehmputz-Fläche** – alle 190 m² oder Kernräume zuerst?
 3. **WDVS-Vergabe** – nur Material (235 h Eigenleistung bleiben) oder an die Firma?
 4. **Lüftung** – Anlage (6.000–10.000 €) oder Stoßlüften?
 5. **Dach- + Kellerdämmung** (190 h / 13.000 €) – mit in die WDVS-Runde 2027?
 6. **Heizlast-Original** (EVEBI, 26.08.2025) anfordern – einzige Lücke in der Belegkette
+
+## Primärquellen im Wiki (importiert 22.10.2026)
+
+Nextcloud `Javis/` – 24 Markdown-Dateien in `raw/nextcloud-javis/`:
+`Sanierungsfahrplan-Bank-komplett.md` (Originalfassung für die Bank),
+`Elektrik-Zeitplan.md` (Raum-Detailplan), `Abhängigkeitsanalyse-Reihenfolge.md`,
+`Wandflaechen-Berechnung.md` (190 m² Lehmputz, hergeleitet), `Zeitplan_*.md`,
+`Helferliste.md`, `gantt_fahrplan.html` sowie `sanierungsaufstellung/` mit den
+11 Blöcken Abriss → Fassade inkl. vollständiger Materiallisten.
 
 ## Lücken in der Belegkette
 
@@ -147,4 +159,8 @@ Siehe [[concepts/baustelle-prinzipien]]
 ### Sources
 
 - [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
+
+### Referenced By
+
+- [[sources/elektrik-detailplan|Elektrik-Detailplan (03.03.2026)]]
 <!-- openclaw:wiki:related:end -->
