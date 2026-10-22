@@ -81,15 +81,33 @@ WDVS (235 h) läuft parallel ab Innenende, Fenster 01.03.–31.10.2027.
 
 | Rate | Innen fertig | WDVS | **Fertig** |
 |---|---|---|---|
-| **20,3 h/Woche (Ist-Rate)** | 06.07.2027 | bis 25.09.2027 | **25.09.2027** |
+| 18,1 h/Woche (Gesamtlaufzeit) | 07.08.2027 | **06.11.2027** ⚠️ | **WDVS-Fenster verfehlt!** |
+| **19,6 h/Woche (Kalenderbasis 2026)** | 16.07.2027 | bis 08.10.2027 | **08.10.2027** |
+| 20,3 h/Woche (Mittel) | 06.07.2027 | bis 25.09.2027 | **25.09.2027** |
+| 21,2 h/Woche (aktive Wochen) | 25.06.2027 | bis 11.09.2027 | **11.09.2027** |
 | 25 h/Woche | 18.05.2027 | bis 23.07.2027 | **23.07.2027** |
 | 30 h/Woche | 13.04.2027 | bis 07.06.2027 | **07.06.2027** |
 | 35 h/Woche | 19.03.2027 | bis 05.05.2027 | **05.05.2027** |
 
 > ⚠️ **Korrigiert 22.10.2026:** +80,5 h Elektrik-Endmontage und +30 h Wasserinstallation
 > waren in der Innen-Berechnung nicht enthalten. Konsistent gerechnet: 25.09.2027
-> statt 18.08.2027. Das **WDVS-Fenster (01.03.–31.10.2027) bleibt unkritisch.**
-> → [[sources/scope-reconciliation|Scope-Abgleich]]
+> statt 18.08.2027. → [[sources/scope-reconciliation|Scope-Abgleich]]
+>
+> ⚠️ **WDVS ist NICHT immer unkritisch:** Bei 18,1 h/Woche (Gesamtlaufzeit-Rate
+> 878,5 h / 48,4 Wochen) endet das Projekt am **06.11.2027** – das WDVS-Fenster
+> 01.03.–31.10.2027 ist dann **verfehlt** und die Fassade rutscht in die Saison 2028.
+> Ab **19,6 h/Woche** (Kalenderbasis 2026) passt sie noch. → **Die Rate entscheidet
+> über die Fassade, nicht die Fassade über die Termine.**
+>
+> **Die Rate ist selbst eine Rechengröße mit Unsicherheit:**
+> - 2025: 311,00 h (13.08.–31.12.) ≈ 15,5 h/Woche
+> - 2026: 567,50 h (KW01–KW29, 29 Kalender-Wochen) ≈ **19,6 h/Woche**
+> - nur Wochen mit Buchungen: 21,2 h/Woche
+> - Gesamtlaufzeit 878,50 h / 48,4 Wochen ≈ 18,1 h/Woche
+>
+> **In den API-Daten gibt es keine 0h-Wochen** – die 37 erfassten Wochen haben alle
+> > 0 h. „KW30–KW43/2026 = 0 h" bedeutet: **keine Buchung vorhanden**, nicht
+> „gearbeitet und nicht gebucht".
 
 Saschas eigener Zeitplan sagt **27.05.2027** – er unterstellt 27–41 h/Woche, real waren
 es 20,3 h/Woche über 26 Wochen. **Das WDVS-Fenster passt in allen Szenarien;
