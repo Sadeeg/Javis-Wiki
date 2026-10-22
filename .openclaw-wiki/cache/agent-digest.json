@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 36,
+    "source": 37,
     "synthesis": 22,
     "report": 10
   },
@@ -1021,6 +1021,25 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-22T19:05:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source-plan-historie",
+      "title": "Plan-Historie – vom Originalplan zum Bank-Fahrplan",
+      "kind": "source",
+      "path": "sources/plan-historie.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T19:50:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

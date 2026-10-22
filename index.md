@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 87
+- Total pages: 88
 - Claims: 0
-- Sources: 36
+- Sources: 37
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -43,6 +43,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/rechnungen-2025-2026|Materialbelege OBI/Hornbach (13 Belege)]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
+- [[sources/plan-historie|Plan-Historie – vom Originalplan zum Bank-Fahrplan]]
 - [[sources/sanierungsfahrplan-2026|Sanierungsfahrplan 2026 (Sascha)]]
 - [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]

@@ -106,6 +106,27 @@ Belege für aktive Arbeit nach dem 18.07.2026:
 Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) → bei
 0h-Wochen immer Nextcloud `Projekt Haus/` prüfen.
 
+## Plan-Historie – warum sich alle Zahlen geändert haben
+
+| | Originalplan 2025 | Bank-Fahrplan Mai 2026 |
+|---|---|---|
+| Eigenleistung | **763 h** / 30.500 € | **1.613 h** / 64.520 € |
+| Heizung | Deckenheizung 88 m² | **Fußbodenheizung** + FBH |
+| Wände | Rollputz 400 m² | Lehmputz 190 m² |
+| Fassade | Innendämmung (Dach/Keller) | **WDVS** 153 m² |
+| Geplantes Ende | **Juni 2026** | 27.05.2027 |
+
+Die Umstellung auf Fußbodenheizung hat den Umfang **verdoppelt** (Estrich raus,
+Türerneuerung, Trockenbauwände, erweiterte Elektrik) – und das WP-Angebot stieg
+von 50.000 € auf 60.205 €. → [[sources/plan-historie|Plan-Historie]]
+
+**Die alten Wiki-Zahlen (410 h, 660 € Rollputz) waren eine überholte Planversion,
+kein Rechenfehler** – sie waren nur als „aktuell" dargestellt.
+
+**Wichtig für die Terminierung:** Die Pläne unterstellen **2 Personen × 15 h/Woche**
+(Sascha + Vater Alexander bzw. Bruder Ranan). Die Ist-Rate 20,3 h/Woche ist also
+eine **Zwei-Personen**-Rate.
+
 ## Offene Entscheidungen
 
 0. **Elektrik-Scope fixieren** – der Fahrplan führt 183 h (= nur Rohbau). Die
