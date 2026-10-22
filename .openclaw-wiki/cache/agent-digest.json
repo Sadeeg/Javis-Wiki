@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 33,
+    "source": 34,
     "synthesis": 22,
     "report": 10
   },
@@ -1040,6 +1040,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-31T11:40:38.709Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source-scope-reconciliation",
+      "title": "Scope-Abgleich Elektrik & Feb-vs-Mai-Plan",
+      "kind": "source",
+      "path": "sources/scope-reconciliation.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T17:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

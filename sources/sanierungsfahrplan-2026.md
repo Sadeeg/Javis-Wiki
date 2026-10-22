@@ -82,5 +82,7 @@ Dachdämmung 110 h / 4.000 € · Kellerdämmung 35 h / 1.800 € · Solaranlage
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
 <!-- openclaw:wiki:related:end -->

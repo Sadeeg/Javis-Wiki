@@ -18,7 +18,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 |---|---|
 | **Erfasste Arbeitszeit** | **878,50 h** (227 API-Einträge, 13.08.2025 – 18.07.2026) |
 | Planvolumen (Saschas Fahrplan) | **1.613 h** |
-| **Real offen** | **~909,5 h** (879,5 h + ~30 h Wasserinstallation) |
+| **Real offen** | **~990 h** (909,5 h + **80,5 h Elektrik-Endmontage**) |
 | davon Innenbereich | ~674,5 h |
 | davon WDVS (März–Okt 2027) | 235 h |
 | **Materialbudget** | **~97.033 €** (davon 60.205 € WP+FBH Fremdfirma) |
@@ -31,7 +31,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 | # | Block | Plan | API | Rest |
 |---|---|---|---|---|
 | 1 | Abrissarbeiten | 288 h | 398,75 h | 0 ✅ |
-| 2 | Elektrik | 183 h (Detailplan: 224 h) | 81 h | **102 h** (realistisch 120–145 h) |
+| 2 | Elektrik | 183 h (vollständig: **263,5 h**) | 81 h | **~182,5 h** |
 | 3 | Trockenbau | 122 h | 143 h | 0 ✅ |
 | 4 | Wärmepumpe + FBH | 86 h | 96,25 h | 0 ✅ |
 | 5 | Boden (Fliesen/Estrich) | 162 h | 53 h | **109 h** |
@@ -81,10 +81,15 @@ WDVS (235 h) läuft parallel ab Innenende, Fenster 01.03.–31.10.2027.
 
 | Rate | Innen fertig | WDVS | **Fertig** |
 |---|---|---|---|
-| **20,3 h/Woche (Ist-Rate)** | 29.05.2027 | bis 18.08.2027 | **18.08.2027** |
-| 25 h/Woche | 17.04.2027 | bis 21.06.2027 | **22.06.2027** |
-| 30 h/Woche | 18.03.2027 | bis 11.05.2027 | **12.05.2027** |
-| 35 h/Woche | 24.02.2027 | 01.03.–17.04.2027 | **17.04.2027** |
+| **20,3 h/Woche (Ist-Rate)** | 06.07.2027 | bis 25.09.2027 | **25.09.2027** |
+| 25 h/Woche | 18.05.2027 | bis 23.07.2027 | **23.07.2027** |
+| 30 h/Woche | 13.04.2027 | bis 07.06.2027 | **07.06.2027** |
+| 35 h/Woche | 19.03.2027 | bis 05.05.2027 | **05.05.2027** |
+
+> ⚠️ **Korrigiert 22.10.2026:** +80,5 h Elektrik-Endmontage und +30 h Wasserinstallation
+> waren in der Innen-Berechnung nicht enthalten. Konsistent gerechnet: 25.09.2027
+> statt 18.08.2027. Das **WDVS-Fenster (01.03.–31.10.2027) bleibt unkritisch.**
+> → [[sources/scope-reconciliation|Scope-Abgleich]]
 
 Saschas eigener Zeitplan sagt **27.05.2027** – er unterstellt 27–41 h/Woche, real waren
 es 20,3 h/Woche über 26 Wochen. **Das WDVS-Fenster passt in allen Szenarien;
@@ -103,9 +108,12 @@ Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) 
 
 ## Offene Entscheidungen
 
-0. **Elektrik-Plan reconcilen** – 9-Schritt-Plan (183 h) vs. Raum-Detailplan (224,1 h):
-   realistisch **200–225 h**, d.h. ~120–145 h offen statt 102 h.
-   → [[sources/elektrik-detailplan|Elektrik-Detailplan]]
+0. **Elektrik-Scope fixieren** – der Fahrplan führt 183 h (= nur Rohbau). Die
+   Endmontage (Schalter/Steckdosen, Geräte, KNX-Programmierung, Tests) **~80 h**
+   fehlt in jedem Block → realistisch **263,5 h**, also **~182,5 h offen statt 102 h**.
+   → [[sources/elektrik-detailplan|Elektrik-Detailplan]] · [[sources/scope-reconciliation|Scope-Abgleich]]
+0b. **Bad-Umbau 1. OG** (62 h im Februar-Plan) – im Bank-Fahrplan **kein Block**.
+   Ebenso offen: Materialbesorgung (41 h), Unterboden-Prep (55 h), Logistik (15 h).
 1. **Rate festlegen** – 20 h/Woche (→ 18.08.2027) oder 30 h/Woche (→ 12.05.2027)?
 2. **Lehmputz-Fläche** – alle 190 m² oder Kernräume zuerst?
 3. **WDVS-Vergabe** – nur Material (235 h Eigenleistung bleiben) oder an die Firma?
@@ -127,7 +135,8 @@ Nextcloud `Javis/` – 24 Markdown-Dateien in `raw/nextcloud-javis/`:
 - **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
 - ~~78 Bautagebuch-Fotos fehlen~~ → **ERLEDIGT 22.10.2026:** liegen vollständig in
   `Projekt Haus/Baustellentagebuch/img/` (114 Dateien, 79/79 Buch-Referenzen auflösbar).
-- **Rechnungen** fast vollständig fehlend – Kosten.xlsx endet am 17.08.2025 (319,05 € erfasst)
+- **Rechnungen** fast vollständig fehlend – Kosten.xlsx endet am 17.08.2025 (319,05 € erfasst);
+  in Nextcloud liegen aber 10 Kassenbons unter `Finanzen/Rechnungen/` + `Rechnungen/` (noch nicht ausgewertet)
 - **Buchungsrückstand** 14 Wochen (KW30–KW43/2026)
 
 ## Entscheidung Fassade

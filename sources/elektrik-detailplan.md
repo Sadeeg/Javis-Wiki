@@ -106,4 +106,5 @@ weitergebaut werden können.
 ### Referenced By
 
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
+- [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
 <!-- openclaw:wiki:related:end -->

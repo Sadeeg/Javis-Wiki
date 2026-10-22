@@ -1,0 +1,108 @@
+---
+id: source-scope-reconciliation
+pageType: source
+title: Scope-Abgleich Elektrik & Feb-vs-Mai-Plan
+createdAt: 2026-10-22T17:20:00.000Z
+updatedAt: 2026-10-22T17:20:00.000Z
+sourceIds: []
+tags: [kersbach, elektrik, terminierung, recon, luecke]
+---
+
+# Scope-Abgleich – was im Fahrplan fehlt
+
+> Grundlage: 24 Nextcloud-Primärquellen `Javis/` (importiert 22.10.2026),
+> vgl. [[sources/elektrik-detailplan|Elektrik-Detailplan]] und
+> [[sources/sanierungsfahrplan-2026|Sanierungsfahrplan 2026]].
+
+## 1. Elektrik: vier Zahlen, ein Block
+
+| Plan | Summe | Was drin ist |
+|---|---|---|
+| 9-Schritt-Plan (Bank-Fahrplan, 25.05.2026) | **183 h** | Planung, Fräsen, Leitungen, Zählerschrank, Verteiler klemmen, Taster, KNX-Geräte, Verputzen, Test |
+| Raum-Detailplan **Rohbau** (03.03.2026) | **183,5 h** | nur Rohbau: Planung, Fräsen, Dosen, Leitungen, Verputzen, Säubern |
+| Raum-Detailplan **komplett** (03.03.2026) | **224,1 h** | Rohbau + Schalter/Steckdosen-Endmontage (~40 h) |
+| **Rohbau + Endmontage komplett** | **263,5 h** | zusätzlich KNX-Programmierung (~20 h) + Tests/Inbetriebnahme (~10 h) |
+
+**Der Bank-Fahrplan führt 183 h – das ist der Rohbau-Umfang. Die Endmontage
+(Schalter/Steckdosen montieren, Geräte anschließen, KNX-Programmierung,
+Inbetriebnahme = **~80 h**) ist in keinem Block enthalten.**
+
+⚠️ **Nicht addierbar:** 9-Schritt-Plan und Raum-Detailplan überlappen.
+Realistische Größenordnung: **~200–265 h** je nach Auslegung, mit Sicherheit
+**mehr als die 102 h**, die der Fahrplan als „Elektrik offen" ausweist.
+
+### Die Kette, die daraus folgt
+
+```
+Elektrik-ROHBAU (183,5 h)
+   → Schlitze müssen TROCKNEN (Trocknungszeit einplanen)
+      → Lehmputz (264,5 h)
+         → Elektrik-ENDMONTAGE (80 h)   ← Schalter sitzen auf dem Putz
+            → Funktionstest / Inbetriebnahme (10 h)
+```
+
+**Die Endmontage liegt zeitlich hinter dem Lehmputz**, nicht davor. Sie verlängert
+also nicht die Vorlaufzeit, sondern die Schlussphase.
+
+## 2. Februar-Plan (788 h, 20 Blöcke) vs. Mai-Fahrplan (1.613 h, 9 Blöcke)
+
+Der Zeitplan vom 23.02.2026 kennt Blöcke, die im Bank-Fahrplan vom 25.05.2026
+**nicht vorkommen**:
+
+| Block (Feb-Plan) | Stunden | im Mai-Fahrplan? |
+|---|---|---|
+| Bad-Umbau 1. OG | 62 h | ❌ **nicht als Block** – evtl. in Abriss/Unterboden enthalten |
+| Unterboden-Prep | 55 h | ❌ nicht als Block |
+| Materialbesorgung (pauschal) | 41 h | ❌ nicht als Block |
+| Entsorgung (pauschal) | 30 h | ✅ in Abriss (#66, 44 h) |
+| Wasserleitung Küche | 20 h | ❌ **nicht als Block** – passt zur Trinkwasser-Installation Okt 2026 |
+| Aushub Fundament WP | 19 h | ✅ in Wärmepumpe |
+| Lehmputz-Logistik (500 kg) | 15 h | ❌ nicht als Block |
+| Heizungsnischen | 15 h | ✅ in Wärmepumpe (#135) |
+| TÜV Anhänger | 9 h | ❌ nicht als Block |
+| Haustür provisorisch | 9 h | ✅ in Abriss (#103) |
+| BLOCKER (Termin Dad, Verteilerkasten) | 11 h | ❌ nicht als Block |
+
+**→ Bis zu ~180 h könnten außerhalb der 9 Blöcke liegen** – entweder in anderen
+Blöcken absorbiert oder tatsächlich nicht geplant. Das ist mit Sascha zu klären.
+
+### Bad (1. OG) – der am deutlichsten markierte Blocker
+
+Der Bad-Umbau ist im Feb-Plan mit **62 h** und in der Abhängigkeitsanalyse als
+**„muss als ALLERLETZTES raus (Anfang Mai)"** geführt. Im Bank-Fahrplan gibt es
+**keinen Bad-Block**. Die Trockenbau-Notiz erwähnt immerhin „WC auf Dusch-WC
+vorbereiten" – das ist aber der EG-Windfang, nicht das 1. OG.
+
+## 3. Korrigierte Restterminierung
+
+Basis: Innen offen = 644,5 h (Basisblöcke) + 30 h (Wasserinstallation)
++ **80,5 h (Elektrik-Endmontage)** = **755 h**; WDVS 235 h; Start KW43/2026 (19.10.2026).
+
+| Rate | Innen fertig | WDVS | **Fertig** | vorher berechnet |
+|---|---|---|---|---|
+| **20,3 h/Woche (Ist-Rate)** | 06.07.2027 | – 25.09.2027 | **25.09.2027** | 18.08.2027 |
+| 25 h/Woche | 18.05.2027 | – 23.07.2027 | **23.07.2027** | 22.06.2027 |
+| 30 h/Woche | 13.04.2027 | – 07.06.2027 | **07.06.2027** | 12.05.2027 |
+| 35 h/Woche | 19.03.2027 | – 05.05.2027 | **05.05.2027** | 17.04.2027 |
+
+⚠️ **Die „vorher"-Spalte ist nicht nur durch die +80,5 h verschoben**, sie war auch
+in sich inkonsistent: die 30 h Wasserinstallation waren im Innen-Pool nicht
+enthalten. Konsistent gerechnet (ohne Endmontage, mit Wasser) ergibt sich
+**29.08.2027** statt 18.08.2027 – die echte Verschiebung durch die Endmontage
+beträgt also **+4,0 Wochen**.
+
+**Das WDVS-Fenster (01.03.–31.10.2027) bleibt in allen Szenarien unkritisch.**
+
+## 4. Was das für die Offenen Entscheidungen heißt
+
+1. **Elektrik-Scope fixieren** (200 h? 224 h? 263,5 h?) – davon hängt die Terminierung ab
+2. **Bad-Umbau 1. OG klären** – 62 h im Plan oder nicht?
+3. **Materialbesorgung/Entsorgung/Logistik** – eigene Blöcke oder in den Gewerken?
+4. **Rate festlegen** – 20,3 h (→ 25.09.2027) oder 30 h (→ 07.06.2027)?
+
+## Related
+<!-- openclaw:wiki:related:start -->
+### Referenced By
+
+- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
+<!-- openclaw:wiki:related:end -->
