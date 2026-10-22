@@ -135,8 +135,12 @@ Nextcloud `Javis/` – 24 Markdown-Dateien in `raw/nextcloud-javis/`:
 - **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
 - ~~78 Bautagebuch-Fotos fehlen~~ → **ERLEDIGT 22.10.2026:** liegen vollständig in
   `Projekt Haus/Baustellentagebuch/img/` (114 Dateien, 79/79 Buch-Referenzen auflösbar).
-- **Rechnungen** fast vollständig fehlend – Kosten.xlsx endet am 17.08.2025 (319,05 € erfasst);
-  in Nextcloud liegen aber 10 Kassenbons unter `Finanzen/Rechnungen/` + `Rechnungen/` (noch nicht ausgewertet)
+- **Rechnungen** teilweise belegt – **13 Belege ausgewertet: 1.664,29 €**
+  (13.09.2025 – 07.02.2026, OBI/Hornbach/Baumarkt). Trockenbau, Heizung, Estrich und
+  erste WDVS-Materialien sind belegt. Die Großpositionen (WP+FBH 60.205 €, WDVS 13.179 €,
+  Fliesen 5.000 €, Türen 2.590 €, Elektro 9.127 €) haben **keine Belege**.
+  `Kosten.xlsx` erfasst nur 319,05 € – die 13 Belege sind dort nicht verbucht.
+  → [[sources/rechnungen-2025-2026|Materialbelege 2025/2026]]
 - **Buchungsrückstand** 14 Wochen (KW30–KW43/2026)
 
 ## Entscheidung Fassade
