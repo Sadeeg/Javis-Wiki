@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 30,
+    "source": 32,
     "synthesis": 22,
     "report": 10
   },
@@ -778,6 +778,25 @@
       "topClaims": []
     },
     {
+      "id": "source-bautagebuch-bilder",
+      "title": "Bautagebuch-Bilder (Nextcloud-Archiv)",
+      "kind": "source",
+      "path": "sources/bautagebuch-bilder.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T16:20:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "bautagebuch-workflow",
       "title": "Bautagebuch-Workflow — Spezifikation (v2)",
       "kind": "source",
@@ -793,6 +812,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "bilder-rekonstruktion-2026-10-22",
+      "title": "Bilder-Rekonstruktion – alle Quellen geprüft (22.10.2026)",
+      "kind": "source",
+      "path": "sources/bilder-rekonstruktion-2026-10-22.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-22T16:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

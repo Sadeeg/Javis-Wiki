@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 81
+- Total pages: 83
 - Claims: 0
-- Sources: 30
+- Sources: 32
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -30,7 +30,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]
+- [[sources/bautagebuch-bilder|Bautagebuch-Bilder (Nextcloud-Archiv)]]
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]
+- [[sources/bilder-rekonstruktion-2026-10-22|Bilder-Rekonstruktion – alle Quellen geprüft (22.10.2026)]]
 - [[sources/FEATURE_0_OAuthSkeleton|FEATURE 0: OAuth-Skelett (Minimalgerüst)]]
 - [[sources/FEATURE_1_AuthWorkflow|FEATURE 1: Authentifizierung & Benutzer-Verwaltung]]
 - [[sources/FEATURE_2_BildWorkflow|FEATURE 2: Bild-Workflow]]

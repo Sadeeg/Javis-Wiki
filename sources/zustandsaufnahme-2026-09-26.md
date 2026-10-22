@@ -41,5 +41,7 @@ größte Block beginnen kann.
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[sources/bilder-rekonstruktion-2026-10-22|Bilder-Rekonstruktion – alle Quellen geprüft (22.10.2026)]]
 <!-- openclaw:wiki:related:end -->

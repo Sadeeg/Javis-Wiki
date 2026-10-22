@@ -113,7 +113,8 @@ Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) 
 ## Lücken in der Belegkette
 
 - **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
-- **78 Bautagebuch-Fotos** – nicht in Nextcloud, nicht über die OpenProject-API abrufbar
+- ~~78 Bautagebuch-Fotos fehlen~~ → **ERLEDIGT 22.10.2026:** liegen vollständig in
+  `Projekt Haus/Baustellentagebuch/img/` (114 Dateien, 79/79 Buch-Referenzen auflösbar).
 - **Rechnungen** fast vollständig fehlend – Kosten.xlsx endet am 17.08.2025 (319,05 € erfasst)
 - **Buchungsrückstand** 14 Wochen (KW30–KW43/2026)
 
