@@ -3,7 +3,7 @@ id: kellerwand-abdichten
 pageType: task
 title: Kellerwand abdichten (von außen)
 createdAt: 2026-05-21T12:52:00.000Z
-updatedAt: 2026-05-21T12:52:00.000Z
+updatedAt: 2026-10-22T02:30:00.000Z
 sourceIds: [selbst-de]
 tags: [keller, abdichtung, feuchtigkeit, aussenwand, altbau]
 status: pending
@@ -96,3 +96,16 @@ relatedProjects: [kersbach]
 
 - [selbst.de – Keller abdichten](https://www.selbst.de/keller-abdichten)
 - [selbst.de – Kellerdecke dämmen](https://www.selbst.de/kellerdecke-daemmen-21082.html)
+
+---
+
+## Projektbezug Kersbach (Stand 22.10.2026)
+
+- **Zeitfenster:** gehört zum **WDVS-Block März–Oktober 2027** (Mineralwolle 140 mm, WLG 035,
+  153 m², U 3,3 → 0,23, ~13.179 €). Die Kellerwand ist Teil desselben Bauteils wie die Fassade –
+  **Außenabdichtung und WDVS-Sockelbereich in einem Gewerk ausschreiben**, sonst wird die
+  Sockelzone (typische WDVS-Fehlerquelle: Feuchte/Wärmebrücke) zweimal angefasst.
+- **Reihenfolge:** **Außen abdichten → Kellerdecke dämmen → WDVS außen** – die Innendämmung
+  bringt nichts, solange von außen Wasser kommt (siehe [[tasks/Kellerdecke-daemmen|Kellerdecke dämmen]]).
+- **Offene Frage:** Keller ist im Bestand ein Hobbyraum + Vorrat + Heizung + Öllager –
+  vor Arbeiten Heizungsraum/Öllager prüfen (Brandschutz, Leitungswege, Aushub von außen).

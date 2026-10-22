@@ -3,7 +3,7 @@ id: kellerdecke-daemmen
 pageType: task
 title: Kellerdecke dämmen (DIY)
 createdAt: 2026-05-21T12:50:00.000Z
-updatedAt: 2026-05-21T12:50:00.000Z
+updatedAt: 2026-10-22T02:30:00.000Z
 sourceIds: [selbst-de]
 tags: [keller, daemmung, altbau, DIY, energie-sparen]
 status: pending
@@ -80,6 +80,19 @@ Bei geschätzter Kellerdecke ~50m²: **1.500–2.250€** Material
 
 - [selbst.de – Keller abdichten](https://www.selbst.de/keller-abdichten)
 - [selbst.de – Kellerwand verputzen (Kalkzementputz)](https://www.selbst.de/kalkzementputz-so-koennen-sie-die-kellerwaende-verputzen-72507.html)
+
+---
+
+## Projektbezug Kersbach (Stand 22.10.2026)
+
+- **Zeitfenster:** gehört zum **WDVS-Block März–Oktober 2027** (Mineralwolle 140 mm, WLG 035,
+  153 m², U 3,3 → 0,23, ~13.179 €). Kellerdecke ist eine typische WDVS-Fehlerquelle
+  (Wärmebrücke am Übergang) → **mit in die WDVS-Ausschreibung nehmen**, nicht separat machen.
+- **Kellerdecke ~50 m²** → Material 1.500–2.250 € (XPS 12 cm) – **noch nicht im Budget**.
+- **Voraussetzung:** Kellerwand von außen abdichten (siehe [[tasks/Kellerwand-abdichten|Kellerwand abdichten]]),
+  sonst bringt die Dämmung nichts. Reihenfolge: **abdichten → Kellerdecke dämmen → WDVS außen**.
+- **Offene Frage:** Keller ist im Bestand ein Hobbyraum + Vorrat + Heizung + Öllager –
+  vor der Dämmung Heizungsraum/Öllager prüfen (Brandschutz, Leitungswege).
 
 ---
 
