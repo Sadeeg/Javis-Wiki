@@ -112,8 +112,10 @@ Sascha bucht Zeiten teils Wochen später (KW28/KW29 erst am 23.09.2026 erfasst) 
    Endmontage (Schalter/Steckdosen, Geräte, KNX-Programmierung, Tests) **~80 h**
    fehlt in jedem Block → realistisch **263,5 h**, also **~182,5 h offen statt 102 h**.
    → [[sources/elektrik-detailplan|Elektrik-Detailplan]] · [[sources/scope-reconciliation|Scope-Abgleich]]
-0b. **Bad-Umbau 1. OG** (62 h im Februar-Plan) – im Bank-Fahrplan **kein Block**.
+0b. **Bad-Umbau 1. OG** – im Bank-Fahrplan kein Top-Level-Block, aber in OpenProject
+   als #102/#132/#145/#163 geführt (Abriss erledigt, Umbau offen).
    Ebenso offen: Materialbesorgung (41 h), Unterboden-Prep (55 h), Logistik (15 h).
+   → [[sources/openproject-taskbilanz|Task-Bilanz (89 Tasks)]]
 1. **Rate festlegen** – 20 h/Woche (→ 18.08.2027) oder 30 h/Woche (→ 12.05.2027)?
 2. **Lehmputz-Fläche** – alle 190 m² oder Kernräume zuerst?
 3. **WDVS-Vergabe** – nur Material (235 h Eigenleistung bleiben) oder an die Firma?

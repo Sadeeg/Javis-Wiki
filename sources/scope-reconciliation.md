@@ -81,7 +81,7 @@ Der Zeitplan vom 23.02.2026 kennt Blöcke, die im Bank-Fahrplan vom 25.05.2026
 
 | Block (Feb-Plan) | Stunden | im Mai-Fahrplan? |
 |---|---|---|
-| Bad-Umbau 1. OG | 62 h | ❌ **nicht als Block** – evtl. in Abriss/Unterboden enthalten |
+| Bad-Umbau 1. OG | 62 h | ⚠️ kein Top-Level-Block, **aber** in OpenProject als #102/#132/#145/#163 geführt |
 | Unterboden-Prep | 55 h | ❌ nicht als Block |
 | Materialbesorgung (pauschal) | 41 h | ❌ nicht als Block |
 | Entsorgung (pauschal) | 30 h | ✅ in Abriss (#66, 44 h) |
@@ -99,9 +99,24 @@ Blöcken absorbiert oder tatsächlich nicht geplant. Das ist mit Sascha zu klär
 ### Bad (1. OG) – der am deutlichsten markierte Blocker
 
 Der Bad-Umbau ist im Feb-Plan mit **62 h** und in der Abhängigkeitsanalyse als
-**„muss als ALLERLETZTES raus (Anfang Mai)"** geführt. Im Bank-Fahrplan gibt es
-**keinen Bad-Block**. Die Trockenbau-Notiz erwähnt immerhin „WC auf Dusch-WC
-vorbereiten" – das ist aber der EG-Windfang, nicht das 1. OG.
+**„muss als ALLERLETZTES raus (Anfang Mai)"** geführt.
+
+**Korrektur (22.10.2026, nach Task-Bilanz):** Die Aussage „im Bank-Fahrplan gibt es
+keinen Bad-Block" war **zu stark**. In OpenProject existieren vier Bad-Tasks:
+
+| Task | geschätzt | erfasst | Status |
+|---|---|---|---|
+| #131 1.OG Abriss Bad Fließen und Estrich + Heizkörperrohre | 10 h | **16 h** | ✅ erledigt |
+| #132 Abbauen im Bad | 20 h | 0 h | ⬜ offen |
+| #145 Bad Elektrik erstes OG | 8 h | 0 h | ⬜ offen |
+| #163 1.OG Bad Tür und Türrahmen entfernen | 3 h | 0 h | ⬜ offen |
+| #102 Badumbau 1.OG | – | 0 h | ⬜ offen |
+
+→ Der **Abriss-Teil ist erledigt** (#131, 16 h – passt zum Estrichfoto vom
+26.09.2026: Bad-Fliesen raus, Estrich darüber). Der **Umbau selbst ist offen**,
+ist aber **keine vergessene Scope-Lücke** im Blockplan – nur kein Top-Level-Block.
+
+→ [[sources/openproject-taskbilanz|OpenProject Task-Bilanz]]
 
 ## 3. Korrigierte Restterminierung
 
@@ -126,7 +141,8 @@ beträgt also **+4,0 Wochen**.
 ## 4. Was das für die Offenen Entscheidungen heißt
 
 1. **Elektrik-Scope fixieren** (200 h? 224 h? 263,5 h?) – davon hängt die Terminierung ab
-2. **Bad-Umbau 1. OG klären** – 62 h im Plan oder nicht?
+2. **Bad-Umbau 1. OG** – in OpenProject als Tasks geführt (Abriss erledigt, Umbau offen),
+   aber ohne Top-Level-Block im 1.613-h-Fahrplan. Blockgröße klären.
 3. **Materialbesorgung/Entsorgung/Logistik** – eigene Blöcke oder in den Gewerken?
 4. **Rate festlegen** – 20,3 h (→ 25.09.2027) oder 30 h (→ 07.06.2027)?
 

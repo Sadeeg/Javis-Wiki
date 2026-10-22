@@ -188,5 +188,8 @@ zum Foto vom 26.09.2026 (Hauptverteilerkasten unfertig).
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Referenced By
+
+- [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
+- [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
 <!-- openclaw:wiki:related:end -->
