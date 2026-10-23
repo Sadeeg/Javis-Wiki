@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 63
+- Warnings: 57
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -18,15 +18,9 @@ status: active
 - `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
-- `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
-- `concepts/Lehmputz.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/erdgeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/keller.md`: Page freshness needs review (last touched 2026-05-21T10:15:00.000Z).
-- `entities/obergeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -83,15 +77,9 @@ status: active
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
-- `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
-- `concepts/Lehmputz.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/erdgeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/keller.md`: Page freshness needs review (last touched 2026-05-21T10:15:00.000Z).
-- `entities/obergeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).

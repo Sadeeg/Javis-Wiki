@@ -3,17 +3,15 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-23T12:12:13.243Z
+updatedAt: 2026-10-23T15:36:11.672Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 61
+- Stale pages: 55
 
-- [[entities/erdgeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
-- [[entities/obergeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/2 - Holzdielen Wintergarten entfernen|2 — Holzdielen im kleinen Wintergarten entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -38,7 +36,6 @@ updatedAt: 2026-10-23T12:12:13.243Z
 - [[sources/FEATURE_0_OAuthSkeleton|FEATURE 0: OAuth-Skelett (Minimalgerüst)]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/FEATURE_1_AuthWorkflow|FEATURE 1: Authentifizierung & Benutzer-Verwaltung]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/FEATURE_2_BildWorkflow|FEATURE 2: Bild-Workflow]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/Fussbodenheizung|Fussbodenheizung]]: stale (2026-06-05T17:24:00.000Z)
 - [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]: stale (2026-05-21T12:52:00.000Z)
 - [[syntheses/grundriss-1971|Grundriss 1971 – Tekturplan Typ R 630]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Haushaltsplaner|Haushaltsplaner - App Idee]]: stale (2026-05-21T10:10:00.000Z)
@@ -47,11 +44,9 @@ updatedAt: 2026-10-23T12:12:13.243Z
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]: stale (2026-05-21T10:10:00.000Z)
-- [[entities/keller|Keller – Kersbach]]: stale (2026-05-21T10:15:00.000Z)
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kw15-2026|KW15-2026 (Backup)]]: stale (2026-04-06T00:00:00.000Z)
-- [[concepts/Lehmputz|Lehmputz]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]: stale (2026-05-21T12:45:00.000Z)
@@ -72,5 +67,4 @@ updatedAt: 2026-10-23T12:12:13.243Z
 - [[sources/zeitplan-gantt-sanierung-kersbach-2026|Zeitplan Gantt Sanierung Kersbach 2026]]: stale (2026-05-31T13:53:08.338Z)
 - [[sources/zeitplan-gantt-sanierung-kersbach2026|Zeitplan Gantt Sanierung Kersbach2026]]: stale (2026-05-31T11:52:25.948Z)
 - [[sources/zeitplan-sanierung-kersbach-2026|Zeitplan Sanierung Kersbach 2026]]: stale (2026-05-31T11:40:51.153Z)
-- [[concepts/Zeitplanung|Zeitplanung]]: stale (2026-05-21T10:10:00.000Z)
 <!-- openclaw:wiki:stale-pages:end -->

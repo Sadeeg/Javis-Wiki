@@ -140,5 +140,6 @@ Dokument mit geplanten Eigenleistungen und Materialkosten für die Hausrenovieru
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
+- [[concepts/Lehmputz|Lehmputz]]
 - [[syntheses/sanierungsaufstellung|Sanierungsaufstellung – Eigenleistungen]]
 <!-- openclaw:wiki:related:end -->

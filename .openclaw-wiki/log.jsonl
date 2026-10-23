@@ -141,3 +141,7 @@
 {"type":"lint","timestamp":"2026-10-23T12:14:06.911Z","details":{"issueCount":64,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-10-23T12:14:22.450Z","details":{"pageCounts":{"entity":4,"concept":15,"source":66,"synthesis":22,"report":10},"updatedFiles":["concepts/Fussbodenheizung.md"]}}
 {"type":"lint","timestamp":"2026-10-23T12:14:34.874Z","details":{"issueCount":63,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-23T15:36:11.832Z","details":{"pageCounts":{"entity":4,"concept":15,"source":66,"synthesis":22,"report":10},"updatedFiles":["syntheses/kersbach-status.md","sources/openproject-taskbilanz.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json"]}}
+{"type":"lint","timestamp":"2026-10-23T15:36:24.512Z","details":{"issueCount":58,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-23T15:36:47.417Z","details":{"pageCounts":{"entity":4,"concept":15,"source":66,"synthesis":22,"report":10},"updatedFiles":["sources/sanierungsaufstellung-eigenleistungen.md"]}}
+{"type":"lint","timestamp":"2026-10-23T15:37:00.063Z","details":{"issueCount":57,"reportPath":"reports/lint.md"}}

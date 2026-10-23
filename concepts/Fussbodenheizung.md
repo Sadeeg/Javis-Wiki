@@ -3,7 +3,7 @@ id: fussbodenheizung
 pageType: concept
 title: Fussbodenheizung
 createdAt: 2026-05-21T10:10:00.000Z
-updatedAt: 2026-06-05T17:24:00.000Z
+updatedAt: 2026-10-23T16:00:00.000Z
 sourceIds: [source.fussbodenheizung]
 tags: [fussbodenheizung, estrich, heizung, kermi, wärmepumpe, anhydrit]
 ---
@@ -121,6 +121,25 @@ Bei der Doppelhaushälfte von Baujahr 1971 mit rund 100 m² FBH-Fläche (Kersbac
 Deshalb lohnt es sich durchaus, den Heizungsbauer zu fragen, warum er nicht die Kermi-Wärmepumpe nutzt. Wenn der zusätzliche Elektro-Aufheizer von dir bezahlt werden muss, sind das schnell ein paar hundert Euro Mehrkosten.
 
 ---
+
+## Fußbodenheizung – Stand 23.10.2026
+
+| Merkmal | Ausführung |
+|---------|-----------|
+| Räume | EG: Wohnen, Essen, Küche, WC · 1.OG: alle Räume |
+| Heizaktoren | **5 Stück**, KNX-gesteuert |
+| Wärmequelle | Wärmepumpe |
+| Regelung | Einzelraumregelung über Thermostate |
+
+**Status:** Der Block „Wärmepumpe + FBH" ist abgeschlossen – 86 h geplant,
+**96,25 h erfasst** (also über Plan). Ein Teil des Materials (~60.205 € der
+97.033 € Materialbudget) ging an die Fremdfirma.
+
+> Die Rohnotiz vom 20.05.2026 (5 Heizaktoren, KNX, Wärmepumpe) ist inhaltlich
+> weiterhin gültig – siehe [[sources/fussbodenheizung]].
+
+**Quelle:** [[sources/fussbodenheizung]] ·
+[[syntheses/kersbach-status]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
