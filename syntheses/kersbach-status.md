@@ -224,4 +224,23 @@ Siehe [[concepts/baustelle-prinzipien]]
 ### Referenced By
 
 - [[sources/elektrik-detailplan|Elektrik-Detailplan (03.03.2026)]]
+- [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 <!-- openclaw:wiki:related:end -->
+
+## ⚠️ Task-Status korrigiert (23.10.2026)
+
+Die OpenProject-Task-Liste **ist nicht geschlossen** – das Projekt läuft:
+**52 offene Tasks** (41 „New", 11 „In progress") + 37 geschlossene.
+
+> Die erste Fassung von `sources/openproject-taskbilanz.md` markierte **alle 89 Tasks
+> als „geschlossen"** – ein Fehler meines Generators, nicht der Daten. Seite neu erzeugt.
+
+**Zwei Rest-Maße, die nicht verwechselt werden dürfen:**
+| Maß | Wert | Bedeutung |
+|---|---|---|
+| Rest-Schätzung auf den 52 offenen Tasks | **318 h** | was die Task-Liste kennt (alte Schätzungen!) |
+| Planrest aus Fahrplan + Scope-Lücken | **~990 h** | verlässliche Planungsgröße |
+
+Die ~670 h Differenz ist **keine Buchungsdifferenz**, sondern Arbeit ohne Task:
+Elektrik-Endmontage 80,5 h · Wasserinstallation 30 h · Bad-Umbau 1. OG 62 h · WDVS 235 h.
+→ **Der Task-Status ersetzt den Fahrplan nicht.** Nur die Zeitbuchungen sind belastbar.

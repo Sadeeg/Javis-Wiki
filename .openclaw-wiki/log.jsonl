@@ -80,3 +80,5 @@
 {"type":"lint","timestamp":"2026-10-22T17:37:03.011Z","details":{"issueCount":67,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-10-22T18:06:43.031Z","details":{"pageCounts":{"entity":4,"concept":15,"source":37,"synthesis":22,"report":10},"updatedFiles":["sources/plan-historie.md",".openclaw-wiki/cache/agent-digest.json","index.md","sources/index.md"]}}
 {"type":"compile","timestamp":"2026-10-22T18:37:00.600Z","details":{"pageCounts":{"entity":4,"concept":15,"source":38,"synthesis":22,"report":10},"updatedFiles":["sources/elektrik-materialliste.md",".openclaw-wiki/cache/agent-digest.json","index.md","sources/index.md"]}}
+{"type":"compile","timestamp":"2026-10-23T07:37:49.531Z","details":{"pageCounts":{"entity":4,"concept":15,"source":38,"synthesis":22,"report":10},"updatedFiles":["syntheses/kersbach-status.md","sources/openproject-taskbilanz.md","sources/scope-reconciliation.md",".openclaw-wiki/cache/agent-digest.json"]}}
+{"type":"lint","timestamp":"2026-10-23T07:37:49.541Z","details":{"issueCount":67,"reportPath":"reports/lint.md"}}

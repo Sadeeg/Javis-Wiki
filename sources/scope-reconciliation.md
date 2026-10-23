@@ -151,4 +151,5 @@ beträgt also **+4,0 Wochen**.
 ### Referenced By
 
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
+- [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 <!-- openclaw:wiki:related:end -->
