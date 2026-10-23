@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 41,
+    "source": 66,
     "synthesis": 22,
     "report": 10
   },
@@ -88,7 +88,7 @@
       "path": "concepts/baustelle-prinzipien.md",
       "aliases": [],
       "sourceIds": [
-        "baustelle-prinzipien"
+        "source.bau-wiki-obsidian-vault"
       ],
       "questions": [],
       "contradictions": [],
@@ -97,8 +97,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -172,7 +172,7 @@
       "path": "concepts/Fussbodenheizung.md",
       "aliases": [],
       "sourceIds": [
-        "fussbodenheizung"
+        "source.fussbodenheizung"
       ],
       "questions": [],
       "contradictions": [],
@@ -193,7 +193,7 @@
       "path": "concepts/Lehmputz.md",
       "aliases": [],
       "sourceIds": [
-        "lehmputz"
+        "source.lehmputz"
       ],
       "questions": [],
       "contradictions": [],
@@ -319,7 +319,7 @@
       "path": "concepts/Zeitplanung.md",
       "aliases": [],
       "sourceIds": [
-        "zeitplanung"
+        "source.zeitplanung"
       ],
       "questions": [],
       "contradictions": [],
@@ -335,12 +335,12 @@
     },
     {
       "id": "baustelle-kersbach",
-      "title": "---",
+      "title": "Baustelle Kersbach",
       "kind": "entity",
       "path": "entities/baustelle-kersbach.md",
       "aliases": [],
       "sourceIds": [
-        "baustelle-kersbach"
+        "source.bau-wiki-obsidian-vault"
       ],
       "questions": [],
       "contradictions": [],
@@ -349,8 +349,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "entity",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -361,7 +361,7 @@
       "path": "entities/erdgeschoss.md",
       "aliases": [],
       "sourceIds": [
-        "erdgeschoss"
+        "source.erdgeschoss"
       ],
       "questions": [],
       "contradictions": [],
@@ -382,7 +382,7 @@
       "path": "entities/keller.md",
       "aliases": [],
       "sourceIds": [
-        "keller"
+        "source.keller-kersbach"
       ],
       "questions": [],
       "contradictions": [],
@@ -403,7 +403,7 @@
       "path": "entities/obergeschoss.md",
       "aliases": [],
       "sourceIds": [
-        "obergeschoss"
+        "source.obergeschoss-kersbach"
       ],
       "questions": [],
       "contradictions": [],
@@ -602,7 +602,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-23T11:37:15.577Z",
+      "lastTouchedAt": "2026-10-23T12:12:13.243Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -778,6 +778,25 @@
       "topClaims": []
     },
     {
+      "id": "source.bau-wiki-obsidian-vault",
+      "title": "bau-wiki – Rohmaterial-Wissensbasis (Obsidian-Vault Baustelle)",
+      "kind": "source",
+      "path": "sources/bau-wiki-obsidian-vault.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:20:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source-bautagebuch-bilder",
       "title": "Bautagebuch-Bilder (Nextcloud-Archiv)",
       "kind": "source",
@@ -835,6 +854,25 @@
       "topClaims": []
     },
     {
+      "id": "source.elektrik-1-og-leitungsplan",
+      "title": "Elektrik 1.OG – Leitungsplan",
+      "kind": "source",
+      "path": "sources/elektrik-1-og-leitungsplan.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:07:32.317Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source-elektrik-detailplan",
       "title": "Elektrik-Detailplan (03.03.2026)",
       "kind": "source",
@@ -854,6 +892,82 @@
       "topClaims": []
     },
     {
+      "id": "source.elektrik-dg-dachgeschoss-leitungsplan",
+      "title": "Elektrik DG (Dachgeschoss) – Leitungsplan",
+      "kind": "source",
+      "path": "sources/elektrik-dg-dachgeschoss-leitungsplan.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:07:44.970Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.elektrik-eg-leitungen",
+      "title": "elektrik EG leitungen",
+      "kind": "source",
+      "path": "sources/elektrik-eg-leitungen.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:05:34.113Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.elektrik-eg-leitungsplan-draw-io",
+      "title": "Elektrik EG – Leitungsplan draw.io",
+      "kind": "source",
+      "path": "sources/elektrik-eg-leitungsplan-draw-io.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:08:10.556Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.elektrik-eg-planung-knx",
+      "title": "Elektrik EG-Planung – KNX",
+      "kind": "source",
+      "path": "sources/elektrik-eg-planung-knx.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:07:57.885Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source-elektrik-materialliste",
       "title": "Elektrik-Materialliste (Elektronik.xlsx)",
       "kind": "source",
@@ -869,6 +983,44 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-22T20:30:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.energieausweis-kersbach",
+      "title": "Energieausweis – Kersbach",
+      "kind": "source",
+      "path": "sources/energieausweis-kersbach.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:08:23.758Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.erdgeschoss",
+      "title": "Erdgeschoss",
+      "kind": "source",
+      "path": "sources/erdgeschoss.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:11:44.105Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -930,6 +1082,44 @@
       "topClaims": []
     },
     {
+      "id": "source.fussbodenheizung",
+      "title": "Fussbodenheizung",
+      "kind": "source",
+      "path": "sources/fussbodenheizung.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:06:02.998Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.grundriss-1971-tekturplan-typ-r-630",
+      "title": "Grundriss 1971 – Tekturplan Typ R 630",
+      "kind": "source",
+      "path": "sources/grundriss-1971-tekturplan-typ-r-630.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:08:49.681Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "haushaltsplaner",
       "title": "Haushaltsplaner - App Idee",
       "kind": "source",
@@ -964,6 +1154,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.heizlast-berechnung-wohngebäude-deeg",
+      "title": "Heizlast-Berechnung – Wohngebäude Deeg",
+      "kind": "source",
+      "path": "sources/heizlast-berechnung-wohngebäude-deeg.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:09:02.413Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1006,6 +1215,120 @@
       "topClaims": []
     },
     {
+      "id": "source.immobilien-exposé-kersbach",
+      "title": "Immobilien-Exposé – Kersbach",
+      "kind": "source",
+      "path": "sources/immobilien-exposé-kersbach.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:08:36.808Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.kassenbons-übersicht",
+      "title": "Kassenbons – Übersicht",
+      "kind": "source",
+      "path": "sources/kassenbons-übersicht.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:09:15.854Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.keller-kersbach",
+      "title": "Keller – Kersbach",
+      "kind": "source",
+      "path": "sources/keller-kersbach.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:06:53.647Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.kostenübersicht-werkzeug-verbrauchsmaterial",
+      "title": "Kostenübersicht – Werkzeug & Verbrauchsmaterial",
+      "kind": "source",
+      "path": "sources/kostenübersicht-werkzeug-verbrauchsmaterial.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:09:28.729Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.kw-15-06-04-12-04-2026",
+      "title": "KW 15 – 06.04. – 12.04.2026",
+      "kind": "source",
+      "path": "sources/kw-15-06-04-12-04-2026.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:07:19.168Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.lehmputz",
+      "title": "Lehmputz",
+      "kind": "source",
+      "path": "sources/lehmputz.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:06:15.530Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "meeting-recorder-projekt",
       "title": "Meeting Recorder - Projekt",
       "kind": "source",
@@ -1021,6 +1344,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.obergeschoss-kersbach",
+      "title": "Obergeschoss – Kersbach",
+      "kind": "source",
+      "path": "sources/obergeschoss-kersbach.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1097,6 +1439,25 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-22T18:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.sanierungsaufstellung-eigenleistungen",
+      "title": "Sanierungsaufstellung – Eigenleistungen",
+      "kind": "source",
+      "path": "sources/sanierungsaufstellung-eigenleistungen.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:09:41.524Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1215,6 +1576,44 @@
       "topClaims": []
     },
     {
+      "id": "source.timesheet-bgbau-stundenzettel-openproject",
+      "title": "Timesheet BGBau – Stundenzettel OpenProject",
+      "kind": "source",
+      "path": "sources/timesheet-bgbau-stundenzettel-openproject.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:09:54.331Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.trockenbau-praxis-checkliste",
+      "title": "Trockenbau – Praxis-Checkliste",
+      "kind": "source",
+      "path": "sources/trockenbau-praxis-checkliste.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:10:07.501Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "umweltbundesamt",
       "title": "Umweltbundesamt – Asbest",
       "kind": "source",
@@ -1230,6 +1629,25 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-23T12:45:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.wandflächen-berechnung-lehmputz",
+      "title": "Wandflächen-Berechnung – Lehmputz",
+      "kind": "source",
+      "path": "sources/wandflächen-berechnung-lehmputz.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:10:20.755Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1291,6 +1709,25 @@
       "topClaims": []
     },
     {
+      "id": "source.wohnflächenberechnung-kersbach",
+      "title": "Wohnflächenberechnung – Kersbach",
+      "kind": "source",
+      "path": "sources/wohnflächenberechnung-kersbach.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:10:33.955Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "wohnflaechenberechnung.pdf",
       "title": "Wohnflaechenberechnung.Pdf",
       "kind": "source",
@@ -1306,6 +1743,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.zeitplan-detailaufstellung-fußbodenheizung",
+      "title": "Zeitplan Detailaufstellung – Fußbodenheizung",
+      "kind": "source",
+      "path": "sources/zeitplan-detailaufstellung-fußbodenheizung.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:10:46.971Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1367,6 +1823,25 @@
       "topClaims": []
     },
     {
+      "id": "source.zeitplanung",
+      "title": "Zeitplanung",
+      "kind": "source",
+      "path": "sources/zeitplanung.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:06:28.274Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source-zustandsaufnahme-2026-09-26",
       "title": "Zustandsaufnahme 26.09.2026 (Fotodokumentation)",
       "kind": "source",
@@ -1392,7 +1867,7 @@
       "path": "syntheses/baustelle-wiki-index.md",
       "aliases": [],
       "sourceIds": [
-        "baustelle-wiki-index"
+        "source.bau-wiki-obsidian-vault"
       ],
       "questions": [],
       "contradictions": [],
@@ -1401,8 +1876,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "synthesis",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:20:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1434,7 +1909,7 @@
       "path": "syntheses/elektrik-1OG-leitungen.md",
       "aliases": [],
       "sourceIds": [
-        "elektrik-1og-leitungen"
+        "source.elektrik-1-og-leitungsplan"
       ],
       "questions": [],
       "contradictions": [],
@@ -1455,7 +1930,7 @@
       "path": "syntheses/elektrik-DG-leitungen.md",
       "aliases": [],
       "sourceIds": [
-        "elektrik-dg-leitungen"
+        "source.elektrik-dg-dachgeschoss-leitungsplan"
       ],
       "questions": [],
       "contradictions": [],
@@ -1476,7 +1951,7 @@
       "path": "syntheses/elektrik-EG-leitungen.md",
       "aliases": [],
       "sourceIds": [
-        "elektrik-eg-leitungen"
+        "source.elektrik-eg-leitungen"
       ],
       "questions": [],
       "contradictions": [],
@@ -1497,7 +1972,7 @@
       "path": "syntheses/elektrik-EG-Planung.md",
       "aliases": [],
       "sourceIds": [
-        "elektrik-eg-planung"
+        "source.elektrik-eg-planung-knx"
       ],
       "questions": [],
       "contradictions": [],
@@ -1518,7 +1993,7 @@
       "path": "syntheses/energieausweis.md",
       "aliases": [],
       "sourceIds": [
-        "energieausweis"
+        "source.energieausweis-kersbach"
       ],
       "questions": [],
       "contradictions": [],
@@ -1539,7 +2014,7 @@
       "path": "syntheses/expose-kerbach.md",
       "aliases": [],
       "sourceIds": [
-        "expose-kerbach"
+        "source.immobilien-exposé-kersbach"
       ],
       "questions": [],
       "contradictions": [],
@@ -1560,7 +2035,7 @@
       "path": "syntheses/grundriss-1971.md",
       "aliases": [],
       "sourceIds": [
-        "grundriss-1971"
+        "source.grundriss-1971-tekturplan-typ-r-630"
       ],
       "questions": [],
       "contradictions": [],
@@ -1581,7 +2056,7 @@
       "path": "syntheses/heizlast-berechnung.md",
       "aliases": [],
       "sourceIds": [
-        "heizlast-berechnung"
+        "source.heizlast-berechnung-wohngebäude-deeg"
       ],
       "questions": [],
       "contradictions": [],
@@ -1602,7 +2077,7 @@
       "path": "syntheses/kassenbons-2025.md",
       "aliases": [],
       "sourceIds": [
-        "kassenbons-2025"
+        "source.kassenbons-übersicht"
       ],
       "questions": [],
       "contradictions": [],
@@ -1645,7 +2120,7 @@
       "path": "syntheses/kosten-uebersicht.md",
       "aliases": [],
       "sourceIds": [
-        "kosten-uebersicht"
+        "source.kostenübersicht-werkzeug-verbrauchsmaterial"
       ],
       "questions": [],
       "contradictions": [],
@@ -1687,7 +2162,7 @@
       "path": "syntheses/KW15-2026.md",
       "aliases": [],
       "sourceIds": [
-        "kw15-2026"
+        "source.kw-15-06-04-12-04-2026"
       ],
       "questions": [],
       "contradictions": [],
@@ -1729,7 +2204,7 @@
       "path": "syntheses/sanierungsaufstellung.md",
       "aliases": [],
       "sourceIds": [
-        "sanierungsaufstellung"
+        "source.sanierungsaufstellung-eigenleistungen"
       ],
       "questions": [],
       "contradictions": [],
@@ -1750,7 +2225,7 @@
       "path": "syntheses/timesheet-2025-2026.md",
       "aliases": [],
       "sourceIds": [
-        "timesheet-2025-2026"
+        "source.timesheet-bgbau-stundenzettel-openproject"
       ],
       "questions": [],
       "contradictions": [],
@@ -1771,7 +2246,7 @@
       "path": "syntheses/trockenbau-praxis.md",
       "aliases": [],
       "sourceIds": [
-        "trockenbau-praxis"
+        "source.trockenbau-praxis-checkliste"
       ],
       "questions": [],
       "contradictions": [],
@@ -1792,7 +2267,7 @@
       "path": "syntheses/wandflaechenberechnung-2026.md",
       "aliases": [],
       "sourceIds": [
-        "wandflaechenberechnung-2026"
+        "source.wandflächen-berechnung-lehmputz"
       ],
       "questions": [],
       "contradictions": [],
@@ -1813,7 +2288,7 @@
       "path": "syntheses/wohnflaechenberechnung.md",
       "aliases": [],
       "sourceIds": [
-        "wohnflaechenberechnung"
+        "source.wohnflächenberechnung-kersbach"
       ],
       "questions": [],
       "contradictions": [],
@@ -1834,7 +2309,7 @@
       "path": "syntheses/zeitplan-detail.md",
       "aliases": [],
       "sourceIds": [
-        "zeitplan-detail"
+        "source.zeitplan-detailaufstellung-fußbodenheizung"
       ],
       "questions": [],
       "contradictions": [],

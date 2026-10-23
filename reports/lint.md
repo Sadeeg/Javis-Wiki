@@ -10,13 +10,12 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 66
+- Warnings: 63
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
-- `concepts/baustelle-prinzipien.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
 - `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
@@ -25,7 +24,6 @@ status: active
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/baustelle-kersbach.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `entities/erdgeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `entities/keller.md`: Page freshness needs review (last touched 2026-05-21T10:15:00.000Z).
 - `entities/obergeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -58,7 +56,6 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/baustelle-wiki-index.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-1OG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-DG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -84,7 +81,6 @@ status: active
 - `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/baustelle-prinzipien.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
 - `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
@@ -93,7 +89,6 @@ status: active
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `entities/baustelle-kersbach.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `entities/erdgeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `entities/keller.md`: Page freshness needs review (last touched 2026-05-21T10:15:00.000Z).
 - `entities/obergeschoss.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -124,7 +119,6 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/baustelle-wiki-index.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-1OG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-DG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).

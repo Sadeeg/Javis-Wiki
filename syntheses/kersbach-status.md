@@ -224,8 +224,11 @@ Siehe [[concepts/baustelle-prinzipien]]
 
 ### Referenced By
 
+- [[entities/baustelle-kersbach|Baustelle Kersbach]]
+- [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
 - [[sources/elektrik-detailplan|Elektrik-Detailplan (03.03.2026)]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]

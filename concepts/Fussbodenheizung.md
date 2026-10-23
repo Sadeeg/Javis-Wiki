@@ -4,7 +4,7 @@ pageType: concept
 title: Fussbodenheizung
 createdAt: 2026-05-21T10:10:00.000Z
 updatedAt: 2026-06-05T17:24:00.000Z
-sourceIds: [fussbodenheizung]
+sourceIds: [source.fussbodenheizung]
 tags: [fussbodenheizung, estrich, heizung, kermi, wärmepumpe, anhydrit]
 ---
 
@@ -126,5 +126,9 @@ Deshalb lohnt es sich durchaus, den Heizungsbauer zu fragen, warum er nicht die 
 <!-- openclaw:wiki:related:start -->
 ### Sources
 
-- [[concepts/Fussbodenheizung|Fussbodenheizung]]
+- [[sources/fussbodenheizung|Fussbodenheizung]]
+
+### Referenced By
+
+- [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

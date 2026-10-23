@@ -12,4 +12,8 @@ sourceIds: [bautagebuch-workflow]
 ### Sources
 
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]
+
+### Referenced By
+
+- [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

@@ -3,16 +3,15 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-23T11:37:15.577Z
+updatedAt: 2026-10-23T12:12:13.243Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 64
+- Stale pages: 61
 
-- [[entities/baustelle-kersbach|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/erdgeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/obergeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
@@ -28,7 +27,6 @@ updatedAt: 2026-10-23T11:37:15.577Z
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]: stale (2026-03-30T00:00:00.000Z)
-- [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/bautagebuch-2025-2026|Bautagebuch – Eigenleistungen 2025-2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/elektrik-1OG-leitungen|Elektrik 1.OG – Leitungsplan]]: stale (2026-05-21T10:10:00.000Z)
@@ -48,7 +46,6 @@ updatedAt: 2026-10-23T11:37:15.577Z
 - [[syntheses/heizlast-berechnung|Heizlast-Berechnung – Wohngebäude Deeg]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]: stale (2026-05-21T10:10:00.000Z)
-- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/keller|Keller – Kersbach]]: stale (2026-05-21T10:15:00.000Z)
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]: stale (2026-05-21T10:10:00.000Z)
