@@ -219,12 +219,16 @@ Siehe [[concepts/baustelle-prinzipien]]
 <!-- openclaw:wiki:related:start -->
 ### Sources
 
+- [[sources/openproject-api|OpenProject API v3 (Instanz Kersbach)]]
 - [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
 
 ### Referenced By
 
 - [[sources/elektrik-detailplan|Elektrik-Detailplan (03.03.2026)]]
+- [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
+- [[concepts/VHF-Fassade|VHF-Fassade]]
+- [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
 <!-- openclaw:wiki:related:end -->
 
 ## ⚠️ Task-Status korrigiert (23.10.2026)

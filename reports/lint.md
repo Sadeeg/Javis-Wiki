@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 67
+- Warnings: 66
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -18,13 +18,10 @@ status: active
 - `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
 - `concepts/baustelle-prinzipien.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Fassade-Material-Vergleich.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
 - `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
 - `concepts/Lehmputz.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/VHF-Fassade.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/VHF-Übersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -51,8 +48,10 @@ status: active
 - `sources/Ideen-fuer-Apps.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Meeting-Recorder-Projekt.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/sanierungsfahrplan-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:38.709Z).
+- `sources/selbst-de.md`: Broken wikilink target `safety/Asbest-erkennen`.
 - `sources/Spotify-Player-Raspi.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/STACK.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
+- `sources/umweltbundesamt.md`: Broken wikilink target `safety/Asbest-erkennen`.
 - `sources/Willkommen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wireguard-VPN-Setup.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wohnflaechenberechnung.pdf.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -87,13 +86,10 @@ status: active
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/baustelle-prinzipien.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Fassade-Material-Vergleich.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
 - `concepts/Fussbodenheizung.md`: Page freshness needs review (last touched 2026-06-05T17:24:00.000Z).
 - `concepts/Lehmputz.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/VHF-Fassade.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/VHF-Übersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
 - `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Zeitplanung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).

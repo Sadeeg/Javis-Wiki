@@ -100,10 +100,21 @@ Bei 190m² Wandfläche: **3.800–6.650€** Material
 
 ## Related
 <!-- openclaw:wiki:related:start -->
+### Sources
+
+- [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
+
+### Referenced By
+
+- [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
+
 ### Related Pages
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
+- [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
+- [[concepts/VHF-Fassade|VHF-Fassade]]
+- [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
 - [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 <!-- openclaw:wiki:related:end -->

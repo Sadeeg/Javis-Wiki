@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 89
+- Total pages: 92
 - Claims: 0
-- Sources: 38
+- Sources: 41
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -43,13 +43,16 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]
 - [[sources/rechnungen-2025-2026|Materialbelege OBI/Hornbach (13 Belege)]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]
+- [[sources/openproject-api|OpenProject API v3 (Instanz Kersbach)]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 - [[sources/plan-historie|Plan-Historie – vom Originalplan zum Bank-Fahrplan]]
 - [[sources/sanierungsfahrplan-2026|Sanierungsfahrplan 2026 (Sascha)]]
 - [[sources/sanierungsfahrplan-kersbach-2026|Sanierungsfahrplan Kersbach 2026]]
 - [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
+- [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
 - [[sources/Spotify-Player-Raspi|Spotify-Player — Raspberry Pi 4 + 7" Display]]
 - [[sources/STACK|STACK - Technologie-Stack]]
+- [[sources/umweltbundesamt|Umweltbundesamt – Asbest]]
 - [[sources/wasserinstallation-material-2026-10|Wasserinstallation Materialbestellung 2026-10]]
 - [[sources/Willkommen|Willkommen]]
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]

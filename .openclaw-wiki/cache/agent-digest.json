@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 38,
+    "source": 41,
     "synthesis": 22,
     "report": 10
   },
@@ -130,7 +130,7 @@
       "path": "concepts/Fassade-Material-Vergleich.md",
       "aliases": [],
       "sourceIds": [
-        "fassade-material-vergleich"
+        "selbst-de"
       ],
       "questions": [],
       "contradictions": [],
@@ -139,8 +139,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -235,7 +235,7 @@
       "path": "concepts/VHF-Fassade.md",
       "aliases": [],
       "sourceIds": [
-        "vhf-fassade"
+        "selbst-de"
       ],
       "questions": [],
       "contradictions": [],
@@ -244,8 +244,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -256,7 +256,7 @@
       "path": "concepts/VHF-Übersicht.md",
       "aliases": [],
       "sourceIds": [
-        "vhf-ubersicht"
+        "selbst-de"
       ],
       "questions": [],
       "contradictions": [],
@@ -265,8 +265,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -602,7 +602,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-22T05:37:18.518Z",
+      "lastTouchedAt": "2026-10-23T11:37:15.577Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1025,6 +1025,25 @@
       "topClaims": []
     },
     {
+      "id": "openproject-api",
+      "title": "OpenProject API v3 (Instanz Kersbach)",
+      "kind": "source",
+      "path": "sources/openproject-api.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "source-openproject-taskbilanz",
       "title": "OpenProject Task-Bilanz (alle Work Packages)",
       "kind": "source",
@@ -1139,6 +1158,25 @@
       "topClaims": []
     },
     {
+      "id": "selbst-de",
+      "title": "selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)",
+      "kind": "source",
+      "path": "sources/selbst-de.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
       "id": "spotify-player-raspi",
       "title": "Spotify-Player — Raspberry Pi 4 + 7\" Display",
       "kind": "source",
@@ -1173,6 +1211,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "umweltbundesamt",
+      "title": "Umweltbundesamt – Asbest",
+      "kind": "source",
+      "path": "sources/umweltbundesamt.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-23T12:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

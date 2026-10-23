@@ -163,5 +163,6 @@ sind belastbar** – die Task-Liste nicht.
 ### Referenced By
 
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
+- [[sources/openproject-api|OpenProject API v3 (Instanz Kersbach)]]
 - [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
 <!-- openclaw:wiki:related:end -->

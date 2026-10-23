@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-22T05:37:18.518Z
+updatedAt: 2026-10-23T11:37:15.577Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 67
+- Stale pages: 64
 
 - [[entities/baustelle-kersbach|---]]: stale (2026-05-21T10:10:00.000Z)
 - [[entities/erdgeschoss|---]]: stale (2026-05-21T10:10:00.000Z)
@@ -37,7 +37,6 @@ updatedAt: 2026-10-22T05:37:18.518Z
 - [[syntheses/elektrik-EG-Planung|Elektrik EG-Planung – KNX]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]: stale (2026-05-21T12:45:00.000Z)
 - [[syntheses/energieausweis|Energieausweis – Kersbach]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/FEATURE_0_OAuthSkeleton|FEATURE 0: OAuth-Skelett (Minimalgerüst)]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/FEATURE_1_AuthWorkflow|FEATURE 1: Authentifizierung & Benutzer-Verwaltung]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/FEATURE_2_BildWorkflow|FEATURE 2: Bild-Workflow]]: stale (2026-05-21T10:10:00.000Z)
@@ -65,8 +64,6 @@ updatedAt: 2026-10-22T05:37:18.518Z
 - [[sources/STACK|STACK - Technologie-Stack]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/timesheet-2025-2026|Timesheet BGBau – Stundenzettel OpenProject]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/trockenbau-praxis|Trockenbau – Praxis-Checkliste]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/VHF-Fassade|VHF-Fassade]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/wandflaechenberechnung-2026|Wandflächen-Berechnung – Lehmputz]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]: stale (2026-05-21T12:50:00.000Z)
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]: stale (2026-05-21T12:45:00.000Z)

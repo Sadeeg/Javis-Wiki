@@ -109,10 +109,17 @@ tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
+### Sources
+
+- [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
+
 ### Related Pages
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
+- [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]
+- [[concepts/VHF-Fassade|VHF-Fassade]]
+- [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
 - [[concepts/WDVS-Fassade|WDVS Fassade – Wärmedämmverbundsystem]]
 <!-- openclaw:wiki:related:end -->
