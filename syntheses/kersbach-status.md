@@ -234,6 +234,7 @@ Siehe [[concepts/baustelle-prinzipien]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
+- [[sources/zeitplanung|Zeitplanung]]
 - [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->
 

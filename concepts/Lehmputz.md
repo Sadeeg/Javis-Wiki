@@ -34,4 +34,8 @@ Planwerte aus [[sources/sanierungsaufstellung-eigenleistungen]] und
 ### Sources
 
 - [[sources/lehmputz|Lehmputz]]
+
+### Referenced By
+
+- [[sources/lehmputz|Lehmputz]]
 <!-- openclaw:wiki:related:end -->

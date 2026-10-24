@@ -44,4 +44,8 @@ WDVS-Fenster (01.03.–31.10.2027) aus – die Fassade rutscht in die Saison 202
 ### Sources
 
 - [[sources/zeitplanung|Zeitplanung]]
+
+### Referenced By
+
+- [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

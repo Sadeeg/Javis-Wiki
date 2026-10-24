@@ -9,6 +9,11 @@ updatedAt: 2026-10-23T12:06:15.530Z
 status: active
 ---
 
+> ⚠️ **Diese Rohnotiz ist überholt** (Stand 20.05.2026). Sie nennt **~230 h** und
+> **6–8 mm** Aufbau. Aktuell gültig (23.10.2026): **~284 h** (inkl. Rollputz
+> Treppenhaus), **6 mm** in 3 Lagen, Wandfläche 190 m², offen 264,5 h.
+> → Aktueller Stand: [[concepts/Lehmputz]]
+
 # Lehmputz
 
 ## Source

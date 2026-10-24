@@ -9,6 +9,12 @@ updatedAt: 2026-10-23T12:06:28.274Z
 status: active
 ---
 
+> ⚠️ **Diese Rohnotiz ist überholt** (Stand 20.05.2026). Sie nennt als Ziel
+> „Fertigstellung Juli 2026" und die laufende Woche KW 21 – beides ist nicht mehr
+> aktuell. Stand 23.10.2026: 878,5 h gebucht, **~990 h offen**, letzte Buchung
+> 18.07.2026, WDVS-Fenster 01.03.–31.10.2027.
+> → Aktueller Stand: [[concepts/Zeitplanung]] · [[syntheses/kersbach-status]]
+
 # Zeitplanung
 
 ## Source
