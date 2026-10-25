@@ -3,7 +3,7 @@ id: wdvs-fassade
 pageType: concept
 title: WDVS Fassade – Wärmedämmverbundsystem
 createdAt: 2026-05-21T12:45:00.000Z
-updatedAt: 2026-05-21T12:45:00.000Z
+updatedAt: 2026-10-25T15:30:00.000Z
 sourceIds: [selbst-de]
 tags: [fassade, wdvs, daemmung, altbau, 1973]
 ---

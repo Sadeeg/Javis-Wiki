@@ -10,16 +10,11 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 37
+- Warnings: 29
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
-- `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
-- `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -39,26 +34,18 @@ status: active
 - `sources/Ideen-fuer-Apps.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Meeting-Recorder-Projekt.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/sanierungsfahrplan-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:38.709Z).
-- `sources/selbst-de.md`: Broken wikilink target `safety/Asbest-erkennen`.
 - `sources/Spotify-Player-Raspi.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/STACK.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `sources/umweltbundesamt.md`: Broken wikilink target `safety/Asbest-erkennen`.
 - `sources/Willkommen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wireguard-VPN-Setup.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wohnflaechenberechnung.pdf.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 
 ### Quality Follow-Up
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
-- `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
-- `concepts/Waermepumpe-im-Altbau.md`: Page freshness needs review (last touched 2026-05-21T12:50:00.000Z).
-- `concepts/WDVS-Fassade.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -86,5 +73,4 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 <!-- openclaw:wiki:lint:end -->

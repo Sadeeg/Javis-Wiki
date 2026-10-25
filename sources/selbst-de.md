@@ -37,7 +37,7 @@ die aus diesem Artikel abgeleitet wurden.
 - [[concepts/Fussbodenheizung-nachruesten]] – FBH nachträglich einbauen
 - [[concepts/Elektro-Grundwissen]] – Elektro im Altbau
 - [[concepts/Putzarten]] – Putzarten im Altbau
-- [[safety/Asbest-erkennen]] – Asbest erkennen und entsorgen
+- `safety/Asbest-erkennen.md` (Asbest erkennen & sicher handhaben) – Asbest erkennen und entsorgen
 
 ## Related
 <!-- openclaw:wiki:related:start -->

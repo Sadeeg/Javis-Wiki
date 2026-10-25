@@ -97,4 +97,9 @@ Hinweis: Dies ist Teil 1 von ?. Weitere Seiten (Raumweise Aufschlüsselung) kön
 ### Sources
 
 - [[sources/heizlast-berechnung-wohngebäude-deeg|Heizlast-Berechnung – Wohngebäude Deeg]]
+
+### Referenced By
+
+- [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
+- [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 <!-- openclaw:wiki:related:end -->

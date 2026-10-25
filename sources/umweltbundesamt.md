@@ -21,7 +21,7 @@ Rückbau. Wird für die Altbau-Sanierung in Kersbach herangezogen.
 
 ## Weiterführend
 
-- [[safety/Asbest-erkennen]] – Erkennen, Sanierung, Entsorgung
+- `safety/Asbest-erkennen.md` (Asbest erkennen & sicher handhaben) – Erkennen, Sanierung, Entsorgung
 - TRGS 519 (Sachkunde für Asbestarbeiten):
   https://www.baua.de/DE/Themen/Arbeitsgestaltung-im-Betrieb/Gefahrstoffe/TRGS/TRGS-519.html
 

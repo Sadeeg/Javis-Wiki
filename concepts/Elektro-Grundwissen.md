@@ -3,7 +3,7 @@ id: elektro-grundwissen
 pageType: concept
 title: Elektro-Installation – Grundwissen für Heimwerker
 createdAt: 2026-05-21T12:45:00.000Z
-updatedAt: 2026-05-21T12:45:00.000Z
+updatedAt: 2026-10-25T15:30:00.000Z
 sourceIds: [selbst-de]
 tags: [elektrik, installation, altbau, sicherheit]
 ---
@@ -104,6 +104,28 @@ Siehe: [[syntheses/elektrik-EG-Planung]]
 - [selbst.de – Unterputz-Steckdose setzen](https://www.selbst.de/installation-steckdosen-neue-steckdose-setzen-5389.html)
 - [selbst.de – Kabel unter Putz verlegen](https://www.selbst.de/lichtschalter-anschliessen-kabel-unter-putz-verlegen-11576.html)
 - [ELEKTRO+](https://www.elektro-plus.com)
+
+## Bezug zu Kersbach
+
+Der Elektro-Block ist der **größte offene Brocken** und blockiert die Kette:
+
+| | |
+|---|---|
+| Plan (Bank-Fahrplan) | 183 h (Rohbau-Umfang) |
+| Vollständiger Umfang | **263,5 h** (inkl. Endmontage) |
+| Gebucht | 81 h |
+| **Offen** | **~182,5 h** Rohbau + **80,5 h** Endmontage |
+| Endmontage | Schalter/Steckdosen, Geräte, **KNX-Programmierung**, Inbetriebnahme |
+
+⚠️ Die **Elektrik-Endmontage (~80,5 h) ist in keinem Block des Bank-Fahrplans
+enthalten** – sie war die versteckte Scope-Lücke. Dazu fehlte die
+**Wasserinstallation (30 h)** und der **Bad-Umbau 1. OG (62 h)**.
+
+**Kette:** Elektrik-Rohbau → Schlitze trocknen → Wasserinstallation → Lehmputz
+→ **Endmontage** → Test. Wer die Elektrik nicht abschließt, kommt an den
+Estrich nicht ran.
+
+Stand 25.10.2026 · Quelle Projektstatus: [[syntheses/kersbach-status]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->

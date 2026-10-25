@@ -3,7 +3,7 @@ id: putzarten
 pageType: concept
 title: Putzarten – Überblick und Eigenschaften
 createdAt: 2026-05-21T12:45:00.000Z
-updatedAt: 2026-05-21T12:45:00.000Z
+updatedAt: 2026-10-25T15:00:00.000Z
 sourceIds: [selbst-de]
 tags: [putz, innenputz, lehmputz, gipsputz, renovation]
 ---
@@ -97,6 +97,23 @@ Bei 190m² Wandfläche: **3.800–6.650€** Material
 - [selbst.de – Lehmputz auftragen](https://www.selbst.de/lehmputz-49920.html)
 - [selbst.de – Lehmplatten / Lehmbauplatten](https://www.selbst.de/lehmplatten-waende-mit-lehmbauplatten-daemmen-69736.html)
 - [selbst.de – Wände mit Putz glätten](https://www.selbst.de/innenputz-waende-mit-putz-glaetten-72090.html)
+
+## Bezug zu Kersbach
+
+Für Kersbach ist die Auswahl **long entschieden: Lehmputz**:
+
+| | |
+|---|---|
+| Putzart | **Lehmputz** (6 mm, 3 Lagen mit Trocknung) |
+| Fläche | **190 m²** in 6 Räumen (+ Rollputz Treppenhaus) |
+| Aufwand | Plan **368 h** · offen **264,5 h** (Planrest) |
+| Bauzeit | 3 Lagen → Trocknungsphasen einplanen |
+| Reihenfolge | **nach** Elektrik und Wasserinstallation – Schlitze und Dosen werden mit verputzt |
+
+⚠️ **Reihenfolge-Constraint:** Trockenbau + Sockel-Leisten **vor** Estrich
+(✅ erledigt KW27/2026), Lehmputz **nach** der Elektrik.
+
+Stand 25.10.2026 · Quelle Projektstatus: [[syntheses/kersbach-status]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->

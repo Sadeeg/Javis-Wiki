@@ -3,7 +3,7 @@ id: fussbodenheizung-nachruesten
 pageType: concept
 title: Fußbodenheizung nachrüsten – Systeme & Kosten
 createdAt: 2026-05-21T12:52:00.000Z
-updatedAt: 2026-05-21T12:52:00.000Z
+updatedAt: 2026-10-25T15:00:00.000Z
 sourceIds: [selbst-de]
 tags: [fussbodenheizung, heizung, renovation, altbau, trockenestrich]
 ---
@@ -114,6 +114,23 @@ tags: [fussbodenheizung, heizung, renovation, altbau, trockenestrich]
   - Heizkörper: Einfacher, aber höhere Vorlauftemperatur nötig
 - [ ] Raumhöhe prüfen (reicht die Aufbauhöhe?)
 - [ ] Kostenvoranschlag einholen (Trockenestrich-System)
+
+## Bezug zu Kersbach
+
+Im Projekt ist **Fußbodenheizung beschlossen und bereits ausgeführt** – dieser
+Artikel beschreibt also nicht mehr die offene Frage, sondern den Hintergrund
+einer erledigten Entscheidung:
+
+- **FBH-Block gebucht und fertig: 96,25 h** (Plan 86 h) ✅
+- **Estrich liegt** (Foto 26.09.2026) – Voraussetzung für FBH und Fliesen
+- Wärmepumpe + FBH als **Fremdfirma**: **60.205 €** (beides zusammen)
+- Heizlast **10,68 kW** (Basis der WP-Dimensionierung) → niedrige
+  Vorlauftemperatur der FBH passt → WP ist die passende Wärmeerzeugung
+- ⚠️ **Wanddurchbruch in tragende Wand**: siehe
+  `safety/Wanddurchbruch-tragende-Wand.md` – vor dem Estrich klären
+
+Stand 25.10.2026 · Quelle Projektstatus:
+[[syntheses/kersbach-status]] · [[syntheses/heizlast-berechnung]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->

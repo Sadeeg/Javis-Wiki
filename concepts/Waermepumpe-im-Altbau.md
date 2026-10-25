@@ -3,7 +3,7 @@ id: waermepumpe-altbau
 pageType: concept
 title: Wärmepumpe im Altbau – Planung & Umsetzung
 createdAt: 2026-05-21T12:50:00.000Z
-updatedAt: 2026-05-21T12:50:00.000Z
+updatedAt: 2026-10-25T15:00:00.000Z
 sourceIds: [selbst-de]
 tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 ---
@@ -106,6 +106,21 @@ tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 - [selbst.de – Fußbodenheizung verlegen](https://www.selbst.de/fussbodenheizung-verlegen-4141.html)
 - [selbst.de – Fußbodenheizung nachrüsten](https://www.selbst.de/heizschlaufen-nachruesten-21088.html)
 - [BAFA Förderung Wärmepumpe](https://www.bafa.de)
+
+## Bezug zu Kersbach
+
+Die Wärmepumpe ist im Projekt **entschieden und vergeben** – dieser Artikel ist
+Hintergrund, keine offene Planung:
+
+- **Heizlast 10,68 kW** → Grundlage der WP-Dimensionierung
+- **Heizsystem: Fußbodenheizung** (nicht Heizkörper) → niedrige
+  Vorlauftemperatur, ideal für die WP – genau der Fall aus der Tabelle oben
+- **WP + FBH als Fremdfirma: 60.205 €** · Block gebucht und **fertig (96,25 h)** ✅
+- Estrich verlegt (26.09.2026)
+- Der WP-Angebot stieg beim Umbau von 50.000 € auf **60.205 €** (Plan-Historie)
+
+Stand 25.10.2026 · Quelle Projektstatus:
+[[syntheses/kersbach-status]] · [[syntheses/heizlast-berechnung]]
 
 ## Related
 <!-- openclaw:wiki:related:start -->
