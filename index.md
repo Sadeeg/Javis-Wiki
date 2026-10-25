@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 117
+- Total pages: 119
 - Claims: 0
-- Sources: 66
+- Sources: 68
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -31,6 +31,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]
 - [[sources/bau-wiki-obsidian-vault|bau-wiki – Rohmaterial-Wissensbasis (Obsidian-Vault Baustelle)]]
+- [[sources/bautagebuch-2025-2026-zusammenfassung|Bautagebuch 2025–2026 (Zusammenfassung)]]
 - [[sources/bautagebuch-bilder|Bautagebuch-Bilder (Nextcloud-Archiv)]]
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]
 - [[sources/bilder-rekonstruktion-2026-10-22|Bilder-Rekonstruktion – alle Quellen geprüft (22.10.2026)]]
@@ -57,6 +58,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/keller-kersbach|Keller – Kersbach]]
 - [[sources/kostenübersicht-werkzeug-verbrauchsmaterial|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[sources/kw-15-06-04-12-04-2026|KW 15 – 06.04. – 12.04.2026]]
+- [[sources/kw-15-2026-bautagebuch|KW 15/2026 – Bautagebuch]]
 - [[sources/lehmputz|Lehmputz]]
 - [[sources/rechnungen-2025-2026|Materialbelege OBI/Hornbach (13 Belege)]]
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]

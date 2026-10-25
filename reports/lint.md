@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 40
+- Warnings: 38
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -50,8 +50,6 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
 - `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 
 ### Quality Follow-Up
@@ -90,7 +88,5 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
-- `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
 - `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 <!-- openclaw:wiki:lint:end -->

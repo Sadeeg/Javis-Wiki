@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-25T08:06:22.825Z
+updatedAt: 2026-10-25T09:36:15.968Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 38
+- Stale pages: 36
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -25,7 +25,6 @@ updatedAt: 2026-10-25T08:06:22.825Z
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]: stale (2026-03-30T00:00:00.000Z)
-- [[syntheses/bautagebuch-2025-2026|Bautagebuch – Eigenleistungen 2025-2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/bautagebuch-workflow|Bautagebuch-Workflow — Spezifikation (v2)]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]: stale (2026-05-21T12:45:00.000Z)
 - [[sources/FEATURE_0_OAuthSkeleton|FEATURE 0: OAuth-Skelett (Minimalgerüst)]]: stale (2026-05-21T10:10:00.000Z)
@@ -35,7 +34,6 @@ updatedAt: 2026-10-25T08:06:22.825Z
 - [[sources/Haushaltsplaner|Haushaltsplaner - App Idee]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]: stale (2026-05-21T10:10:00.000Z)
-- [[syntheses/kw15-2026|KW15-2026 (Backup)]]: stale (2026-04-06T00:00:00.000Z)
 - [[sources/Meeting-Recorder-Projekt|Meeting Recorder - Projekt]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/MEMORY-import|MEMORY.md – Langzeitgedächtnis Javis]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/Putzarten|Putzarten – Überblick und Eigenschaften]]: stale (2026-05-21T12:45:00.000Z)

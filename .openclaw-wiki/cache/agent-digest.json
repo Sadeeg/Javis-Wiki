@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 66,
+    "source": 68,
     "synthesis": 22,
     "report": 10
   },
@@ -602,7 +602,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-25T08:06:22.825Z",
+      "lastTouchedAt": "2026-10-25T09:36:15.968Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -793,6 +793,25 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-23T12:20:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.bautagebuch-2025-2026-zusammenfassung",
+      "title": "Bautagebuch 2025–2026 (Zusammenfassung)",
+      "kind": "source",
+      "path": "sources/bautagebuch-2025-2026-zusammenfassung.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T09:35:43.070Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1306,6 +1325,25 @@
       "pageType": "source",
       "freshnessLevel": "fresh",
       "lastTouchedAt": "2026-10-23T12:07:19.168Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.kw-15-2026-bautagebuch",
+      "title": "KW 15/2026 – Bautagebuch",
+      "kind": "source",
+      "path": "sources/kw-15-2026-bautagebuch.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T09:35:56.382Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -1888,7 +1926,8 @@
       "path": "syntheses/bautagebuch-2025-2026.md",
       "aliases": [],
       "sourceIds": [
-        "bautagebuch-workflow"
+        "bautagebuch-workflow",
+        "source.bautagebuch-2025-2026-zusammenfassung"
       ],
       "questions": [],
       "contradictions": [],
@@ -1897,8 +1936,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "synthesis",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T09:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -2141,7 +2180,8 @@
       "path": "syntheses/kw15-2026.md",
       "aliases": [],
       "sourceIds": [
-        "kw15-2026"
+        "kw15-2026",
+        "source.kw-15-2026-bautagebuch"
       ],
       "questions": [],
       "contradictions": [],
@@ -2150,8 +2190,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "synthesis",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-04-06T00:00:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T09:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
