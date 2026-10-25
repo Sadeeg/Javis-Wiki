@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-23T15:36:11.672Z
+updatedAt: 2026-10-25T07:35:40.059Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 55
+- Stale pages: 54
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -42,7 +42,6 @@ updatedAt: 2026-10-23T15:36:11.672Z
 - [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/heizlast-berechnung|Heizlast-Berechnung – Wohngebäude Deeg]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Ideen-fuer-Apps|Ideen für Apps]]: stale (2026-05-21T10:10:00.000Z)
-- [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kassenbons-2025|Kassenbons – Übersicht]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/kosten-uebersicht|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]: stale (2026-05-21T10:10:00.000Z)
 - [[syntheses/KW15-2026|KW 15 – 06.04. – 12.04.2026]]: stale (2026-05-21T10:10:00.000Z)

@@ -602,7 +602,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-23T15:36:11.672Z",
+      "lastTouchedAt": "2026-10-25T07:35:40.059Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -2023,8 +2023,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "synthesis",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T08:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

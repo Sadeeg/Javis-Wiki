@@ -147,3 +147,5 @@
 {"type":"lint","timestamp":"2026-10-23T15:37:00.063Z","details":{"issueCount":57,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-10-24T15:05:42.903Z","details":{"pageCounts":{"entity":4,"concept":15,"source":66,"synthesis":22,"report":10},"updatedFiles":["syntheses/kersbach-status.md","concepts/Lehmputz.md","concepts/Zeitplanung.md"]}}
 {"type":"lint","timestamp":"2026-10-24T15:05:54.996Z","details":{"issueCount":57,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-25T07:35:40.223Z","details":{"pageCounts":{"entity":4,"concept":15,"source":66,"synthesis":22,"report":10},"updatedFiles":["syntheses/kersbach-status.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json"]}}
+{"type":"lint","timestamp":"2026-10-25T07:35:52.580Z","details":{"issueCount":56,"reportPath":"reports/lint.md"}}

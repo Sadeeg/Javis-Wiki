@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 57
+- Warnings: 56
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -56,7 +56,6 @@ status: active
 - `syntheses/elektrik-EG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-EG-Planung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/energieausweis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/expose-kerbach.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -113,7 +112,6 @@ status: active
 - `syntheses/elektrik-EG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/elektrik-EG-Planung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/energieausweis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/expose-kerbach.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).

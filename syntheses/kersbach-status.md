@@ -229,13 +229,13 @@ Siehe [[concepts/baustelle-prinzipien]]
 - [[sources/elektrik-detailplan|Elektrik-Detailplan (03.03.2026)]]
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
 - [[concepts/Fussbodenheizung|Fussbodenheizung]]
+- [[syntheses/expose-kerbach|Immobilien-Exposé – Kersbach]]
 - [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[concepts/Lehmputz|Lehmputz]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]
 - [[sources/zeitplanung|Zeitplanung]]
-- [[concepts/Zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->
 
 ## ⚠️ Task-Status korrigiert (23.10.2026)
