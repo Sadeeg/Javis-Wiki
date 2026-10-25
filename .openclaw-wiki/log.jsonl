@@ -158,3 +158,5 @@
 {"type":"compile","timestamp":"2026-10-25T09:36:16.152Z","details":{"pageCounts":{"entity":4,"concept":15,"source":68,"synthesis":22,"report":10},"updatedFiles":["syntheses/bautagebuch-2025-2026.md","sources/bautagebuch-2025-2026-zusammenfassung.md","sources/kw-15-2026-bautagebuch.md","syntheses/kw15-2026.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json"]}}
 {"type":"lint","timestamp":"2026-10-25T09:36:28.741Z","details":{"issueCount":42,"reportPath":"reports/lint.md"}}
 {"type":"lint","timestamp":"2026-10-25T09:37:02.368Z","details":{"issueCount":38,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-25T11:05:54.539Z","details":{"pageCounts":{"entity":4,"concept":15,"source":68,"synthesis":22,"report":10},"updatedFiles":[".openclaw-wiki/cache/agent-digest.json"]}}
+{"type":"lint","timestamp":"2026-10-25T11:06:06.935Z","details":{"issueCount":38,"reportPath":"reports/lint.md"}}

@@ -3,13 +3,13 @@ id: kersbach-aktueller-status
 pageType: synthesis
 title: Kersbach Baustelle – Aktueller Stand
 createdAt: 2026-05-21T10:25:00.000Z
-updatedAt: 2026-10-22T14:30:00.000Z
+updatedAt: 2026-10-25T09:30:00.000Z
 sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 ---
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: **22.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
+> Stand: **25.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
 > Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), Fotodokumentation 26.09.2026
 
 ## Die Zahlen
@@ -116,6 +116,11 @@ die Tagesrate ist die kritische Größe, nicht die Fassade.**
 ## Die 0h sind ein Buchungsproblem, kein Stillstand
 
 Belege für aktive Arbeit nach dem 18.07.2026:
+- **23.10.2026:** Software-Projekt **Bautagebuch** aktiv bearbeitet – Commits im Repo
+  `Sadeeg/Bautagebuch` (`fb3f4cf` Test-Harness, `8ac3523` Bugfix), Teststand
+  **64 Tests / 0 Fehler / 0 Errors** (Docker/JDK21). Dazu die Materialbestellung vom
+  20.10.2026 (Uponor-Rohre, 410,95 €) → Start Trinkwasser-Installation.
+  **Die 0h-Wochen betreffen ausschließlich die OpenProject-Buchung, nicht die Arbeit.**
 - **20.10.2026:** Materialbestellung MeinHausShop 410,95 € – Uponor Uni Pipe PLUS d16 +
   S-Press Fittinge → Start Trinkwasser-Installation
 - **26.09.2026:** Baustellenfotos – Estrich verlegt, Elektro-Schlitze in Arbeit
