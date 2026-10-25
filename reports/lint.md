@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 56
+- Warnings: 40
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -51,24 +51,8 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
 - `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-1OG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-DG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-EG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-EG-Planung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/energieausweis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kosten-uebersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
-- `syntheses/KW15-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/sanierungsaufstellung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/timesheet-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/trockenbau-praxis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/wandflaechenberechnung-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/wohnflaechenberechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/zeitplan-detail.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 
 ### Quality Follow-Up
 - `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
@@ -107,22 +91,6 @@ status: active
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
 - `syntheses/bautagebuch-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-1OG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-DG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-EG-leitungen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/elektrik-EG-Planung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/energieausweis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/grundriss-1971.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/heizlast-berechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kassenbons-2025.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/kosten-uebersicht.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/kw15-2026.md`: Page freshness needs review (last touched 2026-04-06T00:00:00.000Z).
-- `syntheses/KW15-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/sanierungsaufstellung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/timesheet-2025-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/trockenbau-praxis.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/wandflaechenberechnung-2026.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/wohnflaechenberechnung.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `syntheses/zeitplan-detail.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 <!-- openclaw:wiki:lint:end -->
