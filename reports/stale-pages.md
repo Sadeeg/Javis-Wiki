@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-25T09:36:15.968Z
+updatedAt: 2026-10-25T14:07:25.574Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 36
+- Stale pages: 35
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -21,7 +21,6 @@ updatedAt: 2026-10-25T09:36:15.968Z
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]: stale (2026-05-21T10:10:00.000Z)
 - [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know   The Book]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/AI-Agent-Company-HR-System|AI Agent Company / Agent HR System]]: aging (2026-08-04T00:00:00.000Z)
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]: stale (2026-03-30T00:00:00.000Z)

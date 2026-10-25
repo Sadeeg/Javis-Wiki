@@ -10,12 +10,11 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 38
+- Warnings: 37
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
 - `concepts/Fussbodenheizung-nachruesten.md`: Page freshness needs review (last touched 2026-05-21T12:52:00.000Z).
 - `concepts/Putzarten.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).
@@ -53,7 +52,6 @@ status: active
 - `syntheses/MEMORY-import.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 
 ### Quality Follow-Up
-- `concepts/AI-Agent-Company-HR-System.md`: Non-source page is missing `sourceIds` provenance.
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `concepts/Elektro-Grundwissen.md`: Page freshness needs review (last touched 2026-05-21T12:45:00.000Z).

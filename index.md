@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 119
+- Total pages: 120
 - Claims: 0
-- Sources: 68
+- Sources: 69
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -56,6 +56,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/immobilien-exposé-kersbach|Immobilien-Exposé – Kersbach]]
 - [[sources/kassenbons-übersicht|Kassenbons – Übersicht]]
 - [[sources/keller-kersbach|Keller – Kersbach]]
+- [[sources/ai-agent-company-hr-system|Konzept: AI Agent Company / Agent HR System]]
 - [[sources/kostenübersicht-werkzeug-verbrauchsmaterial|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
 - [[sources/kw-15-06-04-12-04-2026|KW 15 – 06.04. – 12.04.2026]]
 - [[sources/kw-15-2026-bautagebuch|KW 15/2026 – Bautagebuch]]

@@ -4,8 +4,8 @@ pageType: concept
 title: AI Agent Company / Agent HR System
 description: Konzept eines virtuellen Unternehmens aus spezialisierten KI-Agents mit zentralem HR Manager
 createdAt: 2026-08-04T00:00:00.000Z
-updatedAt: 2026-08-04T00:00:00.000Z
-sourceIds: []
+updatedAt: 2026-10-25T12:00:00.000Z
+sourceIds: [source.ai-agent-company-hr-system]
 tags:
   - ai-agents
   - orchestration
@@ -17,6 +17,23 @@ created: 2026-08-04
 ---
 
 # AI Agent Company / Agent HR System
+
+## Provenienz
+
+> **Herkunft:** Von Sascha selbst ins Wiki eingereicht – Telegram-Nachricht vom
+> **04.08.2026, 09:25 UTC** (message_id 6419), Session `29725e2a-a2ad-484d-a934-03bc0b2927cb`,
+> mit dem Auftrag „Kannst du folgendes Konzept anschauen und es in meinem Wiki ablegen".
+> → Quelle: [[sources/ai-agent-company-hr-system]]
+>
+> **Einschränkung:** Der übermittelte Text beginnt mit „Klar — hier ist eine kompakte,
+> aber ausreichend technische Konzeptbeschreibung…" – Sascha hat die Beschreibung
+> also aus einem früheren Chat **kopiert**. Belegt ist: Sascha hat das Konzept am
+> 04.08.2026 als eigenes abgelegt. Die Urheberschaft der *Formulierung* ist nicht
+> abschließend geklärt.
+>
+> **Bearbeitungsstand:** Konzeptbeschreibung, noch **nicht implementiert**.
+> Offener Vorschlag aus dem Originaltext: daraus einen Master-Prompt für
+> **Qwen Code** als Implementierungsbasis zu erzeugen.
 
 ## 1. Ziel
 
@@ -358,5 +375,7 @@ Der HR Manager entscheidet:
 
 ## Related
 <!-- openclaw:wiki:related:start -->
-- No related pages yet.
+### Sources
+
+- [[sources/ai-agent-company-hr-system|Konzept: AI Agent Company / Agent HR System]]
 <!-- openclaw:wiki:related:end -->

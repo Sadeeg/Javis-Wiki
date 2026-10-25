@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 68,
+    "source": 69,
     "synthesis": 22,
     "report": 10
   },
@@ -68,7 +68,9 @@
       "kind": "concept",
       "path": "concepts/AI-Agent-Company-HR-System.md",
       "aliases": [],
-      "sourceIds": [],
+      "sourceIds": [
+        "source.ai-agent-company-hr-system"
+      ],
       "questions": [],
       "contradictions": [],
       "bestUsedFor": [],
@@ -76,8 +78,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "aging",
-      "lastTouchedAt": "2026-08-04T00:00:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T12:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -602,7 +604,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-25T09:36:15.968Z",
+      "lastTouchedAt": "2026-10-25T14:07:25.574Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -736,6 +738,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source.ai-agent-company-hr-system",
+      "title": "Konzept: AI Agent Company / Agent HR System",
+      "kind": "source",
+      "path": "sources/ai-agent-company-hr-system.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-25T12:00:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
