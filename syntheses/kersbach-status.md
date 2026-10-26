@@ -3,13 +3,13 @@ id: kersbach-aktueller-status
 pageType: synthesis
 title: Kersbach Baustelle – Aktueller Stand
 createdAt: 2026-05-21T10:25:00.000Z
-updatedAt: 2026-10-25T09:30:00.000Z
+updatedAt: 2026-10-26T11:45:00.000Z
 sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 ---
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: **25.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
+> Stand: **26.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
 > Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), Fotodokumentation 26.09.2026
 
 ## Die Zahlen
@@ -114,6 +114,22 @@ es 20,3 h/Woche über 26 Wochen. **Das WDVS-Fenster passt in allen Szenarien;
 die Tagesrate ist die kritische Größe, nicht die Fassade.**
 
 ## Die 0h sind ein Buchungsproblem, kein Stillstand
+
+**Kommunikationsstand (verifiziert 26.10.2026 aus allen Session-Trajectories,
+284 Nachrichten von Sascha, 16.03.–26.09.2026):**
+
+| | Datum | Abstand |
+|---|---|---|
+| Letzte **direkte Nachricht** von Sascha (Telegram) | **26.09.2026 11:30 UTC** | 30 Tage |
+| Letzte **Buchung** (KW29/2026) | 18.07.2026 | 14 Wochen |
+| Letzte **Foto-Sichtung** | 26.09.2026 | 30 Tage |
+
+→ Die **14-Wochen-Lücke ist die Buchung**, die **4-Wochen-Lücke ist die
+Kommunikation**. Zwei verschiedene Dinge, die oft vermischt werden.
+Am 26.09.2026 hat Sascha noch geschrieben **und** Fotos geschickt – danach
+4 Wochen Stille. Grund unbekannt (Urlaub? Krankheit? Reise?).
+OpenProject bleibt die Source of Truth für *Stunden*, die Nachrichtenlage
+für *Erreichbarkeit*.
 
 Belege für aktive Arbeit nach dem 18.07.2026:
 - **23.10.2026:** Software-Projekt **Bautagebuch** aktiv bearbeitet – Commits im Repo
