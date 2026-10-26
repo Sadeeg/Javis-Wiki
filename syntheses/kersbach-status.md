@@ -3,7 +3,7 @@ id: kersbach-aktueller-status
 pageType: synthesis
 title: Kersbach Baustelle – Aktueller Stand
 createdAt: 2026-05-21T10:25:00.000Z
-updatedAt: 2026-10-26T11:45:00.000Z
+updatedAt: 2026-10-26T11:50:00.000Z
 sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 ---
 
@@ -122,7 +122,8 @@ die Tagesrate ist die kritische Größe, nicht die Fassade.**
 |---|---|---|
 | Letzte **direkte Nachricht** von Sascha (Telegram) | **26.09.2026 11:30 UTC** | 30 Tage |
 | Letzte **Buchung** (KW29/2026) | 18.07.2026 | 14 Wochen |
-| Letzte **Foto-Sichtung** | 26.09.2026 | 30 Tage |
+| Letzte **Foto-Aufnahme** | 26.09.2026 (15:34–20:50) | 30 Tage |
+| Letzte **Datei-Upload** (letzte Aktivitätsspur) | **01.10.2026** | 25 Tage |
 
 → Die **14-Wochen-Lücke ist die Buchung**, die **4-Wochen-Lücke ist die
 Kommunikation**. Zwei verschiedene Dinge, die oft vermischt werden.
