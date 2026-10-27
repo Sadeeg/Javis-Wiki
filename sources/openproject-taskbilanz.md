@@ -22,19 +22,21 @@ tags: [kersbach, openproject, taskbilanz, status]
 | **Offene Tasks** | **52** (41 New, 11 In progress) |
 | Geschlossene Tasks (mit Buchung) | 37 |
 | Erfasste Stunden | **878,50 h** (227 Buchungen auf 50 Tasks) |
-| **Rest-Schätzung auf offenen Tasks** | **318,0 h** |
+| **Rest-Schätzung auf offenen Tasks** | **253,0 h** (446,0 h Schätzung − 193,0 h gebucht) |
 | **Planrest gesamt (Fahrplan + Scope-Lücken)** | **~990 h** |
 
-### ⚠️ 318 h vs. ~990 h – zwei verschiedene Dinge, bitte nicht verwechseln
+### ⚠️ 253 h vs. ~990 h – zwei verschiedene Dinge, bitte nicht verwechseln
 
-- **318 h** = Summe „Schätzung minus gebucht" über die **52 offenen Tasks**.
+- **253 h** = Summe „Schätzung minus gebucht" über die **52 offenen Tasks**
+  (Σ `estimatedTime` 446,0 h − Σ gebuchte Stunden 193,0 h), berechnet mit
+  OpenProject-Semantik **8 h pro Tag** (`P1DT16H` = 24 h).
   Das ist der **Rest, den die Task-Liste selbst kennt** – mit uralten Schätzungen aus
   2025/2026 (viele Tasks haben gar keine oder eine völlig überholte Schätzung).
 - **~990 h** = **Planrest aus dem Sanierungsfahrplan** (1.613 h minus 878,50 h erfasst)
   **plus die Scope-Lücken, die als Task gar nicht existieren**:
   Elektrik-Endmontage 80,5 h · Wasserinstallation 30 h · Bad-Umbau 1. OG 62 h ·
   WDVS 235 h.
-- Die Lücke (~670 h) ist **keine Buchungsdifferenz**, sondern Arbeit, die im
+- Die Lücke (~737 h) ist **keine Buchungsdifferenz**, sondern Arbeit, die im
   OpenProject **nicht als Task angelegt** ist. Der Task-Status ersetzt den Fahrplan nicht.
 
 ### ⚠️ Die Task-Liste ist kein Fortschrittsmaß
@@ -100,7 +102,7 @@ sind belastbar** – die Task-Liste nicht.
 | #177 | Einkaufen Material | New | 3 h | 3.0 h | 0 h | 2 | 2026-07-02 |
 | #180 | Keller – Hobbykeller vorbereiten | New | 8 h | 0.0 h | 8 h | 0 | – |
 
-**Summe:** geschätzt 446 h · erfasst 193.0 h · **Rest 318 h** · 41 New · 11 In progress
+**Summe:** geschätzt 446 h · erfasst 193.0 h · **Rest 253 h** · 41 New · 11 In progress
 
 ## Die 37 geschlossenen Tasks (mit Buchungen)
 
@@ -147,6 +149,22 @@ sind belastbar** – die Task-Liste nicht.
 **Summe erfasst auf geschlossenen Tasks:** 685.5 h
 **Summe erfasst auf offenen Tasks:** 193.0 h
 **Gesamt:** 878.50 h auf 50 Tasks · 227 Buchungen
+
+## ⚠️ Korrektur 27.10.2026: 318 h → 253 h
+
+Die zuvor genannten **318 h** waren **nicht reproduzierbar**: sie folgten nicht
+aus den eigenen Zahlen dieser Seite (446 h − 193,0 h = **253,0 h**). Nachgerechnet
+wurde der Wert am 27.10.2026 direkt aus der API:
+
+- Σ `estimatedTime` über die 52 offenen Tasks, **8 h/Tag-Semantik** = **446,0 h** ✔
+- Σ gebuchte Stunden auf diesen Tasks (via `/time_entries`) = **193,0 h** ✔
+- **Rest = 253,0 h**
+
+Zusatzbeobachtung: mehrere offene Tasks haben **gar keine Schätzung**
+(`estimatedTime` = `null` bzw. `PT0S`) – u. a. „Elektrik (must vor Estrich)" und
+„Abriss". Deshalb ist die Task-Restzahl **253 h** selbst massiv zu niedrig; die
+verlässliche Planungsgröße bleibt **~990 h**. Einige „In progress"-Tasks sind
+sogar **überbucht** (Schätzung 105 h, gebucht 126 h → Rest −21 h).
 
 ## API-Hinweise
 - `GET /projects/3/work_packages?pageSize=500` → **nur die 52 offenen** (41 New, 11 In progress).

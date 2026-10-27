@@ -256,9 +256,9 @@ Die OpenProject-Task-Liste **ist nicht geschlossen** – das Projekt läuft:
 **Zwei Rest-Maße, die nicht verwechselt werden dürfen:**
 | Maß | Wert | Bedeutung |
 |---|---|---|
-| Rest-Schätzung auf den 52 offenen Tasks | **318 h** | was die Task-Liste kennt (alte Schätzungen!) |
+| Rest-Schätzung auf den 52 offenen Tasks | **253 h** | was die Task-Liste kennt (alte Schätzungen, teils ohne Schätzung) |
 | Planrest aus Fahrplan + Scope-Lücken | **~990 h** | verlässliche Planungsgröße |
 
-Die ~670 h Differenz ist **keine Buchungsdifferenz**, sondern Arbeit ohne Task:
+Die ~737 h Differenz ist **keine Buchungsdifferenz**, sondern Arbeit ohne Task:
 Elektrik-Endmontage 80,5 h · Wasserinstallation 30 h · Bad-Umbau 1. OG 62 h · WDVS 235 h.
 → **Der Task-Status ersetzt den Fahrplan nicht.** Nur die Zeitbuchungen sind belastbar.
