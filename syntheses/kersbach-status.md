@@ -22,7 +22,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 | davon Innenbereich | ~674,5 h |
 | davon WDVS (März–Okt 2027) | 235 h |
 | **Materialbudget** | **~97.033 €** (davon 60.205 € WP+FBH Fremdfirma) |
-| **Eigenleistungswert** | **64.520 €** (1.613 h × 40 €/h), davon 42.080 € offen |
+| **Eigenleistungswert** | **64.520 €** (1.613 h × 40 €/h), davon **39.600 € offen** (990 h × 40 €/h) |
 | Gesamtbedarf | ~161.553 € · Finanzierung 260.000 € + 84.500 € Kredit |
 | Letzte Buchung | 18.07.2026 (KW29/2026, 15,0 h) – seither **14 Wochen 0h** |
 
