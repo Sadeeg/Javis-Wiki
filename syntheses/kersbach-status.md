@@ -19,7 +19,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 | **Erfasste Arbeitszeit** | **878,50 h** (227 API-Einträge, 13.08.2025 – 18.07.2026) |
 | Planvolumen (Saschas Fahrplan) | **1.613 h** |
 | **Real offen** | **~990 h** (909,5 h + **80,5 h Elektrik-Endmontage**) |
-| davon Innenbereich | ~674,5 h |
+| davon Innenbereich | ~674,5 h **ohne** Endmontage (+80,5 h) = 755 h |
 | davon WDVS (März–Okt 2027) | 235 h |
 | **Materialbudget** | **~97.033 €** (davon 60.205 € WP+FBH Fremdfirma) |
 | **Eigenleistungswert** | **64.520 €** (1.613 h × 40 €/h), davon **39.600 € offen** (990 h × 40 €/h) |
