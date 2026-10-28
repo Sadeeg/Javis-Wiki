@@ -294,6 +294,42 @@ zugeordnet (beide haben Reserve), sänke der Rest um bis zu 70 h.
 Zur Erinnerung: Elektrik-Endmontage 80,5 h und Wasserinstallation 30 h sind
 darin enthalten, der **Bad-Umbau ebenfalls**.
 
+### Die 84 h Differenz „368 h vs. 284 h" sind die Aufteilung Vorbereitung/Auftrag
+
+Der Wandputz-Block des Primärdokuments lässt sich vollständig auflösen
+(`Saninerungsfahrplan.docx`, Block 6, Zeitschätzung):
+
+| Arbeitsschritt | Fläche | Zeit/m² | Gesamt |
+|---|---|---|---|
+| Vorbereitung (Abschleifen) | 190 m² | – | **84 h** |
+| Lehmputz auftragen | 190 m² | 1,2 h | ~228 h |
+| Rollputz | 80 m² | 0,7 h | ~56 h |
+| **Summe** | **270 m²** | | **~368 h** |
+
+→ **84 + 228 + 56 = 368 h** ✅ exakt. Die im Wiki genannten „~284 h" sind
+**228 + 56 = die reine Auftragszeit** – es ist also **kein Widerspruch**,
+sondern die Sicht auf denselben Block ohne den Vorbereitungsteil.
+
+**Entscheidend:** Die 84 h Vorbereitung sind in OpenProject **bereits gebucht**
+(121,5 h auf WP 101 „Wandputz" → WP 98 „Wandvorbereitung":
+43 Gipsputz EG entfernen · 27 Alex Büro · 18 Schlafzimmer · 15 Kaminzimmer ·
+13 Wohnzimmer Tiefengrund · 5,5 Küche Tiefengrund).
+→ Der offene Rest von 264,5 h ist damit **reine Auftragsarbeit**
+(Lehmputz + Rollputz), **keine Doppelzählung einer erledigten Vorbereitung**.
+
+**Gleiches Muster im Boden-Block (162 h):** Grundieren 12 h · Fliesen schneiden
+& verlegen 100 h · Verfugen + Reinigung 50 h. Das Primärdokument führt dort
+„Gebucht: –"; die 38 h Bodenvorbereitung stehen laut eigener Tabelle des
+Dokuments (#100) **im Wärmepumpe-Block**, nicht im Boden-Block. Die 162 h
+sind also tatsächlich unberührt → die Zurechnung von 53 h (Boden gebucht)
+ist die **konservative** Variante.
+
+→ **Zweite, unabhängige Bestätigung:** Die gebuchten Stunden decken
+überall die **Vorbereitungsarbeiten** ab, die offenen Stunden sind reine
+Ausführungsarbeit. Die dokumentierten 990 h sind damit erneut das
+**konservative Ende** (die Zurechnung der 53 h Boden-Stunden auf den
+Boden-Block unterdrückt den Rest).
+
 ### Auswirkung auf den Fertigtermin
 
 | offene Stunden | 20,3 h/Woche | 25 h/Woche | 30 h/Woche |
