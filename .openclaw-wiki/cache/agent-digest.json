@@ -2,7 +2,7 @@
   "pageCounts": {
     "entity": 4,
     "concept": 15,
-    "source": 70,
+    "source": 71,
     "synthesis": 22,
     "report": 10
   },
@@ -27,6 +27,7 @@
       "path": "concepts/80-20 Leitfragen Frontend.md",
       "aliases": [],
       "sourceIds": [
+        "source-80-20-leitfragen-sascha",
         "97-things-every-software-architect-should-know-auf-deutsch"
       ],
       "questions": [],
@@ -36,8 +37,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-28T16:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -48,6 +49,7 @@
       "path": "concepts/80-20 Leitfragen.md",
       "aliases": [],
       "sourceIds": [
+        "source-80-20-leitfragen-sascha",
         "97-things-every-software-architect-should-know-auf-deutsch"
       ],
       "questions": [],
@@ -57,8 +59,8 @@
       "relationshipCount": 0,
       "topRelationships": [],
       "pageType": "concept",
-      "freshnessLevel": "stale",
-      "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-28T16:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -358,7 +360,7 @@
     },
     {
       "id": "erdgeschoss",
-      "title": "---",
+      "title": "Erdgeschoss – Kersbach",
       "kind": "entity",
       "path": "entities/erdgeschoss.md",
       "aliases": [],
@@ -400,7 +402,7 @@
     },
     {
       "id": "obergeschoss",
-      "title": "---",
+      "title": "Obergeschoss – Kersbach",
       "kind": "entity",
       "path": "entities/obergeschoss.md",
       "aliases": [],
@@ -604,7 +606,7 @@
       "topRelationships": [],
       "pageType": "report",
       "freshnessLevel": "fresh",
-      "lastTouchedAt": "2026-10-28T16:13:41.984Z",
+      "lastTouchedAt": "2026-10-28T16:36:54.907Z",
       "claimCount": 0,
       "topClaims": []
     },
@@ -700,6 +702,25 @@
       "pageType": "source",
       "freshnessLevel": "stale",
       "lastTouchedAt": "2026-05-21T10:10:00.000Z",
+      "claimCount": 0,
+      "topClaims": []
+    },
+    {
+      "id": "source-80-20-leitfragen-sascha",
+      "title": "80/20-Leitfragen – Saschas eigene Notizen",
+      "kind": "source",
+      "path": "sources/80-20-leitfragen-sascha.md",
+      "aliases": [],
+      "sourceIds": [],
+      "questions": [],
+      "contradictions": [],
+      "bestUsedFor": [],
+      "notEnoughFor": [],
+      "relationshipCount": 0,
+      "topRelationships": [],
+      "pageType": "source",
+      "freshnessLevel": "fresh",
+      "lastTouchedAt": "2026-10-28T16:45:00.000Z",
       "claimCount": 0,
       "topClaims": []
     },

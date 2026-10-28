@@ -1,7 +1,7 @@
 ---
 id: obergeschoss
 pageType: entity
-title: ---
+title: Obergeschoss – Kersbach
 createdAt: 2025-08-13T00:00:00.000Z
 updatedAt: 2026-10-23T16:00:00.000Z
 source: obsidian_vault/Baustelle/

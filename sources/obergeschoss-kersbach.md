@@ -64,5 +64,5 @@ status: active
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
-- [[entities/obergeschoss|---]]
+- [[entities/obergeschoss|Obergeschoss – Kersbach]]
 <!-- openclaw:wiki:related:end -->

@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-28T16:13:41.984Z
+updatedAt: 2026-10-28T16:36:54.907Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 28
+- Stale pages: 26
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -18,8 +18,6 @@ updatedAt: 2026-10-28T16:13:41.984Z
 - [[sources/2-VM-Setup|2-VM Home-Lab Setup]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/3 - Holzvertafelung Kellertreppenaufgang entfernen|3 — Holzvertafelung im Kellertreppenaufgang entfernen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/97 Things Every Software Architect Should Know auf Deutsch|7. Steh auf!]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]: stale (2026-05-21T10:10:00.000Z)
-- [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know   The Book]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]: stale (2026-05-21T10:10:00.000Z)

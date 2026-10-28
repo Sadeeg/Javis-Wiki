@@ -88,5 +88,5 @@ status: active
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
-- [[entities/erdgeschoss|---]]
+- [[entities/erdgeschoss|Erdgeschoss – Kersbach]]
 <!-- openclaw:wiki:related:end -->

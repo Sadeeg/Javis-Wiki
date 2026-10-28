@@ -11,9 +11,9 @@ updatedAt: 2026-05-21T10:10:00.000Z
 ## Generated
 <!-- openclaw:wiki:index:start -->
 - Render mode: `obsidian`
-- Total pages: 121
+- Total pages: 122
 - Claims: 0
-- Sources: 70
+- Sources: 71
 - Entities: 4
 - Concepts: 15
 - Syntheses: 22
@@ -26,6 +26,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/2-VM-Setup|2-VM Home-Lab Setup]]
 - [[sources/3 - Holzvertafelung Kellertreppenaufgang entfernen|3 — Holzvertafelung im Kellertreppenaufgang entfernen]]
 - [[sources/97 Things Every Software Architect Should Know auf Deutsch|7. Steh auf!]]
+- [[sources/80-20-leitfragen-sascha|80/20-Leitfragen – Saschas eigene Notizen]]
 - [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know   The Book]]
 - [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]
@@ -92,10 +93,10 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/zustandsaufnahme-2026-09-26|Zustandsaufnahme 26.09.2026 (Fotodokumentation)]]
 
 ### Entities
-- [[entities/erdgeschoss|---]]
-- [[entities/obergeschoss|---]]
 - [[entities/baustelle-kersbach|Baustelle Kersbach]]
+- [[entities/erdgeschoss|Erdgeschoss – Kersbach]]
 - [[entities/keller|Keller – Kersbach]]
+- [[entities/obergeschoss|Obergeschoss – Kersbach]]
 
 ### Concepts
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]

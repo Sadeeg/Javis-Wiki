@@ -10,11 +10,9 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 28
+- Warnings: 26
 
 ### Warnings
-- `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -43,8 +41,6 @@ status: active
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
 
 ### Quality Follow-Up
-- `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `concepts/80-20 Leitfragen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/0 - Tiefengrund Schlafzimmer und Alex Büro.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/1 - Elektrik Schlafzimmer Heizung entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/2 - Holzdielen Wintergarten entfernen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
