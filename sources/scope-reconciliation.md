@@ -330,6 +330,56 @@ Ausführungsarbeit. Die dokumentierten 990 h sind damit erneut das
 **konservative Ende** (die Zurechnung der 53 h Boden-Stunden auf den
 Boden-Block unterdrückt den Rest).
 
+### ⚠️ Die 10,68 kW Heizlast ist eine **bedingte** Zahl – und die Bedingung fehlt im Plan
+
+Der Energieberater (Philipp Bott, BK Energieberater, 26.08.2025, EVEBI 13.10.5,
+DIN EN 12831-1) rechnet **drei Zustände**:
+
+| Zustand | Heizlast | benötigte WP-Leistung |
+|---|---|---|
+| Komplett saniert, **alles beheizt** | 10,68 kW | 11–12 kW |
+| Ohne Fassade + Dachdämmung, kalt-DG/KG | ~12–13 kW | 13–15 kW |
+| Ohne Fassade + Dachdämmung, **alles beheizt** | ~15,5 kW | 15–16 kW |
+
+> **„Empfehlung: Wärmepumpe mit mindestens 15 kW Nennleistung wählen
+> (für Worst-Case ohne Dämmung)."**
+
+Die Annahmen der Rechnung: U-Wert Außenwand saniert 0,58 · **U-Wert Dach
+(saniert) 0,2 W/m²K** · **DG und KG bleiben unbeheizt**.
+
+**Das Problem:** Die 10,68 kW setzt eine **gedämmte oberste Geschossdecke**
+voraus – und die gibt es weder fertig noch geplant:
+- Der **Energieausweis** (Reg.-Nr. BY-2024-004908552) führt die
+  **Dämmung der obersten Geschossdecke** als *empfohlene Einzelmaßnahme*
+  → das Dach ist also **noch nicht gedämmt**.
+- Der **Sanierungsfahrplan (9 Blöcke)** enthält **keine Dachdämmung**.
+- Ebenso kein Block für **Lüftung** (Ausweis: „nach größeren
+  Sanierungsvorhaben notwendig") und **Keller-Außenwand am Wintergarten**
+  (Ausweis Nr. 3).
+
+**Konsequenz:** Wer die 10,68 kW als WP-Grundlage nimmt, dimensioniert gegen
+einen Zustand, den das Projekt nicht erreicht. Der Berater selbst nennt
+**mindestens 15 kW** für den Worst Case ohne Dämmung. Da die WP+FBH bereits
+als Fremdfirma-Angebot über **60.205 €** im Budget steht, ist die
+**Anlagengröße die offene Frage** – die im Fahrplan nirgends dokumentiert ist.
+
+**Konkrete offene Punkte daraus:**
+1. **Dachdämmung** in den Fahrplan aufnehmen (Fläche? Kosten? Förderung BAFA/KfW)
+   – senkt die Heizlast **und** ist GEG-relevant.
+2. **WP-Nennleistung** gegen den Energieberater prüfen (welche Leistung steht
+   im Angebot über 60.205 €?).
+3. **Lüftung** (dezentral) als Position aufnehmen – vom Ausweis ausdrücklich
+   als notwendig benannt.
+4. **Original-Heizlast-PDF** beim Energieberater anfordern (Teil 1 von ?,
+   raumweise Aufschlüsselung fehlt) – nötig für Anlagenherstellung/BAFA.
+5. **Baujahr ist 1971** (Energieausweis + Exposé) – die Projektangabe
+   „1973" hat **keine Quelle**; für Vertrag/Versicherung gilt der Ausweis.
+
+> Die Heizlast-Zahl selbst (10,68 kW) wird im Projekt an vielen Stellen
+> zitiert. Sie ist **richtig, aber bedingt** – der Wikipedia-Artikel
+> `concepts/Waermepumpe-im-Altbau.md` empfiehlt „10–12 kW" und übernimmt damit
+> die **kleinste** der drei Varianten, nicht die Empfehlung des Beraters.
+
 ### Auswirkung auf den Fertigtermin
 
 | offene Stunden | 20,3 h/Woche | 25 h/Woche | 30 h/Woche |
@@ -345,6 +395,8 @@ bei der dokumentierten Rate mit 5 Wochen Reserve.
 ### Referenced By
 
 - [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
+- [[sources/energieausweis-kersbach|Energieausweis – Kersbach]]
+- [[syntheses/energieausweis|Energieausweis – Kersbach]]
 - [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
