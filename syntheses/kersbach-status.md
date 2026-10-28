@@ -18,7 +18,8 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 |---|---|
 | **Erfasste Arbeitszeit** | **878,50 h** (227 API-Einträge, 13.08.2025 – 18.07.2026) |
 | Planvolumen (Saschas Fahrplan) | **1.613 h** |
-| **Real offen** | **~990 h** (909,5 h + **80,5 h Elektrik-Endmontage**) |
+| **Real offen** | **~990 h** (909,5 h + **80,5 h Elektrik-Endmontage**) – Bandbreite **920–990 h**, dokumentierter Wert = konservatives Ende |
+| davon Bad-Umbau 1. OG | **enthalten** (62 h) – **nicht zusätzlich addieren** |
 | davon Innenbereich | ~674,5 h **ohne** Endmontage (+80,5 h) = 755 h |
 | davon WDVS (März–Okt 2027) | 235 h |
 | **Materialbudget** | **~97.033 €** (davon 60.205 € WP+FBH Fremdfirma) |
@@ -257,8 +258,12 @@ Die OpenProject-Task-Liste **ist nicht geschlossen** – das Projekt läuft:
 | Maß | Wert | Bedeutung |
 |---|---|---|
 | Rest-Schätzung auf den 52 offenen Tasks | **253 h** | was die Task-Liste kennt (alte Schätzungen, teils ohne Schätzung) |
-| Planrest aus Fahrplan + Scope-Lücken | **~990 h** | verlässliche Planungsgröße |
+| Planrest aus Fahrplan + Scope-Lücken | **~990 h** (Bandbreite **920–990 h**) | verlässliche Planungsgröße, konservativ |
+| Bad-Umbau 1. OG (62 h) | **in den 990 h enthalten** | nicht zusätzlich addieren (Doppelzählung → ~3 Wochen falsch) |
 
 Die ~737 h Differenz ist **keine Buchungsdifferenz**, sondern Arbeit ohne Task:
 Elektrik-Endmontage 80,5 h · Wasserinstallation 30 h · Bad-Umbau 1. OG 62 h · WDVS 235 h.
+(Stand 28.10.2026: Der Bad-Umbau ist **nicht** zusätzlich zu den ~990 h zu addieren – seine
+Stunden stecken bereits in Abriss / Boden / Wandputz / Elektrik. Verifiziert gegen
+`Saninerungsfahrplan.docx`; Auflösung in `sources/scope-reconciliation.md`.)
 → **Der Task-Status ersetzt den Fahrplan nicht.** Nur die Zeitbuchungen sind belastbar.
