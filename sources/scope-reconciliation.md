@@ -247,21 +247,62 @@ fälschlich um ~3 Wochen verschieben. Offen bleibt allein: **#102 Badumbau
 hat keine Stundenschätzung** – die Task-Liste kennt für den Bad-Umbau
 selbst keine verlässliche Größe.
 
-### Wo die Unsicherheit tatsächlich liegt (±53 h)
+### Auflösung der Zuordnung (28.10.2026, 2. Nachweis)
 
-Die API bucht 182 h auf **WP 159 „Vorbereitungen für Estrich"** – einem
-Wurzel-Block **ohne Gegenstück im Fahrplan**. Diese Stunden müssen per
-Zuordnung auf Abriss / Trockenbau / Boden verteilt werden; die Zuordnung ist
-eine **Urteilsfrage**, keine Ableitung:
+Mit den Task-Namen aller 50 Workpackages lässt sich die Zuordnung der
+182 h auf WP 159 **reproduzierbar** auflösen (nicht mehr nur geschätzt):
 
-| Variante | Trockenbau-Rest | Boden-Rest | Offen gesamt |
+| WP 159 – Kind | h | Einordnung |
+|---|---|---|
+| 58 EG Trockenbau EG Eingang/WC/Türe | 108 | Trockenbau |
+| 131 1.OG Abriss Bad Fließen/Estrich + Heizkörperrohre | 16 | Abriss (Bad) |
+| 161 1.OG Putzrand 20 cm | 15 | Trockenbau |
+| 166 EG – Putz 20 cm | 10 | Trockenbau |
+| 171 EG Trockenbau Treppe | 4 | Trockenbau |
+| 164 1.OG Treppenhaus Trockenbau | 4 | Trockenbau |
+| 177 Einkaufen Material | 3 | Boden |
+| 179 Keller – Heizraum vorbereiten | 3 | Boden |
+| 169 EG WC Leitung Waschbecken verkleiden | 2 | Trockenbau |
+| 168 EG WC altes Abflussrohr entfernen | 2 | Abriss |
+| 159 selbst | 15 | Estrich-Vorbereitung → Boden |
+
+→ **Trockenbau 141 h + 2 h = 143 h** – das ist **exakt** der Wert, der im
+Wiki steht. Die Zuordnung ist damit **bestätigt, nicht geraten**.
+
+### Warum die offenen Stunden zwischen 920 h und 990 h liegen
+
+Offen = Plan − Σ min(Plan_b, gebucht_b). Jede gebuchte Stunde, die auf einen
+**überbuchten** Block fällt, reduziert den Rest **nicht** – sie ist
+verbraucht, ohne Plan abzubauen. Genau das erzeugt die Bandbreite:
+
+| Block | Plan | gebucht (API) | überbucht | wirkt auf den Rest |
+|---|---|---|---|---|
+| Abriss | 288 h | 398,75 h | 40,75 h | nein |
+| Trockenbau | 122 h | 143 h | 21 h | nein |
+| Wärmepumpe + FBH | 86 h | 96,25 h | 10,25 h | nein |
+
+Die **72 h Überbuchung** sind unvermeidbar – Abriss war 110,75 h teurer
+geplant, Trockenbau 21 h, Wärmepumpe 10,25 h. Sie sind in den 990 h bereits
+berücksichtigt.
+
+Zusätzlich hängen **70 h** der „Vorbereitungen für Estrich" am Abriss-Block
+(dort ohne Wirkung auf den Rest). Würden sie stattdessen Wandputz oder Boden
+zugeordnet (beide haben Reserve), sänke der Rest um bis zu 70 h.
+
+→ **Bandbreite der offenen Stunden: ~920 h bis 990 h.** Der dokumentierte Wert
+**990 h ist das konservative Ende** (nicht die optimistische Schätzung).
+Zur Erinnerung: Elektrik-Endmontage 80,5 h und Wasserinstallation 30 h sind
+darin enthalten, der **Bad-Umbau ebenfalls**.
+
+### Auswirkung auf den Fertigtermin
+
+| offene Stunden | 20,3 h/Woche | 25 h/Woche | 30 h/Woche |
 |---|---|---|---|
-| wie im Wiki (Trockenbau 143 h gebucht) | 0 h | 109 h | 990 h |
-| Estrich-Prep stattdessen zum Boden | 83 h | 0 h | 1.043 h |
+| 920 h | ~11.09.2027 | ~28.06.2027 | ~13.05.2027 |
+| **990 h (dokumentiert)** | **25.09.2027** | **23.07.2027** | **07.06.2027** |
 
-→ Die **990 h** ist der dokumentierte Stand, aber mit einer **Bandbreite von
-±53 h** (±2,6 Wochen bei 20,3 h/Woche). Die Gesamtsumme 878,50 h ist davon
-**nicht** betroffen.
+→ Das **WDVS-Fenster (01.03.–31.10.2027) bleibt in beiden Fällen unkritisch**,
+bei der dokumentierten Rate mit 5 Wochen Reserve.
 
 ## Related
 <!-- openclaw:wiki:related:start -->
