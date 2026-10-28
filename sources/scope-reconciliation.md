@@ -196,6 +196,73 @@ beträgt also **+4,0 Wochen**.
 3. **Materialbesorgung/Entsorgung/Logistik** – eigene Blöcke oder in den Gewerken?
 4. **Rate festlegen** – 20,3 h (→ 25.09.2027) oder 30 h (→ 07.06.2027)?
 
+## 4. Verifikation gegen das Primärdokument (28.10.2026)
+
+Der Juni-Fahrplan (`Saninerungsfahrplan.docx`, 31.05.2026, Nextcloud
+`Projekt Haus/`) wurde **am 28.10.2026 im Original ausgelesen** (40.205 Bytes,
+506 Absätze) und die Blocktabelle dagegen geprüft:
+
+| Block | Plan (Wiki) | Plan (Original-Dokument) | Material (Original) |
+|---|---|---|---|
+| Abrissarbeiten | 288 h | „Summe gebucht: 272 h \| Geplant gesamt: ~288 h" | – |
+| Elektrik | 183 h | 183 h | „9.127,45 € / ca. 10.000 €" |
+| Trockenbau | 122 h | ~122 h | ~1.200 € |
+| Wärmepumpe + FBH | 86 h | 86 h | 60.579 € |
+| Bodenbeläge | 162 h | 162 h | 5.000 € |
+| Wandputz | 368 h | ~368 h | 1.064 € |
+| Decken | 140 h | ~140 h | 1.600 € |
+| Türen | 29 h | ~29 h | 2.590 € |
+| Fassade (WDVS) | 235 h | 235 h | 15.000 € |
+| **Summe** | **1.613 h** | **~1.613 h** | **~97.033 €** |
+
+→ Die Blocktabelle in [[sources/sanierungsfahrplan-2026]] ist **faithful**; auch
+die Materialsumme (97.033 €) und der gebuchte Stand (561 h) stehen so im
+Original. Ergänzend verifiziert: **878,50 h gebuchte Arbeitszeit** aus der
+OpenProject-API (227 Einträge, 13.08.2025 – 18.07.2026).
+
+### Der Bad-Umbau 1. OG (62 h) wird NICHT zusätzlich addiert
+
+Die 62 h stammen aus dem **März-Feinplan** (`Zeitplan_Fussbodenheizung.md`,
+03.03.2026): dort ist der Bad-Umbau ein **eigenes Arbeitspaket**
+(38 h ohne Puffer / 42 h mit 10 % Puffer / 62 h mit Risiko-Puffer).
+
+Im Juni-Fahrplan gibt es **keinen Bad-Block** – das Bad kommt dort nur
+**ein einziges Mal** vor, als Zeit-Hinweis im Änderungsabschnitt:
+
+> „Fliesen und Estrich im Bad (zeitlich so spät wie möglich vor der
+> Fußbodenheizung geplant, da wir weiterhin im OG wohnen)"
+
+Die Bad-Arbeiten stecken in den vorhandenen Blöcken:
+
+| Bad-Teil | Task / Block | Rest |
+|---|---|---|
+| Abbauen | #131 (16 h, erledigt), #102 Badumbau → Kind von WP 96 Abriss | 0 h (Abriss überbucht) |
+| Fliesen/Estrich | Bodenbeläge | 109 h |
+| Putz | Wandputz | 264,5 h |
+| Elektrik | #145 Bad Elektrik → Kind von WP 94 Elektrik | in 182,5 h enthalten |
+
+→ **Die 62 h sind bereits in den 990 h enthalten.** Sie **nicht** zusätzlich
+zu addieren – das wäre eine Doppelzählung und würde den Fertigtermin
+fälschlich um ~3 Wochen verschieben. Offen bleibt allein: **#102 Badumbau
+hat keine Stundenschätzung** – die Task-Liste kennt für den Bad-Umbau
+selbst keine verlässliche Größe.
+
+### Wo die Unsicherheit tatsächlich liegt (±53 h)
+
+Die API bucht 182 h auf **WP 159 „Vorbereitungen für Estrich"** – einem
+Wurzel-Block **ohne Gegenstück im Fahrplan**. Diese Stunden müssen per
+Zuordnung auf Abriss / Trockenbau / Boden verteilt werden; die Zuordnung ist
+eine **Urteilsfrage**, keine Ableitung:
+
+| Variante | Trockenbau-Rest | Boden-Rest | Offen gesamt |
+|---|---|---|---|
+| wie im Wiki (Trockenbau 143 h gebucht) | 0 h | 109 h | 990 h |
+| Estrich-Prep stattdessen zum Boden | 83 h | 0 h | 1.043 h |
+
+→ Die **990 h** ist der dokumentierte Stand, aber mit einer **Bandbreite von
+±53 h** (±2,6 Wochen bei 20,3 h/Woche). Die Gesamtsumme 878,50 h ist davon
+**nicht** betroffen.
+
 ## Related
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
