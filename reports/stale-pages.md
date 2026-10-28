@@ -3,14 +3,14 @@ pageType: report
 id: report.stale-pages
 title: Stale Pages
 status: active
-updatedAt: 2026-10-25T17:07:42.124Z
+updatedAt: 2026-10-28T16:13:41.984Z
 ---
 
 # Stale Pages
 
 ## Generated
 <!-- openclaw:wiki:stale-pages:start -->
-- Stale pages: 29
+- Stale pages: 28
 
 - [[sources/0 - Tiefengrund Schlafzimmer und Alex Büro|0 — Tiefengrund in Schlafzimmer und Alex Büro abschließen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/1 - Elektrik Schlafzimmer Heizung entfernen|1 — Elektrik im Schlafzimmer in der Heizungsnische entfernen]]: stale (2026-05-21T10:10:00.000Z)
@@ -37,7 +37,6 @@ updatedAt: 2026-10-25T17:07:42.124Z
 - [[sources/STACK|STACK - Technologie-Stack]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Willkommen|Willkommen]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/Wireguard-VPN-Setup|WireGuard VPN Setup - Firma Puls]]: stale (2026-05-21T10:10:00.000Z)
-- [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]: stale (2026-05-21T10:10:00.000Z)
 - [[sources/zeitplan-gantt-sanierung-kersbach-2026|Zeitplan Gantt Sanierung Kersbach 2026]]: stale (2026-05-31T13:53:08.338Z)
 - [[sources/zeitplan-gantt-sanierung-kersbach2026|Zeitplan Gantt Sanierung Kersbach2026]]: stale (2026-05-31T11:52:25.948Z)
 - [[sources/zeitplan-sanierung-kersbach-2026|Zeitplan Sanierung Kersbach 2026]]: stale (2026-05-31T11:40:51.153Z)

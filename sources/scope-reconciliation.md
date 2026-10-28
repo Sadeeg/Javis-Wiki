@@ -3,7 +3,7 @@ id: source-scope-reconciliation
 pageType: source
 title: Scope-Abgleich Elektrik & Feb-vs-Mai-Plan
 createdAt: 2026-10-22T17:20:00.000Z
-updatedAt: 2026-10-22T17:20:00.000Z
+updatedAt: 2026-10-28T16:30:00.000Z
 sourceIds: []
 tags: [kersbach, elektrik, terminierung, recon, luecke]
 ---
@@ -47,7 +47,13 @@ also nicht die Vorlaufzeit, sondern die Schlussphase.
 ## 1b. Harte Zahlen zur Endmontage (aus EG-Planung-für-KI.ods)
 
 Die Elektrik-Planungs-ODS (9 Raumblätter) wurde ausgewertet – das ist die
-Plangrundlage des 224,1-h-Detailplans:
+Plangrundlage des 224,1-h-Detailplans.
+
+> 📎 **Primärquelle jetzt im Wiki:** `EG-Planung-für-KI.ods` (30.533 Bytes)
+> liegt seit 28.10.2026 unter
+> `_attachments/raw/planung/elektrik/EG-Planung-fuer-KI.ods` und kann damit
+> direkt nachgerechnet werden. Die Tabelle unten ist **am 28.10.2026 gegen die
+> Datei verifiziert** – siehe [[sources/anhang-audit-2026-10-28]].
 
 | Raum | Zuleitungen | Sicherungen | Dosen | Schalter | Steckdosen | Geräte | KNX-Punkte |
 |---|---|---|---|---|---|---|---|
@@ -73,6 +79,50 @@ Plangrundlage des 224,1-h-Detailplans:
 Die Summe-Zellen der 1.-OG-Blätter sind in der ODS leer, die Planzahlen sind dort
 etwas höher. Dosen (134) und Sicherungen (25/24) stimmen exakt. → Plan oder ODS
 ist die ältere Fassung – **klein, aber eine offene Mini-Frage.**
+
+### Verifikation gegen die ODS (28.10.2026) – Ergebnis
+
+Die Tabelle oben wurde aus den 9 Blättern der ODS **neu berechnet**, nicht
+übernommen:
+
+| Blatt | Zuleitungen (ODS) | Zuleitungen (Wiki-Tabelle) | Quelle im Blatt |
+|---|---|---|---|
+| WC | 4 | 4 | Summe-Zeile |
+| Küche | 17 | 17 | Summe-Zeile |
+| Wohnzimmer | 26 | 26 | Summe-Zeile |
+| Treppenhaus + Eingang EG | 10 | 10 | Summe-Zeile |
+| Alex Büro | **8** | 4 | keine Summe-Zeile |
+| Schlafzimmer | **8** | 4 | keine Summe-Zeile |
+| Kinderzimmer | **9** | 4 | keine Summe-Zeile |
+| Bad | **5** | 2 | keine Summe-Zeile |
+| Treppenhaus 1. OG | **8** | 2 | keine Summe-Zeile |
+| **Summe** | **95** | **73** | |
+
+**Ergebnis 1 – die Endmontage-Schätzung ist bestätigt.** Die sechs übrigen
+Spalten (Sicherungen, Dosen, Schalter, Steckdosen, Geräte, KNX) sind **alle 54
+Werte exakt reproduzierbar**. Damit stehen die **348 Endmontage-Positionen**
+(30 + 87 + 136 + 95) auf einer geprüften Grundlage – die ~80 h Endmontage sind
+**nicht geraten**.
+
+**Ergebnis 2 – die Spalte „Zuleitungen" war bei den 1.-OG-Räumen falsch
+übernommen.** In den 4 EG-Blättern steht die „Summe"-Zeile (NYM + CAT7) im
+Blatt, und die Wiki-Zahlen (4/17/26/10) stimmen damit exakt. In den 5
+1.-OG-Blättern ist diese **Summe-Zelle leer** – und die Werte 4/4/4/2/2 der
+Wiki-Tabelle sind durch **keine** konsistente Regel reproduzierbar: nur NYM
+ergäbe 4/4/5/3/6, NYM + CAT7 ergibt 8/8/9/5/8. → **+22 Zuleitungen fehlen**
+(95 statt 73).
+
+**Ergebnis 3 – die offene Mini-Frage ist damit aufgelöst.** Die frühere
+Diskrepanz „ODS 73 vs. Detailplan 91" (18) war ein Artefakt der falschen
+1.-OG-Zahlen. Mit der korrekten ODS-Summe **95** liegt der Detailplan mit 91
+nur noch **4** auseinander → **die ODS ist die neuere und vollständigere
+Fassung**, nicht die ältere.
+
+> ⚠️ **Konsequenz:** Die Spalte „Zuleitungen" dieser Tabelle darf künftig nicht
+> als Summe 73 zitiert werden – korrekt sind **95** (alle 9 Blätter, inkl.
+> CAT7/KNX/Netzwerk). Für die Endmontage-Schätzung ist die Zahl **ohne
+> Bedeutung** (dort zählen nur Schalter, Steckdosen, Geräte und KNX-Punkte).
+> Die 348 Positionen bleiben unverändert gültig.
 
 ## 2. Februar-Plan (788 h, 20 Blöcke) vs. Mai-Fahrplan (1.613 h, 9 Blöcke)
 
@@ -150,6 +200,7 @@ beträgt also **+4,0 Wochen**.
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
+- [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 <!-- openclaw:wiki:related:end -->

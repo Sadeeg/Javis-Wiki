@@ -10,7 +10,7 @@ status: active
 ## Generated
 <!-- openclaw:wiki:lint:start -->
 - Errors: 0
-- Warnings: 29
+- Warnings: 28
 
 ### Warnings
 - `concepts/80-20 Leitfragen Frontend.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
@@ -38,7 +38,6 @@ status: active
 - `sources/STACK.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Willkommen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wireguard-VPN-Setup.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `sources/Wohnflaechenberechnung.pdf.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).
@@ -69,7 +68,6 @@ status: active
 - `sources/STACK.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Willkommen.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/Wireguard-VPN-Setup.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
-- `sources/Wohnflaechenberechnung.pdf.md`: Page freshness needs review (last touched 2026-05-21T10:10:00.000Z).
 - `sources/zeitplan-gantt-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T13:53:08.338Z).
 - `sources/zeitplan-gantt-sanierung-kersbach2026.md`: Page freshness needs review (last touched 2026-05-31T11:52:25.948Z).
 - `sources/zeitplan-sanierung-kersbach-2026.md`: Page freshness needs review (last touched 2026-05-31T11:40:51.153Z).

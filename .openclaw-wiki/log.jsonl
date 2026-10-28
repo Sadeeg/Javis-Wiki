@@ -179,3 +179,5 @@
 {"type":"lint","timestamp":"2026-10-27T17:06:27.415Z","details":{"issueCount":29,"reportPath":"reports/lint.md"}}
 {"type":"lint","timestamp":"2026-10-28T08:05:49.004Z","details":{"issueCount":29,"reportPath":"reports/lint.md"}}
 {"type":"lint","timestamp":"2026-10-28T15:39:52.576Z","details":{"issueCount":29,"reportPath":"reports/lint.md"}}
+{"type":"compile","timestamp":"2026-10-28T16:13:42.176Z","details":{"pageCounts":{"entity":4,"concept":15,"source":70,"synthesis":22,"report":10},"updatedFiles":["sources/anhang-audit-2026-10-28.md","sources/scope-reconciliation.md","sources/wohnflächenberechnung-kersbach.md","syntheses/wohnflaechenberechnung.md","sources/Wohnflaechenberechnung.pdf.md","reports/stale-pages.md",".openclaw-wiki/cache/agent-digest.json","index.md","sources/index.md"]}}
+{"type":"lint","timestamp":"2026-10-28T16:13:54.453Z","details":{"issueCount":28,"reportPath":"reports/lint.md"}}

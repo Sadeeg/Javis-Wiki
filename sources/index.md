@@ -17,6 +17,7 @@ updatedAt: 2026-05-21T10:10:00.000Z
 - [[sources/3 - Holzvertafelung Kellertreppenaufgang entfernen|3 — Holzvertafelung im Kellertreppenaufgang entfernen]]
 - [[sources/97 Things Every Software Architect Should Know auf Deutsch|7. Steh auf!]]
 - [[sources/97 Things Every Software Architect Should Know - The Book|97 Things Every Software Architect Should Know   The Book]]
+- [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
 - [[sources/helfer-aufgaben-21-03-2026|Aufgaben für Helfer - 21.03.2026]]
 - [[sources/Aufgaben für Wolgang|Aufgaben Für Wolgang]]
 - [[sources/Aufgaben-Karteikarten|Aufgaben Kersbach Baustelle]]

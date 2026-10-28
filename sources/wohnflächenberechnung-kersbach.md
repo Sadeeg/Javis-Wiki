@@ -113,5 +113,7 @@ Brutto: 50,87 m² | Abzug 3% Putz: -1,53 m² | **Netto: 49,34 m²**
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
+- [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
 - [[syntheses/wohnflaechenberechnung|Wohnflächenberechnung – Kersbach]]
+- [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]
 <!-- openclaw:wiki:related:end -->
