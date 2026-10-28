@@ -9,7 +9,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: **26.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
+> Stand: **27.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
 > Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), Fotodokumentation 26.09.2026
 
 ## Die Zahlen
