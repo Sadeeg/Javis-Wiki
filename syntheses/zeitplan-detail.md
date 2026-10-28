@@ -100,5 +100,6 @@ Original: `Javis/Zeitplan_Detailaufschluesselung.md` (03. März 2026)
 ### Referenced By
 
 - [[sources/fussbodenheizung|Fussbodenheizung]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

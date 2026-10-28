@@ -63,5 +63,6 @@ Original: `Projekt Haus/Planung/Elektrik/1OG-Haus.drawio`
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/obergeschoss-kersbach|Obergeschoss – Kersbach]]
 <!-- openclaw:wiki:related:end -->

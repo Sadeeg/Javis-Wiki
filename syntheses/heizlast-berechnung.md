@@ -101,5 +101,6 @@ Hinweis: Dies ist Teil 1 von ?. Weitere Seiten (Raumweise Aufschlüsselung) kön
 ### Referenced By
 
 - [[concepts/Fussbodenheizung-nachruesten|Fußbodenheizung nachrüsten – Systeme & Kosten]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[concepts/Waermepumpe-im-Altbau|Wärmepumpe im Altbau – Planung & Umsetzung]]
 <!-- openclaw:wiki:related:end -->

@@ -54,4 +54,8 @@ Original: `Projekt Haus/Planung/Elektrik/DG.drawio`
 ### Sources
 
 - [[sources/elektrik-dg-dachgeschoss-leitungsplan|Elektrik DG (Dachgeschoss) – Leitungsplan]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

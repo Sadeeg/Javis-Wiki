@@ -22,9 +22,9 @@ sourceIds: [source.bau-wiki-obsidian-vault]
 ### Referenced By
 
 - [[sources/bau-wiki-obsidian-vault|bau-wiki – Rohmaterial-Wissensbasis (Obsidian-Vault Baustelle)]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 
 ### Related Pages
 
 - [[concepts/baustelle-prinzipien|Baustelle Prinzipien]]
-- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

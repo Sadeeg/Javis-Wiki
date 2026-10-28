@@ -378,4 +378,8 @@ Der HR Manager entscheidet:
 ### Sources
 
 - [[sources/ai-agent-company-hr-system|Konzept: AI Agent Company / Agent HR System]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

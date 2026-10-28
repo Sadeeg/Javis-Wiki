@@ -74,4 +74,5 @@ Original: `Projekt Haus/Planung/Elektrik/EG-Planung-Detail.pdf`
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]
 - [[sources/fussbodenheizung|Fussbodenheizung]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

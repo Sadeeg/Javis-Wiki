@@ -65,4 +65,8 @@ Original: `Projekt Haus/Planung/Elektrik/EG-Haus-leitungen.drawio`
 ### Sources
 
 - [[sources/elektrik-eg-leitungen|elektrik EG leitungen]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

@@ -105,6 +105,7 @@ Brutto: 50,87 m² | Abzug 3% Putz: -1,53 m² | **Netto: 49,34 m²**
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/obergeschoss-kersbach|Obergeschoss – Kersbach]]
 - [[sources/Wohnflaechenberechnung.pdf|Wohnflaechenberechnung.Pdf]]
 

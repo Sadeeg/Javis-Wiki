@@ -110,6 +110,7 @@ Ein Wärmedämmverbundsystem (WDVS) besteht aus (von innen nach außen):
 ### Referenced By
 
 - [[concepts/Fassade-Material-Vergleich|Fassade — Material Vergleich]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
 - [[concepts/VHF-Fassade|VHF-Fassade]]
 - [[concepts/VHF-Übersicht|Vorgehängte Hinterlüftete Fassade (VHF) — Übersicht]]

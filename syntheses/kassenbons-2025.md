@@ -60,4 +60,8 @@ Hinweis: Viele weitere Kassenbons vermutlich in `Finanzen/Rechnungen/` noch nich
 ### Sources
 
 - [[sources/kassenbons-übersicht|Kassenbons – Übersicht]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

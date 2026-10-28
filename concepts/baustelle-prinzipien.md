@@ -20,10 +20,10 @@ sourceIds: [source.bau-wiki-obsidian-vault]
 ### Referenced By
 
 - [[sources/bau-wiki-obsidian-vault|bau-wiki – Rohmaterial-Wissensbasis (Obsidian-Vault Baustelle)]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 
 ### Related Pages
 
 - [[entities/baustelle-kersbach|Baustelle Kersbach]]
-- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

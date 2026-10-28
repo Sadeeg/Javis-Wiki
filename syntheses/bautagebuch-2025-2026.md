@@ -86,5 +86,6 @@ Dokumentation aller Eigenleistungen seit August 2025. Enthält Arbeitszeiten, He
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

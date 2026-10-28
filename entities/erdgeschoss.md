@@ -27,4 +27,8 @@ sourceIds: [source.erdgeschoss]
 ### Sources
 
 - [[sources/erdgeschoss|Erdgeschoss]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

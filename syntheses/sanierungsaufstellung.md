@@ -132,5 +132,6 @@ Dokument mit geplanten Eigenleistungen und Materialkosten für die Hausrenovieru
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/keller-kersbach|Keller – Kersbach]]
 <!-- openclaw:wiki:related:end -->

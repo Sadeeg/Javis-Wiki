@@ -26,4 +26,8 @@ sourceIds: [source.keller-kersbach]
 ### Sources
 
 - [[sources/keller-kersbach|Keller – Kersbach]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

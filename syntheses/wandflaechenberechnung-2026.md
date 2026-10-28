@@ -71,6 +71,7 @@ Siehe auch: `summaries/wohnflaechenberechnung.md` (Wohnflächenberechnung vom Gu
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/lehmputz|Lehmputz]]
 - [[sources/wandflächen-berechnung-lehmputz|Wandflächen-Berechnung – Lehmputz]]
 <!-- openclaw:wiki:related:end -->

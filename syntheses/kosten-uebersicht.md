@@ -69,4 +69,8 @@ Original: `Projekt Haus/Finanzen/Kosten.xlsx`
 ### Sources
 
 - [[sources/kostenübersicht-werkzeug-verbrauchsmaterial|Kostenübersicht – Werkzeug & Verbrauchsmaterial]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

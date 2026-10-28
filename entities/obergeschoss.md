@@ -27,4 +27,8 @@ sourceIds: [source.obergeschoss-kersbach]
 ### Sources
 
 - [[sources/obergeschoss-kersbach|Obergeschoss – Kersbach]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

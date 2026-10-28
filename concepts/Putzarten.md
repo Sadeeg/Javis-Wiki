@@ -123,6 +123,7 @@ Stand 25.10.2026 · Quelle Projektstatus: [[syntheses/kersbach-status]]
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
 
 ### Related Pages

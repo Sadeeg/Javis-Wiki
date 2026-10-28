@@ -55,4 +55,8 @@ sourceIds: [source.energieausweis-kersbach]
 ### Sources
 
 - [[sources/energieausweis-kersbach|Energieausweis – Kersbach]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

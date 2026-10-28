@@ -92,5 +92,6 @@ Original: `Projekt Haus/howto/Trockenbau.md`
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/lehmputz|Lehmputz]]
 <!-- openclaw:wiki:related:end -->

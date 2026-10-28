@@ -121,6 +121,7 @@ Brutto 50,87 m² − 3 % Putz (−1,53 m²) = **49,34 m²**
 ### Referenced By
 
 - [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 
 ### Related Pages
 

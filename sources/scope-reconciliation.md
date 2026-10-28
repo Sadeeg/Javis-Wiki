@@ -201,6 +201,7 @@ beträgt also **+4,0 Wochen**.
 ### Referenced By
 
 - [[sources/anhang-audit-2026-10-28|Anhang-Audit Wiki-Vault (28.10.2026)]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[syntheses/kersbach-status|Kersbach Baustelle – Aktueller Stand]]
 - [[sources/openproject-taskbilanz|OpenProject Task-Bilanz (alle Work Packages)]]
 <!-- openclaw:wiki:related:end -->

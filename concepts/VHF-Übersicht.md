@@ -33,6 +33,10 @@ sourceIds: [selbst-de]
 
 - [[sources/selbst-de|selbst.de – Heimwerker-Magazin (WDVS, Asbest, Fassade, Lehmputz)]]
 
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
+
 ### Related Pages
 
 - [[concepts/Elektro-Grundwissen|Elektro-Installation – Grundwissen für Heimwerker]]

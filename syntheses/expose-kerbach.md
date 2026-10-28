@@ -51,4 +51,8 @@ Projektstatus: [[syntheses/kersbach-status]]
 ### Sources
 
 - [[sources/immobilien-exposé-kersbach|Immobilien-Exposé – Kersbach]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

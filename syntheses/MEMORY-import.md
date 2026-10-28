@@ -44,4 +44,8 @@ sourceIds: [heartbeat]
 ### Sources
 
 - [[sources/HEARTBEAT|HEARTBEAT.md – OpenClaw Cron Jobs für Second Brain]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

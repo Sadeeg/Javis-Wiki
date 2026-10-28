@@ -149,5 +149,6 @@ Deshalb lohnt es sich durchaus, den Heizungsbauer zu fragen, warum er nicht die 
 
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/zeitplanung|Zeitplanung]]
 <!-- openclaw:wiki:related:end -->

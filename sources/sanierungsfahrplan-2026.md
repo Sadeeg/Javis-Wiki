@@ -84,5 +84,6 @@ Dachdämmung 110 h / 4.000 € · Kellerdämmung 35 h / 1.800 € · Solaranlage
 <!-- openclaw:wiki:related:start -->
 ### Referenced By
 
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/scope-reconciliation|Scope-Abgleich Elektrik & Feb-vs-Mai-Plan]]
 <!-- openclaw:wiki:related:end -->

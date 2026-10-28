@@ -42,4 +42,5 @@ tags: [workflow, entscheidungen, sascha, baustelle, software]
 
 - [[concepts/80-20 Leitfragen|80/20 Leitfragen für Planung & Entscheidungen]]
 - [[concepts/80-20 Leitfragen Frontend|80/20 Leitfragen für Software (Frontend)]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

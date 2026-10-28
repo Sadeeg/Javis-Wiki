@@ -84,4 +84,8 @@ Original: `Projekt Haus/Stunden für BGBau/timesheet-2026-03-09-*.pdf`
 ### Sources
 
 - [[sources/timesheet-bgbau-stundenzettel-openproject|Timesheet BGBau – Stundenzettel OpenProject]]
+
+### Referenced By
+
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 <!-- openclaw:wiki:related:end -->

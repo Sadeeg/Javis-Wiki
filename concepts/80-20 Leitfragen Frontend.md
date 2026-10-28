@@ -152,6 +152,7 @@ Task: ________________
 ### Referenced By
 
 - [[sources/80-20-leitfragen-sascha|80/20-Leitfragen – Saschas eigene Notizen]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 
 ### Related Pages
 

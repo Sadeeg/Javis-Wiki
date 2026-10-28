@@ -80,6 +80,7 @@ Der Grundriss ist ein **Tekturplan von 1971** für ein zweigeschossiges Doppelha
 ### Referenced By
 
 - [[sources/erdgeschoss|Erdgeschoss]]
+- [[syntheses/baustelle-wiki-index|Index – Kersbach Baustelle Wiki]]
 - [[sources/keller-kersbach|Keller – Kersbach]]
 - [[sources/obergeschoss-kersbach|Obergeschoss – Kersbach]]
 <!-- openclaw:wiki:related:end -->
