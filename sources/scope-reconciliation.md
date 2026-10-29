@@ -422,6 +422,47 @@ ist thematisch **Abriss** (Altputz entfernen), wird aber unter WP 101/98
 Rest. Physikalisch korrekt ist die Abriss-Zuordnung – der Bandbreiten-Effekt
 von 43 h bleibt in der Spanne enthalten.
 
+### Bezifferung der gestrichenen Positionen (was sie kosten würden)
+
+Der Originalplan 2025 beziffert beide gestrichenen Dämmpositionen
+(`bau-wiki/wiki/summaries/sanierungsaufstellung.md`):
+
+**Dachdämmung 78 m² (Mineralwolle), Eigenleistung 110 h, Material ~4.000 €**
+
+| Arbeitsschritt | h | Status heute |
+|---|---|---|
+| Alte Dämmung entfernen | 20 | ✅ **erledigt** (Abriss) |
+| Dämmung verpacken & entsorgen | 15 | ✅ **erledigt** (Abriss) |
+| Neue Dämmung zuschneiden & einbauen | 30 | ⬜ offen |
+| Dampfbremse luftdicht anbringen | 15 | ⬜ offen |
+| Konterlattung montieren | 10 | ⬜ offen |
+| Gipsplatten montieren & spachteln | 20 | ⬜ offen |
+| **Summe** | **110 h** | **~75 h offen** |
+
+→ Die Abriss-Arbeiten sind bereits gebucht: OpenProject **WP 67 „20 –
+Holzdecken entfernen (50 m²)" 44 h (Closed)** unter dem Abriss-Block. Der
+Abriss-Anteil der Dachdämmung ist damit **erledigt** – es fehlen die
+**~75 h** Aufbau (Dämmung, Dampfbremse, Konterlattung, Gipsplatten).
+
+**Kellerdämmung 50 m², 35 h, Material ~1.800 €** – ⚠️ **nicht identisch** mit
+Ausweis-Nr. 3: Der Ausweis fordert die Dämmung des **auskragenden Geschosses
+gegen Außenluft im beheizten Wintergarten**, der Originalplan nennt
+Kellerdämmung (50 m²). Überschneidung ist möglich, aber nicht belegt →
+als **getrennte Position** behandeln.
+
+**Falls Sascha beide Positionen wieder aufnimmt:**
+
+| | vorher | nach Aufnahme |
+|---|---|---|
+| offene Eigenleistung | ~990 h | **~1.100 h** (+110 h) |
+| Materialbudget | 97.033 € | **~102.800 €** (+5.800 €) |
+| fertig bei 20,3 h/Woche | 25.09.2027 | ~09.10.2027 |
+| **WDVS-Fenster (bis 31.10.2027)** | ✅ 5 Wochen Reserve | ✅ **3 Wochen Reserve** |
+
+→ **Selbst mit beiden gestrichenen Positionen bleibt das WDVS-Fenster 2027
+halten** – die Entscheidung ist also nicht terminkritisch, sondern
+finanz- und komfortrelevant (Heizlast, Wohnqualität, Förderfähigkeit).
+
 ### Auswirkung auf den Fertigtermin
 
 | offene Stunden | 20,3 h/Woche | 25 h/Woche | 30 h/Woche |
