@@ -59,6 +59,33 @@ Arbeitszeit unterstellt: **2 Personen × 15 h/Woche**.
 > Geplant war ein **Einzug ins 1. OG im November/Dezember 2025**. Tatsächlich ist
 > das Projekt am 22.10.2026 bei 878,50 h erfasster Eigenleistung und 990 h offen.
 
+## Was in der Neufassung **weggefallen** ist (und 2026 wieder relevant wird)
+
+Der Originalplan 2025 enthielt drei Positionen, die in der Neufassung
+(1.613 h) **nicht mehr vorkommen** – bei genau zwei davon ist das inzwischen
+ein Problem:
+
+| Position im Originalplan 2025 | Stunden | Status 2026 |
+|---|---|---|
+| **Dachdämmung** | 110 h | ❌ gestrichen – **der Energieausweis fordert sie wieder** (oberste Geschossdecke = empfohlene Einzelmaßnahme) |
+| **Kellerdämmung** | 35 h | ❌ gestrichen – der Ausweis empfiehlt die Dämmung der Keller-Außenwand am Wintergarten |
+| **Photovoltaik** | 45 h | ❌ gestrichen – **bewusste Entscheidung?** (nicht im/wiki kommentiert) |
+| Rollputz 400 m² | 85 h | → ersetzt durch Lehmputz 190 m² / 284 h |
+| Deckenheizung EG + 1. OG | 88 m² | → ersetzt durch Fußbodenheizung |
+| Innendämmung (Dach 110 h, Keller 35 h) | | → ersetzt durch WDVS 153 m² / 235 h |
+
+→ Die beiden gestrichenen **Dämmpositionen** sind genau die, die der
+**Energieausweis** als empfohlene Maßnahmen nennt. Das ist kein Zufall,
+sondern derselbe Sanierungsgriff: Die Fassade wurde priorisiert, die
+restliche Hülle nicht. **Dachdämmung ist damit keine neue Idee, sondern ein
+bewusst (oder versehentlich) gestrichener Position** – sie gehört als
+**Entscheidung** zurück auf den Tisch, zusammen mit der Frage, ob 110 h
+(Originalplan) oder ein niedrigerer Wert realistisch sind.
+
+**Zusätzlich vom Energieausweis gefordert, aber nie im Plan:**
+**Lüftung** („nach größeren Sanierungsvorhaben sind lüftungstechnische
+Maßnahmen notwendig und zu empfehlen") – in **keiner** Planfassung enthalten.
+
 ## Warum das wichtig ist
 
 - Die **alten Wiki-Zahlen** (410 h Eigenleistung, „Rollputz 660 €", „Fassade
