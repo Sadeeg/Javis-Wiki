@@ -60,13 +60,24 @@ tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 
 ## Für Kersbach: Heizlast 10,68 kW
 
-> Aus dem Wiki: Heizlastberechnung = **10,68 kW**
+> Heizlastberechnung (Energieberater, 26.08.2025, EVEBI, DIN EN 12831-1):
+> **10,68 kW** – ⚠️ **bedingt**, siehe [[syntheses/heizlast-berechnung]].
 
 **Was bedeutet das für die Wärmepumpe?**
 
-- WP muss mindestens **10,68 kW** Heizleistung lieben können (bei Norm-Außentemperatur)
+- WP muss mindestens **10,68 kW** Heizleistung liefern können (bei Norm-Außentemperatur)
 - Übliche WP für Altbau: **10–12 kW** Erd- oder Luft-Wärmepumpe
 - Mit guter Dämmung (WDVS 16–20cm) kann die Heizlast **sinken** → kleinere WP möglich
+
+> ⚠️ **Korrektur 28.10.2026:** Die 10,68 kW gelten **nur** für „komplett
+> saniert, alles beheizt" und setzen ein **GEDÄMMTES Dach** (U 0,2) voraus.
+> Das Dach ist **nicht gedämmt** (Energieausweis: oberste Geschossdecke =
+> empfohlene Maßnahme) und **nicht im Sanierungsfahrplan**. Der Berater rechnet
+> selbst: ohne Fassade + Dachdämmung **12–13 kW** (kalt DG/KG) bis **15,5 kW**
+> (alles beheizt) und empfiehlt **mindestens 15 kW**.
+> → Die 10–12 kW oben sind der **optimistische** Fall; die belastbare
+> Untergrenze ist **15 kW**. Da die WP+FBH bereits mit **60.205 €** vergeben
+> sind, ist die **Anlagengröße die offene Frage** (Angebot prüfen).
 
 ---
 
@@ -94,7 +105,9 @@ tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 
 1. ✅ **Fassadendämmung** (WDVS) – senkt Heizlast → kleinere WP
 2. ✅ **Kellerdecke dämmen** – verhindert Wärmeverlust nach unten
-3. ✅ **Dachdämmung prüfen** – ggf. verbessern
+3. ⚠️ **Dachdämmung** – im Energieausweis als empfohlene Maßnahme geführt,
+   **im Fahrplan nicht enthalten**; bestimmt die Heizlast maßgeblich
+   (mit Dämmung 10,68 kW, ohne 12–15,5 kW)
 4. 🔲 **Heizkörper prüfen** – zu klein? Austausch planen
 5. 🔲 **Hydraulischer Abgleich** – nach WP-Einbau
 6. 🔲 **WP dimensionieren** – mit gesunkener Heizlast neu berechnen
@@ -112,7 +125,8 @@ tags: [waermepumpe, heizung, altbau, heizkoerper, vorlauftemperatur]
 Die Wärmepumpe ist im Projekt **entschieden und vergeben** – dieser Artikel ist
 Hintergrund, keine offene Planung:
 
-- **Heizlast 10,68 kW** → Grundlage der WP-Dimensionierung
+- **Heizlast 10,68 kW** → Grundlage der WP-Dimensionierung – ⚠️ **bedingt**
+  (Dachdämmung fehlt im Plan, Berater empfiehlt **≥ 15 kW**)
 - **Heizsystem: Fußbodenheizung** (nicht Heizkörper) → niedrige
   Vorlauftemperatur, ideal für die WP – genau der Fall aus der Tabelle oben
 - **WP + FBH als Fremdfirma: 60.205 €** · Block gebucht und **fertig (96,25 h)** ✅
