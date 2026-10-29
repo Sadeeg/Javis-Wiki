@@ -190,3 +190,4 @@
 {"type":"lint","timestamp":"2026-10-28T23:06:03.239Z","details":{"issueCount":26,"reportPath":"reports/lint.md"}}
 {"type":"compile","timestamp":"2026-10-28T23:37:39.891Z","details":{"pageCounts":{"entity":4,"concept":15,"source":71,"synthesis":22,"report":10},"updatedFiles":["syntheses/heizlast-berechnung.md","sources/scope-reconciliation.md"]}}
 {"type":"lint","timestamp":"2026-10-28T23:37:51.943Z","details":{"issueCount":26,"reportPath":"reports/lint.md"}}
+{"type":"lint","timestamp":"2026-10-29T03:06:05.135Z","details":{"issueCount":26,"reportPath":"reports/lint.md"}}
