@@ -380,6 +380,48 @@ als Fremdfirma-Angebot über **60.205 €** im Budget steht, ist die
 > `concepts/Waermepumpe-im-Altbau.md` empfiehlt „10–12 kW" und übernimmt damit
 > die **kleinste** der drei Varianten, nicht die Empfehlung des Beraters.
 
+### Die Bandbreite hat eine Ursache: zwei Planfassungen (1.536 h vs. 1.613 h)
+
+In Nextcloud liegen **zwei** Fassungen des Fahrplans:
+
+| Quelle | Datum | Gesamt | Abriss | Elektrik | Trockenbau | WP | Boden | **Wandputz** | Decke | Türen | WDVS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| `Javis/Sanierungsaufstellung/Sanierungsfahrplan-Bank-komplett.md` | 25.05.2026 | **1.536 h** | 272 | 183 | 142 | 84 | 175 | **284** | 140 | 21 | 235 |
+| `Saninerungsfahrplan.docx` (Original, Nextcloud `Projekt Haus/`) | 31.05.2026 | **1.613 h** | 288 | 183 | 122 | 86 | 162 | **368** | 140 | 29 | 235 |
+| **Delta** | | **+77 h** | +16 | 0 | −20 | +2 | −13 | **+84** | 0 | +8 | 0 |
+
+Die **+84 h im Wandputz** der docx-Fassung sind die **„Vorbereitung
+(Abschleifen)"** – die Bank-Fassung führt beim Wandputz nur die Auftragszeit
+(228 + 56 = 284 h). Umgekehrt hat die docx-Fassung beim Boden das
+„Anschleifen" gestrichen (25 → 12 h Grundieren) und Trockenbau um 20 h
+reduziert.
+
+**Das docx ist die neuere Fassung (31.05. > 25.05.) und damit die gültige
+Planungsgrundlage** ✅ – MEMORY trifft mit „1.613 h, docx ist autoritativ"
+insgesamt richtig.
+
+**Und hier schließt sich der Kreis:** Die 84 h Vorbereitung sind in
+OpenProject **bereits gebucht** (WP 101 „Wandputz" → WP 98
+„Wandvorbereitung": 43 Gipsputz EG entfernen · 27 Alex Büro · 18 Schlafzimmer ·
+15 Kaminzimmer · 13 + 5,5 Tiefengrund = **121,5 h**). Also:
+
+| Planfassung | offene Stunden (inkl. 30 h Wasser, 80,5 h Endmontage) |
+|---|---|
+| Bank-Fassung (1.536 h, ohne Vorbereitung) | ~913 h |
+| docx-Fassung (1.613 h, mit Vorbereitung) | **~990 h** (dokumentiert) |
+| dazwischen: Zurechnung der 43 h „Gipsputz entfernen" | ±43 h |
+
+→ Die Bandbreite **~913–990 h** ist damit **kein Rechenfehler, sondern die
+Spanne zwischen zwei Planfassungen** – und der dokumentierte Wert **990 h
+bleibt das konservative Ende** ✅.
+
+**Kleine Rest-Unschärfe (43 h):** „115 – Wände Gipsputz EG entfernen" (43 h)
+ist thematisch **Abriss** (Altputz entfernen), wird aber unter WP 101/98
+(Wandputz) verbucht. Zählt man es zum Abriss-Block (dort ohnehin
+überbucht) geht 43 h verloren, zählt man es zum Wandputz-Block, sinkt der
+Rest. Physikalisch korrekt ist die Abriss-Zuordnung – der Bandbreiten-Effekt
+von 43 h bleibt in der Spanne enthalten.
+
 ### Auswirkung auf den Fertigtermin
 
 | offene Stunden | 20,3 h/Woche | 25 h/Woche | 30 h/Woche |
