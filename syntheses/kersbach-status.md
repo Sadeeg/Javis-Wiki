@@ -9,8 +9,13 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 
 # Kersbach Baustelle – Aktueller Stand
 
-> Stand: **27.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
-> Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), Fotodokumentation 26.09.2026
+> Stand: **29.10.2026** | Quellen: OpenProject API, Nextcloud `Projekt Haus/`,
+> Saschas eigener `Sanierungsfahrplan.docx` (autoritativ), **offizieller
+> Energieausweis** (Reg.-Nr. BY-2024-004908552, GEG 2022), Heizlastberechnung
+> (EVEBI, 26.08.2025), Fotodokumentation 26.09.2026
+>
+> **Baujahr 1971** (Energieausweis + Exposé) – nicht 1973. Energieklasse **H**,
+> Endenergiebedarf **303 kWh/(m²·a)**, EEW 1,46 W/(m²K).
 
 ## Die Zahlen
 
@@ -26,6 +31,7 @@ sourceIds: [openproject-api, source.wasserinstallation-material-2026-10]
 | **Eigenleistungswert** | **64.520 €** (1.613 h × 40 €/h), davon **39.600 € offen** (990 h × 40 €/h) |
 | Gesamtbedarf | ~161.553 € · Finanzierung 260.000 € + 84.500 € Kredit |
 | Letzte Buchung | 18.07.2026 (KW29/2026, 15,0 h) – seither **14 Wochen 0h** |
+| Heizlast (Bedingung!) | **10,68 kW** – ⚠️ nur für „komplett saniert, alles beheizt" und **mit gedämmtem Dach**; Berater empfiehlt **≥ 15 kW** |
 
 ## Blöcke
 
@@ -184,6 +190,11 @@ eine **Zwei-Personen**-Rate.
 4. **Lüftung** – Anlage (6.000–10.000 €) oder Stoßlüften?
 5. **Dach- + Kellerdämmung** (190 h / 13.000 €) – mit in die WDVS-Runde 2027?
 6. **Heizlast-Original** (EVEBI, 26.08.2025) anfordern – einzige Lücke in der Belegkette
+7. **WP-Anlagengröße prüfen** ⚠️ – das Angebot über 60.205 € ist **nirgends
+   auffindbar** (kein Attachment in OpenProject, keine Datei in Nextcloud) und
+   nennt **weder Modell noch kW**. Gegen die Empfehlung **≥ 15 kW** des
+   Energieberaters halten → Angebot beim Heizungsbauer anfordern, **nicht
+   schätzen**.
 
 ## Primärquellen im Wiki (importiert 22.10.2026)
 
@@ -203,7 +214,13 @@ Einkaufsliste (31 FI/LS-Sicherungen, 60 Steckdosen, 7 KNX-Raumtemperaturregler,
 
 ## Lücken in der Belegkette
 
-- **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI)
+- **Heizlast-Deeg.pdf** – Original nicht auffindbar (nur Wiki-Auszug: 10,68 kW, EVEBI).
+  ⚠️ Die 10,68 kW sind **bedingt** (gedämmtes Dach vorausgesetzt) – der
+  Energieberater rechnet selbst **12–13 kW** (ohne Dämmung, kalt DG/KG) bis
+  **15,5 kW** (alles beheizt) und empfiehlt **mindestens 15 kW**.
+  → [[sources/scope-reconciliation|Scope-Abgleich]]
+- **WP-Angebot (60.205 €)** – weder Angebots-PDF noch Modell/kW auffindbar
+  → Anlagengröße ist die offene Frage zur WP-Dimensionierung.
 - ~~78 Bautagebuch-Fotos fehlen~~ → **ERLEDIGT 22.10.2026:** liegen vollständig in
   `Projekt Haus/Baustellentagebuch/img/` (114 Dateien, 79/79 Buch-Referenzen auflösbar).
 - **Rechnungen** teilweise belegt – **13 Belege ausgewertet: 1.664,29 €**
@@ -227,9 +244,16 @@ Einkaufsliste (31 FI/LS-Sicherungen, 60 Steckdosen, 7 KNX-Raumtemperaturregler,
 
 | Maßnahme | Status | Begründung |
 |----------|--------|------------|
-| Dachdämmung (110 h / 4.000 €) | ⏸ verschoben | in einem Zug mit dem Dach |
-| Kellerdämmung (35 h / 1.800 €) | ⏸ verschoben | gehört zur WDVS-Runde 2027 |
-| Solaranlage (45 h / 7.200 €) | ⏸ verschoben | zusammen mit Dach |
+| Dachdämmung (78 m², 110 h / ~4.000 €) | ⏸ verschoben – **vom Energieausweis offiziell empfohlen** | in einem Zug mit dem Dach; **35 h Abriss sind bereits gebucht** (WP 67) → **~75 h offen** |
+| Kellerdämmung (50 m², 35 h / ~1.800 €) | ⏸ verschoben – **vom Energieausweis empfohlen** (Nr. 3: Wintergarten-Außenwand) | gehört zur WDVS-Runde 2027; ⚠️ nicht identisch mit Ausweis-Nr. 3 |
+| Lüftung | 🔴 **nie geplant** | Ausweis: „nach größeren Sanierungsvorhaben sind lüftungstechnische Maßnahmen notwendig" |
+| Solaranlage (45 h / 7.200 €) | ⏸ verschoben | zusammen mit Dach – ⚠️ **ohne Notiz gestrichen: war das bewusst?** |
+
+→ **Dach und Keller sind keine neuen Ideen, sondern gestrichene Positionen des
+Originalplans 2025**, die der Energieausweis wieder fordert. Beziffert:
+Aufnahme beider → offen ~1.100 h, Material ~102.800 €, fertig ~09.10.2027 →
+**das WDVS-Fenster 2027 hält trotzdem** (3 Wochen Reserve) → die Entscheidung
+ist finanz-/komfortrelevant, nicht terminkritisch.
 | Wärmepumpe | ✅ fertig | Angebot 60.205,04 € + 374,21 € Eigenleistung |
 
 **Fokus:** WDVS 2027 → Elektrik → Innenausbau (Lehmputz, Böden)
